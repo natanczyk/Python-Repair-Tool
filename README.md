@@ -58,32 +58,26 @@ huggingface-cli login
 
 ## Dataset setup
 
-**Refactory** (`Data/`) ships as-is in this repo -- no build step.
+**Refactory** (`Data/`) 
 
-**Bench** (`Data_Bench/`): built from the DebugBench HuggingFace dataset
-(requires internet access):
+**Bench** (`Data_Bench/`)
 
-```bash
-python data_tools/build_bench_dataset.py
-```
+**QuixBugs** (`Data_QuixBugs/`)
 
-**QuixBugs** (`Data_QuixBugs/`): requires the upstream QuixBugs repo cloned
-alongside this project first (it's gitignored here since it carries its own
-`.git`):
 
-```bash
-git clone https://github.com/jkoppel/QuixBugs.git QuixBugs
-python data_tools/prepare_quixbugs_data.py
-```
 
 ## Running experiments
+
+**If You want to use the model please try to write script based on "run_faulty_lines_finder_FOR_YOU_example.sh". Edit run_repair_FOR_YOU.py (for code repairing), faulty_lines_finder_FOR_YOU.py (for fault localization) according to your needs. I personally used faulty_lines_finder.py for loc research and run_repair.py for repair research. BELOW YOU CAN FIND THE WAY I RUN MODELS IN MY ENVIRONMENT. **
 
 Each dataset has matching entry-point scripts at the repo root. All accept
 a model key from: `qwen`, `qwen3_27b`, `qwen3_coder`, `gemma4`, `granite4`,
 `codegemma`, `granite_code`, `codellama`.
 
 **Localization** (produces `fauxpy_localization.jsonl` and
-`llm_<model>_*.jsonl` under `results_v2/`):
+`llm_<model>_*.jsonl`):
+
+
 
 ```bash
 bash run_refactory_loc.sh <model>       # or run_quixbugs_loc.sh / run_bench_loc.sh

@@ -41,4 +41,7 @@ print("=== answer === \n")
 
 
 response = llm.generate(prompt)
-response = _extract_cod
+response = _extract_code(response)
+
+
+print(response)
