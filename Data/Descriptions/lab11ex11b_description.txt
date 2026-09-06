@@ -1,0 +1,16 @@
+Using the fixedPoint combinator and defining an appropriate pure function (without loops, variable manipulation, or explicit recursion), write the function lab11ex11b that returns the list of integers obtained by filtering the even numbers from a list of integers w.
+
+def fixedPoint(f, x):
+    while x != f(x):
+        x = f(x)
+    return x
+
+The state tuple approach: use a pair (remaining_list, result_list) as the state.
+
+For example:
+
+lab11ex11b([1, 2, 3, 4, 5])
+[2, 4]
+
+lab11ex11b([])
+[]

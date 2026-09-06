@@ -1,0 +1,11 @@
+Write the function lab9ex3c that receives a deck of cards (a list of 52 card dictionaries) and an integer n representing the number of players, and returns a list of n hands (sublists) where the cards are dealt equally to each player.
+
+If 52 is not evenly divisible by n, each player receives floor(52 / n) cards and any remaining cards are left undealt.
+
+Each card is a dictionary with keys 'np' (suit) and 'vlr' (value). No card should appear in more than one hand.
+
+For example:
+
+lab9ex3c(lab9ex3a(), 4)  # returns list of 4 hands, each with 13 cards
+lab9ex3c(lab9ex3a(), 2)  # returns list of 2 hands, each with 26 cards
+lab9ex3c(lab9ex3a(), 5)  # returns list of 5 hands, each with 10 cards (52 remaining undealt)

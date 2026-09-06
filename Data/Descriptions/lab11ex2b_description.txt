@@ -1,0 +1,14 @@
+Write the function lab11ex2b that computes the factorial of a non-negative integer n using the higher-order function lab11ex2a defined in exercise 2a.
+
+The function must use lab11ex2a with appropriate arguments.
+
+For example:
+
+lab11ex2b(5)
+120
+
+lab11ex2b(0)
+1
+
+lab11ex2b(10)
+3628800

@@ -1,0 +1,14 @@
+Write the function lab8ex7 that receives:
+- a matrix of dimension m×n
+- a matrix of dimension n×r
+
+and returns a matrix corresponding to the product of the two matrices.
+
+If A and B are the matrices being multiplied, the elements of the resulting matrix are:
+
+pij = sum over k of (Aik * Bkj)
+
+For example:
+
+lab8ex7([[1, 2], [3, 4]], [[5, 6], [7, 8]])
+[[19, 22], [43, 50]]

@@ -1,0 +1,10 @@
+Define a function lab6ex10b that decodes a string that was encoded by lab6ex10a.
+
+The encoding separates even-position characters from odd-position characters and concatenates them. The first ceil(n/2) characters of the encoded string are the even-position characters, and the remaining floor(n/2) characters are the odd-position characters.
+
+Input validation is not necessary.
+
+For example:
+
+lab6ex10b('acebd')
+'abcde'

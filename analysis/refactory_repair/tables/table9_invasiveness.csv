@@ -1,0 +1,8 @@
+Model,Type,n solved,Mean lines changed (repaired vs buggy),Mean similarity,Mean GT bug size,Invasiveness ratio (changed / GT size)
+Qwen2.5,Best-Loc (Gemma4),1272,5.41,0.528,2.67,2.027
+Qwen3.6,Best-Loc (Gemma4),1280,5.09,0.571,2.676,1.902
+Gemma4,Best-Loc (Gemma4),1250,6.713,0.476,2.698,2.488
+Granite4,Best-Loc (Gemma4),1275,5.971,0.47,2.658,2.246
+CodeGemma,Best-Loc (Gemma4),1044,3.87,0.654,2.529,1.53
+GraniteCode,Best-Loc (Gemma4),1065,4.192,0.602,2.5,1.676
+CodeLlama,Best-Loc (Gemma4),1134,5.971,0.423,2.56,2.332

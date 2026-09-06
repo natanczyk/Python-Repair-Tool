@@ -1,0 +1,19 @@
+Define the higher-order function lab11ex2a that computes the product of the terms of a function between two specified limits.
+
+It has the same structure as somatorio but uses multiplication instead of addition.
+
+def lab11ex2a(l_inf, l_sup, calc_termo, prox):
+    ...
+
+Parameters:
+  - l_inf: lower bound (inclusive)
+  - l_sup: upper bound (inclusive)
+  - calc_termo: function applied to each term
+  - prox: function that advances to the next term
+
+If l_inf > l_sup, the function should return 1 (neutral element for multiplication).
+
+For example:
+
+lab11ex2a(1, 5, lambda x: x, lambda x: x + 1)
+120

@@ -1,0 +1,9 @@
+def sort_age(lst):
+    n = len(lst)
+    for i in range(n):
+        for j in range(0, n - i - 1):
+            # Compare age (index 1 of the tuple)
+            # We want descending order, so if the current element is smaller than the next, swap them.
+            if lst[j][1] < lst[j+1][1]:
+                lst[j], lst[j+1] = lst[j+1], lst[j]
+    return lst

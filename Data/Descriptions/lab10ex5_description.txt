@@ -1,0 +1,18 @@
+Write the function lab10ex5 that receives two strings, where the first corresponds to a word to search for and the second contains the name of a file.
+
+Your function should print the lines of the file that contain the searched word.
+
+For example, if file fich contains:
+
+Another file to perform the same tests.
+This file contains one more line
+besides this one.
+
+then:
+
+lab10ex5('file', 'fich')
+
+produces:
+
+'Another file to perform the same tests.'
+'This file contains one more line'

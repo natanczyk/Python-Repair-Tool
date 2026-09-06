@@ -1,0 +1,1 @@
+equations = ["a==b","b!=a"]

@@ -1,0 +1,18 @@
+Using the function misterio defined below, write the function lab11ex7b that receives an integer and returns the number obtained from it containing only even digits.
+
+def misterio(num, p):
+    if num == 0:
+        return 0
+    elif p(num % 10):
+        return (num % 10) + 10 * misterio(num // 10, p)
+    else:
+        return misterio(num // 10, p)
+
+Your function must contain only one instruction: the return statement.
+
+For example:
+
+lab11ex7b(5467829)
+4682
+
+If no even digits exist, the result is 0.

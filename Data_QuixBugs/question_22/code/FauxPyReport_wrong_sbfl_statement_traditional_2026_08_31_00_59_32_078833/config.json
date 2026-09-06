@@ -1,0 +1,9 @@
+{
+    "Src": "wrong_minimum_spanning_tree.py",
+    "Exclude": [],
+    "Family": "Sbfl",
+    "Granularity": "Statement",
+    "TopN": -1,
+    "TargetedFailingTests": [],
+    "MutationStrategy": "Traditional"
+}

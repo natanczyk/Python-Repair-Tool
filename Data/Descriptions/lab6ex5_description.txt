@@ -1,0 +1,6 @@
+Using the functions lab6ex2, lab6ex3, and lab6ex4, define the function lab6ex5 that receives an integer and returns the integer containing only the even digits of the original number.
+
+For example:
+
+lab6ex5(6643399766641)
+6646664

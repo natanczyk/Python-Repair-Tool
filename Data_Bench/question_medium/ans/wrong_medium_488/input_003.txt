@@ -1,0 +1,1 @@
+names = ["onepiece","onepiece(1)","onepiece(2)","onepiece(3)","onepiece"]

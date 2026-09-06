@@ -1,0 +1,23 @@
+Using only recursion (no loops), define the function lab13ex5 that receives a (possibly nested) tuple and returns the sum of all atomic (non-tuple) elements at any depth.
+
+An element is atomic if it is not a tuple. The function traverses the tuple recursively and sums all numeric values that are not themselves tuples.
+
+For example:
+
+lab13ex5(())
+0
+
+lab13ex5((1, 2, 3))
+6
+
+lab13ex5(((1, 2), (3, 4)))
+10
+
+lab13ex5((3, ((((((6, (7,)),),),),),), 2, 1))
+19
+
+lab13ex5((1, (2, (3, (4,)))))
+10
+
+lab13ex5((((((5,),),),),))
+5

@@ -1,0 +1,9 @@
+def search(x, seq):
+    if seq == [] or seq == tuple():
+        return 0
+    else:
+        count = 0
+        for i in range(len(seq)):
+            if seq[i] < x:
+                count += 1
+        return count

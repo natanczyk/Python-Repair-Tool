@@ -1,0 +1,308 @@
+{"program_name": "wrong_3_001.py", "buggy_lines": [3, 5, 1, 4, 2, 6]}
+{"program_name": "wrong_3_002.py", "buggy_lines": [3, 7, 5, 8, 2, 1, 4, 6, 9]}
+{"program_name": "wrong_3_003.py", "buggy_lines": [3, 7, 5, 8, 2, 1, 4, 6, 9]}
+{"program_name": "wrong_3_004.py", "buggy_lines": [3, 7, 5, 8, 2, 1, 4, 6, 9]}
+{"program_name": "wrong_3_005.py", "buggy_lines": [3, 5, 2, 4, 1, 6, 7]}
+{"program_name": "wrong_3_006.py", "buggy_lines": [3, 4, 5, 1, 2]}
+{"program_name": "wrong_3_007.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_008.py", "buggy_lines": [3, 7, 4, 2, 1, 5, 6, 8, 9]}
+{"program_name": "wrong_3_009.py", "buggy_lines": [3, 4, 2, 1, 5, 6]}
+{"program_name": "wrong_3_010.py", "buggy_lines": [3, 4, 2, 1, 5, 6]}
+{"program_name": "wrong_3_011.py", "buggy_lines": [3, 4, 1, 5, 2, 6]}
+{"program_name": "wrong_3_012.py", "buggy_lines": [3, 4, 1, 5, 2]}
+{"program_name": "wrong_3_013.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_014.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_015.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_016.py", "buggy_lines": [3, 7, 4, 2, 1, 5, 6, 8, 9, 10]}
+{"program_name": "wrong_3_017.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_018.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_019.py", "buggy_lines": [3, 4, 5, 7, 2, 1, 8, 6, 9]}
+{"program_name": "wrong_3_020.py", "buggy_lines": [3, 5, 7, 4, 2, 1, 6, 9, 8, 10]}
+{"program_name": "wrong_3_021.py", "buggy_lines": [3, 7, 1, 5, 2, 4, 6, 8, 9, 10, 11]}
+{"program_name": "wrong_3_022.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_023.py", "buggy_lines": [3, 4, 5, 1, 2]}
+{"program_name": "wrong_3_024.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_025.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_026.py", "buggy_lines": [3, 5, 7, 4, 2, 1, 6, 8]}
+{"program_name": "wrong_3_027.py", "buggy_lines": [3, 7, 5, 1, 2, 4, 6, 8, 9, 10]}
+{"program_name": "wrong_3_028.py", "buggy_lines": [3, 4, 5, 1, 2]}
+{"program_name": "wrong_3_029.py", "buggy_lines": [14, 17, 18, 19, 15, 20, 3, 16, 1, 2, 4]}
+{"program_name": "wrong_3_030.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_031.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_032.py", "buggy_lines": [3, 4, 2, 1, 5]}
+{"program_name": "wrong_3_033.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_034.py", "buggy_lines": [3, 5, 4, 2, 1, 6, 7]}
+{"program_name": "wrong_3_035.py", "buggy_lines": [3, 5, 4, 2, 1, 6, 7]}
+{"program_name": "wrong_3_036.py", "buggy_lines": [3, 4, 5, 2, 1, 6]}
+{"program_name": "wrong_3_037.py", "buggy_lines": [3, 4, 5, 2, 1, 6]}
+{"program_name": "wrong_3_038.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_039.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_040.py", "buggy_lines": [3, 4, 5, 7, 8, 1, 2, 6]}
+{"program_name": "wrong_3_041.py", "buggy_lines": [3, 2, 4, 1]}
+{"program_name": "wrong_3_042.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_043.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_044.py", "buggy_lines": [3, 4, 7, 8, 5, 6, 1, 2, 9, 10]}
+{"program_name": "wrong_3_045.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_046.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_047.py", "buggy_lines": [3, 4, 7, 8, 5, 2, 1, 6, 9]}
+{"program_name": "wrong_3_048.py", "buggy_lines": [3, 7, 5, 4, 2, 1, 6, 8, 9]}
+{"program_name": "wrong_3_049.py", "buggy_lines": [3, 4, 7, 8, 5, 2, 1, 6, 9]}
+{"program_name": "wrong_3_050.py", "buggy_lines": [3, 5, 4, 2, 1, 6, 7]}
+{"program_name": "wrong_3_051.py", "buggy_lines": [3, 4, 5, 1, 2, 6, 7]}
+{"program_name": "wrong_3_052.py", "buggy_lines": [3, 2, 1]}
+{"program_name": "wrong_3_053.py", "buggy_lines": [3, 2, 4, 1, 5]}
+{"program_name": "wrong_3_054.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_055.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_056.py", "buggy_lines": [3, 4, 5, 1, 2, 6, 7]}
+{"program_name": "wrong_3_057.py", "buggy_lines": [3, 4, 5, 1, 2, 6, 7]}
+{"program_name": "wrong_3_058.py", "buggy_lines": [4, 3, 2, 1]}
+{"program_name": "wrong_3_059.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_060.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_061.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_062.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_063.py", "buggy_lines": [3, 5, 4, 2, 1, 6, 7]}
+{"program_name": "wrong_3_064.py", "buggy_lines": [3, 4, 7, 1, 5, 2, 6, 8, 9, 10, 11, 12]}
+{"program_name": "wrong_3_065.py", "buggy_lines": [3, 4, 7, 1, 5, 2, 6, 8, 9, 10, 11, 12]}
+{"program_name": "wrong_3_066.py", "buggy_lines": [3, 5, 4, 2, 1, 6, 7]}
+{"program_name": "wrong_3_067.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_068.py", "buggy_lines": [3, 5, 7, 2, 1, 4, 6, 8]}
+{"program_name": "wrong_3_069.py", "buggy_lines": [3, 4, 5, 1, 2]}
+{"program_name": "wrong_3_070.py", "buggy_lines": [3, 5, 6, 7, 4, 2, 1, 9, 8, 10]}
+{"program_name": "wrong_3_071.py", "buggy_lines": [3, 5, 6, 7, 4, 2, 1, 9, 8, 10]}
+{"program_name": "wrong_3_072.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_073.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_074.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_075.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_076.py", "buggy_lines": [3, 4, 5, 2, 1, 6]}
+{"program_name": "wrong_3_077.py", "buggy_lines": [3, 5, 7, 4, 2, 1, 6, 8]}
+{"program_name": "wrong_3_078.py", "buggy_lines": [3, 2, 4, 1]}
+{"program_name": "wrong_3_079.py", "buggy_lines": [3, 5, 4, 2, 1, 6, 7, 10, 9, 8]}
+{"program_name": "wrong_3_080.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_081.py", "buggy_lines": [3, 5, 4, 2, 1, 9, 8]}
+{"program_name": "wrong_3_082.py", "buggy_lines": [3, 5, 7, 8, 4, 6, 2, 1, 9, 10]}
+{"program_name": "wrong_3_083.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_084.py", "buggy_lines": [3, 7, 1, 5, 2, 4, 6, 8]}
+{"program_name": "wrong_3_085.py", "buggy_lines": [3, 7, 1, 5, 2, 4, 6, 8]}
+{"program_name": "wrong_3_086.py", "buggy_lines": [3, 4, 5, 7, 8, 2, 1]}
+{"program_name": "wrong_3_087.py", "buggy_lines": [3, 5, 6, 13, 14, 10, 12, 11, 9, 8, 7, 2, 1, 4, 15]}
+{"program_name": "wrong_3_088.py", "buggy_lines": [3, 7, 5, 8, 4, 2, 1, 6, 9]}
+{"program_name": "wrong_3_089.py", "buggy_lines": [3, 7, 5, 8, 4, 2, 1, 6, 9]}
+{"program_name": "wrong_3_090.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_091.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_092.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_093.py", "buggy_lines": [3, 4, 5, 7, 8, 9, 10, 2, 1]}
+{"program_name": "wrong_3_094.py", "buggy_lines": [3, 4, 5, 7, 2, 1, 6, 8, 9, 10]}
+{"program_name": "wrong_3_095.py", "buggy_lines": [3, 4, 5, 1, 2]}
+{"program_name": "wrong_3_096.py", "buggy_lines": [3, 4, 5, 1, 2, 6, 9, 8, 7, 10]}
+{"program_name": "wrong_3_097.py", "buggy_lines": [3, 7, 4, 8, 5, 2, 1, 6, 9]}
+{"program_name": "wrong_3_098.py", "buggy_lines": [3, 4, 7, 2, 5, 1, 6, 8, 9]}
+{"program_name": "wrong_3_099.py", "buggy_lines": [3, 4, 5, 2, 1, 6]}
+{"program_name": "wrong_3_100.py", "buggy_lines": [3, 5, 2, 4, 1, 6, 7, 8, 9]}
+{"program_name": "wrong_3_101.py", "buggy_lines": [3, 5, 2, 4, 1, 6, 8, 7, 9]}
+{"program_name": "wrong_3_102.py", "buggy_lines": [3, 5, 2, 1, 4, 6, 7, 9, 8, 10]}
+{"program_name": "wrong_3_103.py", "buggy_lines": [3, 4, 5, 1, 2, 6, 7, 8]}
+{"program_name": "wrong_3_104.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7, 8]}
+{"program_name": "wrong_3_105.py", "buggy_lines": [3, 4, 5, 2, 1, 6]}
+{"program_name": "wrong_3_106.py", "buggy_lines": [10, 5, 6, 7, 8, 9, 1, 2, 3, 4, 11, 12, 13]}
+{"program_name": "wrong_3_107.py", "buggy_lines": [3, 5, 7, 8, 4, 2, 1, 6, 9, 10, 11]}
+{"program_name": "wrong_3_108.py", "buggy_lines": [3, 7, 5, 8, 4, 2, 1, 6, 9, 10, 11]}
+{"program_name": "wrong_3_109.py", "buggy_lines": [3, 4, 5, 2, 1, 6]}
+{"program_name": "wrong_3_110.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_111.py", "buggy_lines": [3, 4, 5, 1, 2, 6, 7]}
+{"program_name": "wrong_3_112.py", "buggy_lines": [3, 4, 5, 7, 1, 2, 6, 8]}
+{"program_name": "wrong_3_113.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_114.py", "buggy_lines": [3, 5, 7, 4, 2, 1, 6, 8]}
+{"program_name": "wrong_3_115.py", "buggy_lines": [3, 2, 1]}
+{"program_name": "wrong_3_116.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_117.py", "buggy_lines": [3, 4, 7, 8, 5, 2, 1, 6]}
+{"program_name": "wrong_3_118.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_119.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_120.py", "buggy_lines": [3, 5, 4, 2, 1, 6, 7]}
+{"program_name": "wrong_3_121.py", "buggy_lines": [3, 4, 5, 2, 1, 6]}
+{"program_name": "wrong_3_122.py", "buggy_lines": [3, 4, 5, 2, 1, 6]}
+{"program_name": "wrong_3_123.py", "buggy_lines": [3, 4, 5, 2, 1, 6]}
+{"program_name": "wrong_3_124.py", "buggy_lines": [3, 4, 5, 2, 1, 6]}
+{"program_name": "wrong_3_125.py", "buggy_lines": [3, 4, 5, 2, 1, 6]}
+{"program_name": "wrong_3_126.py", "buggy_lines": [3, 4, 5, 2, 1, 6]}
+{"program_name": "wrong_3_127.py", "buggy_lines": [3, 4, 5, 2, 1, 6]}
+{"program_name": "wrong_3_128.py", "buggy_lines": [3, 4, 5, 1, 2, 6, 7]}
+{"program_name": "wrong_3_129.py", "buggy_lines": [3, 5, 2, 4, 1, 6, 7]}
+{"program_name": "wrong_3_130.py", "buggy_lines": [3, 5, 2, 4, 1, 6, 7]}
+{"program_name": "wrong_3_131.py", "buggy_lines": [3, 4, 5, 1, 2, 6, 7]}
+{"program_name": "wrong_3_132.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_133.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_134.py", "buggy_lines": [3, 4, 5, 1, 2, 6, 7]}
+{"program_name": "wrong_3_135.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_136.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_137.py", "buggy_lines": [3, 4, 1, 5, 2, 6]}
+{"program_name": "wrong_3_138.py", "buggy_lines": [3, 5, 7, 2, 1, 4, 6, 8]}
+{"program_name": "wrong_3_139.py", "buggy_lines": [3, 5, 7, 2, 1, 4, 6, 8]}
+{"program_name": "wrong_3_140.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_141.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_142.py", "buggy_lines": [3, 4, 5, 2, 1, 7, 8, 6, 9]}
+{"program_name": "wrong_3_143.py", "buggy_lines": [3, 5, 2, 4, 1, 6]}
+{"program_name": "wrong_3_144.py", "buggy_lines": [3, 4, 6, 5, 2, 1, 7]}
+{"program_name": "wrong_3_145.py", "buggy_lines": [3, 5, 7, 4, 2, 1, 6]}
+{"program_name": "wrong_3_146.py", "buggy_lines": [3, 5, 7, 8, 2, 1, 4, 6]}
+{"program_name": "wrong_3_147.py", "buggy_lines": [3, 4, 2, 1, 5]}
+{"program_name": "wrong_3_148.py", "buggy_lines": [3, 4, 5, 1, 2]}
+{"program_name": "wrong_3_149.py", "buggy_lines": [3, 5, 4, 2, 1, 6, 7]}
+{"program_name": "wrong_3_150.py", "buggy_lines": [3, 4, 2, 1, 5]}
+{"program_name": "wrong_3_151.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_152.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_153.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_154.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_155.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_156.py", "buggy_lines": [3, 4, 7, 8, 2, 1, 5, 6]}
+{"program_name": "wrong_3_157.py", "buggy_lines": [3, 7, 1, 5, 2, 6, 4, 8]}
+{"program_name": "wrong_3_158.py", "buggy_lines": [3, 5, 8, 4, 9, 10, 7, 6, 2, 1, 11]}
+{"program_name": "wrong_3_159.py", "buggy_lines": [3, 4, 5, 1, 2]}
+{"program_name": "wrong_3_160.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_161.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_162.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_163.py", "buggy_lines": [3, 5, 4, 2, 1, 6, 7]}
+{"program_name": "wrong_3_164.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_165.py", "buggy_lines": [3, 5, 7, 1, 2, 4, 6, 8]}
+{"program_name": "wrong_3_166.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_167.py", "buggy_lines": [3, 5, 2, 4, 1, 6]}
+{"program_name": "wrong_3_168.py", "buggy_lines": [3, 5, 4, 2, 1, 6, 7, 8]}
+{"program_name": "wrong_3_169.py", "buggy_lines": [3, 5, 4, 2, 1, 8, 7]}
+{"program_name": "wrong_3_170.py", "buggy_lines": [3, 4, 5, 1, 2, 6, 7, 8]}
+{"program_name": "wrong_3_171.py", "buggy_lines": [3, 4, 5, 2, 1, 6]}
+{"program_name": "wrong_3_172.py", "buggy_lines": [3, 5, 4, 2, 1, 6, 7]}
+{"program_name": "wrong_3_173.py", "buggy_lines": [3, 5, 2, 4, 1, 6, 7]}
+{"program_name": "wrong_3_174.py", "buggy_lines": [3, 7, 8, 9, 5, 10, 2, 1, 4, 6, 11]}
+{"program_name": "wrong_3_175.py", "buggy_lines": [3, 4, 2, 1, 5]}
+{"program_name": "wrong_3_176.py", "buggy_lines": [3, 4, 2, 1, 5]}
+{"program_name": "wrong_3_177.py", "buggy_lines": [3, 5, 2, 4, 1, 6, 7]}
+{"program_name": "wrong_3_178.py", "buggy_lines": [3, 5, 2, 4, 1, 6, 7, 8]}
+{"program_name": "wrong_3_179.py", "buggy_lines": [3, 5, 7, 2, 1, 4, 6, 8]}
+{"program_name": "wrong_3_180.py", "buggy_lines": [3, 7, 1, 5, 2, 8, 9, 10, 4, 6, 11]}
+{"program_name": "wrong_3_181.py", "buggy_lines": [3, 7, 1, 5, 2, 8, 9, 10, 4, 6, 11]}
+{"program_name": "wrong_3_182.py", "buggy_lines": [3, 5, 7, 4, 2, 1, 8, 6, 9, 10]}
+{"program_name": "wrong_3_183.py", "buggy_lines": [3, 4, 5, 1, 2]}
+{"program_name": "wrong_3_184.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_185.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_186.py", "buggy_lines": [3, 4, 7, 8, 5, 6, 2, 1, 9]}
+{"program_name": "wrong_3_187.py", "buggy_lines": [3, 4, 7, 8, 5, 2, 1, 6]}
+{"program_name": "wrong_3_188.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_189.py", "buggy_lines": [3, 2, 4, 5, 1]}
+{"program_name": "wrong_3_190.py", "buggy_lines": [3, 5, 2, 4, 1, 6]}
+{"program_name": "wrong_3_191.py", "buggy_lines": [3, 5, 6, 7, 8, 4, 1, 2, 9, 10]}
+{"program_name": "wrong_3_192.py", "buggy_lines": [3, 7, 5, 8, 2, 1, 4, 6]}
+{"program_name": "wrong_3_193.py", "buggy_lines": [3, 7, 1, 5, 2, 6, 8, 4, 9]}
+{"program_name": "wrong_3_194.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_195.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_196.py", "buggy_lines": [3, 5, 7, 2, 1, 4, 6, 8, 9]}
+{"program_name": "wrong_3_197.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_198.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_199.py", "buggy_lines": [12, 11, 8, 7, 6, 5, 10, 9, 4, 3, 2, 1]}
+{"program_name": "wrong_3_200.py", "buggy_lines": [13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]}
+{"program_name": "wrong_3_201.py", "buggy_lines": [3, 4, 7, 8, 5, 6, 1, 2]}
+{"program_name": "wrong_3_202.py", "buggy_lines": [13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]}
+{"program_name": "wrong_3_203.py", "buggy_lines": [3, 4, 2, 1, 5, 6]}
+{"program_name": "wrong_3_204.py", "buggy_lines": [3, 5, 7, 4, 2, 1, 9, 8, 6]}
+{"program_name": "wrong_3_205.py", "buggy_lines": [3, 5, 7, 2, 1, 4, 6, 8, 9]}
+{"program_name": "wrong_3_206.py", "buggy_lines": [3, 5, 2, 4, 1, 6, 7]}
+{"program_name": "wrong_3_207.py", "buggy_lines": [10, 7, 5, 11, 2, 1, 4, 3, 9, 8, 6, 12]}
+{"program_name": "wrong_3_208.py", "buggy_lines": [3, 7, 1, 5, 2, 9, 10, 8, 6, 4, 11, 12]}
+{"program_name": "wrong_3_209.py", "buggy_lines": [3, 7, 1, 5, 2, 9, 10, 8, 6, 4, 11, 12]}
+{"program_name": "wrong_3_210.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_211.py", "buggy_lines": [3, 7, 1, 5, 2, 4, 8, 9, 10, 11, 12]}
+{"program_name": "wrong_3_212.py", "buggy_lines": [16, 17, 15, 10, 11, 12, 13, 5, 6, 4, 3, 2, 14, 9, 8, 7, 18, 1]}
+{"program_name": "wrong_3_213.py", "buggy_lines": [3, 5, 7, 4, 2, 1, 6]}
+{"program_name": "wrong_3_214.py", "buggy_lines": [3, 7, 10, 5, 6, 8, 2, 1, 4, 9, 11]}
+{"program_name": "wrong_3_215.py", "buggy_lines": [10, 7, 12, 11, 5, 6, 8, 3, 2, 1, 9, 4, 13]}
+{"program_name": "wrong_3_216.py", "buggy_lines": [14, 10, 12, 13, 7, 8, 6, 5, 3, 2, 1, 9, 4, 11]}
+{"program_name": "wrong_3_217.py", "buggy_lines": [14, 10, 12, 13, 7, 8, 6, 5, 3, 2, 1, 4, 9, 11]}
+{"program_name": "wrong_3_218.py", "buggy_lines": [14, 4, 10, 12, 13, 2, 3, 5, 6, 7, 8, 9, 1, 11]}
+{"program_name": "wrong_3_219.py", "buggy_lines": [3, 4, 2, 1, 5]}
+{"program_name": "wrong_3_220.py", "buggy_lines": [3, 4, 2, 1, 5]}
+{"program_name": "wrong_3_221.py", "buggy_lines": [3, 4, 1, 2, 5]}
+{"program_name": "wrong_3_222.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7, 8]}
+{"program_name": "wrong_3_223.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7, 8]}
+{"program_name": "wrong_3_224.py", "buggy_lines": [3, 4, 2, 1, 5]}
+{"program_name": "wrong_3_225.py", "buggy_lines": [3, 5, 2, 1, 4, 6]}
+{"program_name": "wrong_3_226.py", "buggy_lines": [3, 5, 2, 1, 4, 6]}
+{"program_name": "wrong_3_227.py", "buggy_lines": [3, 4, 2, 1, 5]}
+{"program_name": "wrong_3_228.py", "buggy_lines": [3, 4, 1, 2, 5]}
+{"program_name": "wrong_3_229.py", "buggy_lines": [3, 4, 1, 2, 5]}
+{"program_name": "wrong_3_230.py", "buggy_lines": [3, 4, 5, 1, 2, 6, 7, 8]}
+{"program_name": "wrong_3_231.py", "buggy_lines": [3, 5, 2, 4, 1, 6, 7]}
+{"program_name": "wrong_3_232.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_233.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_234.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_235.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_236.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7, 9, 8, 10]}
+{"program_name": "wrong_3_237.py", "buggy_lines": [3, 4, 5, 2, 1, 7, 6, 8]}
+{"program_name": "wrong_3_238.py", "buggy_lines": [3, 4, 5, 2, 1, 7, 6, 8]}
+{"program_name": "wrong_3_239.py", "buggy_lines": [3, 4, 5, 2, 1, 7, 6, 8]}
+{"program_name": "wrong_3_240.py", "buggy_lines": [3, 4, 2, 1, 5, 6]}
+{"program_name": "wrong_3_241.py", "buggy_lines": [3, 5, 7, 8, 2, 1, 4, 6]}
+{"program_name": "wrong_3_242.py", "buggy_lines": [3, 4, 7, 8, 2, 1, 5, 6]}
+{"program_name": "wrong_3_243.py", "buggy_lines": [3, 4, 7, 8, 2, 1, 5, 6]}
+{"program_name": "wrong_3_244.py", "buggy_lines": [3, 4, 7, 5, 2, 1, 6, 8]}
+{"program_name": "wrong_3_245.py", "buggy_lines": [3, 4, 5, 10, 9, 8, 7, 6, 2, 1, 11]}
+{"program_name": "wrong_3_246.py", "buggy_lines": [3, 4, 5, 7, 1, 2, 6, 8]}
+{"program_name": "wrong_3_247.py", "buggy_lines": [3, 4, 5, 8, 9, 1, 2, 6]}
+{"program_name": "wrong_3_248.py", "buggy_lines": [3, 5, 7, 4, 2, 1, 6, 8, 9, 10]}
+{"program_name": "wrong_3_249.py", "buggy_lines": [3, 4, 5, 1, 2]}
+{"program_name": "wrong_3_250.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_251.py", "buggy_lines": [13, 5, 7, 6, 4, 2, 1, 8, 12, 10, 9, 3, 11]}
+{"program_name": "wrong_3_252.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_253.py", "buggy_lines": [3, 5, 7, 4, 2, 1, 6]}
+{"program_name": "wrong_3_254.py", "buggy_lines": [3, 7, 5, 9, 2, 1, 6, 4, 8]}
+{"program_name": "wrong_3_255.py", "buggy_lines": [3, 4, 5]}
+{"program_name": "wrong_3_256.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_257.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_258.py", "buggy_lines": [3, 5, 7, 2, 1, 4, 6, 8]}
+{"program_name": "wrong_3_259.py", "buggy_lines": [3, 4, 5, 1, 2]}
+{"program_name": "wrong_3_260.py", "buggy_lines": [3, 4, 2, 1, 5]}
+{"program_name": "wrong_3_261.py", "buggy_lines": [3, 5, 7, 2, 1, 4, 6, 8]}
+{"program_name": "wrong_3_262.py", "buggy_lines": [3, 4, 2, 1, 5]}
+{"program_name": "wrong_3_263.py", "buggy_lines": [3, 5, 7, 2, 1, 4, 6, 8]}
+{"program_name": "wrong_3_264.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_265.py", "buggy_lines": [3, 5, 2, 4, 1, 6]}
+{"program_name": "wrong_3_266.py", "buggy_lines": [3, 5, 6, 4, 2, 1, 7]}
+{"program_name": "wrong_3_267.py", "buggy_lines": [3, 4, 1, 5, 2, 6, 7]}
+{"program_name": "wrong_3_268.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_269.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_270.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_271.py", "buggy_lines": [3, 4, 5, 2, 1]}
+{"program_name": "wrong_3_272.py", "buggy_lines": [3, 4, 5, 2, 1, 6]}
+{"program_name": "wrong_3_273.py", "buggy_lines": [3, 4, 7, 8, 2, 1, 5, 6]}
+{"program_name": "wrong_3_274.py", "buggy_lines": [3, 4, 7, 5, 2, 1, 6, 8]}
+{"program_name": "wrong_3_275.py", "buggy_lines": [3, 4, 7, 8, 2, 1, 5, 6]}
+{"program_name": "wrong_3_276.py", "buggy_lines": [3, 4, 7, 8, 2, 1, 5, 6]}
+{"program_name": "wrong_3_277.py", "buggy_lines": [3, 8, 7, 10, 9, 5, 6, 2, 1, 4, 11]}
+{"program_name": "wrong_3_278.py", "buggy_lines": [3, 8, 7, 10, 9, 5, 6, 2, 1, 4, 11]}
+{"program_name": "wrong_3_279.py", "buggy_lines": [3, 5, 2, 4, 1, 6]}
+{"program_name": "wrong_3_280.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_281.py", "buggy_lines": [3, 5, 2, 4, 1, 6]}
+{"program_name": "wrong_3_282.py", "buggy_lines": [3, 5, 2, 4, 1, 6]}
+{"program_name": "wrong_3_283.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_284.py", "buggy_lines": [3, 4, 2, 1, 5]}
+{"program_name": "wrong_3_285.py", "buggy_lines": [3, 4, 5, 1, 2, 6]}
+{"program_name": "wrong_3_286.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_287.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_288.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_289.py", "buggy_lines": [3, 5, 6, 7, 8, 4, 1, 2, 9, 10, 11, 12]}
+{"program_name": "wrong_3_290.py", "buggy_lines": [16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]}
+{"program_name": "wrong_3_291.py", "buggy_lines": [3, 4, 5, 2, 1, 6, 7]}
+{"program_name": "wrong_3_292.py", "buggy_lines": [10, 9, 7, 5, 4, 1, 2, 3, 8, 6, 12, 11, 13]}
+{"program_name": "wrong_3_293.py", "buggy_lines": [13, 8, 7, 5, 4, 10, 9, 2, 1, 6, 3, 12, 11]}
+{"program_name": "wrong_3_294.py", "buggy_lines": [3, 7, 10, 5, 8, 4, 2, 1, 9, 6, 11]}
+{"program_name": "wrong_3_295.py", "buggy_lines": [3, 4, 5, 1, 2]}
+{"program_name": "wrong_3_296.py", "buggy_lines": [3, 5, 7, 4, 2, 9, 8]}
+{"program_name": "wrong_3_297.py", "buggy_lines": [3, 5, 7, 4, 2, 9, 8]}
+{"program_name": "wrong_3_298.py", "buggy_lines": [3, 5, 7, 4, 2, 9, 8]}
+{"program_name": "wrong_3_299.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_300.py", "buggy_lines": [3, 4, 6, 5, 2, 1, 7]}
+{"program_name": "wrong_3_301.py", "buggy_lines": [15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]}
+{"program_name": "wrong_3_302.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_303.py", "buggy_lines": [3, 4, 5, 6, 7, 1, 2]}
+{"program_name": "wrong_3_304.py", "buggy_lines": [3, 7, 5, 2, 1, 4, 6, 8, 9]}
+{"program_name": "wrong_3_305.py", "buggy_lines": [3, 5, 4, 2, 1, 6]}
+{"program_name": "wrong_3_306.py", "buggy_lines": [1, 2]}
+{"program_name": "wrong_3_307.py", "buggy_lines": [3, 4, 5, 2, 1]}
+{"program_name": "wrong_3_308.py", "buggy_lines": [3, 5, 4, 2, 1, 6, 7]}

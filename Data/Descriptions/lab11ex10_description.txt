@@ -1,0 +1,10 @@
+Using the function lab11ex8 from exercise 8 and higher-order list functions, write the function lab11ex10 that receives a positive integer n and returns the integer composed only of the odd digits of n (maintaining their original order).
+
+Your function must contain only one instruction: the return statement.
+
+For example:
+
+lab11ex10(12345)
+135
+
+Explanation: digits of 12345 are [1,2,3,4,5]. Odd digits are [1,3,5]. Result is int('135') = 135.

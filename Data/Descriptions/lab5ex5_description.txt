@@ -1,0 +1,13 @@
+Write the function lab5ex5 that receives an integer corresponding to a year and returns True if the year is a leap year and False otherwise.
+A year is a leap year if it is divisible by 4 and not divisible by 100, unless it is also divisible by 400.
+
+For example:
+
+lab5ex5(1984)
+True
+
+lab5ex5(1985)
+False
+
+lab5ex5(2000)
+True

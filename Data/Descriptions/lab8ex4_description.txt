@@ -1,0 +1,20 @@
+A matrix is a two-dimensional table whose elements are referenced by their row and column positions.
+A matrix can be represented as a list of lists of equal length, where each sublist represents a row.
+
+Write the function lab8ex4 that receives:
+- a matrix
+- a row index
+- a column index
+
+and returns the element located at the specified row and column.
+Raise a ValueError for an invalid (out-of-bounds) index.
+
+For example:
+
+m = [[1, 2, 3], [4, 5, 6]]
+
+lab8ex4(m, 0, 0)
+1
+
+lab8ex4(m, 0, 3)
+ValueError: lab8ex4: invalid index, column 3

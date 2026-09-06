@@ -1,0 +1,19 @@
+Define the function lab5ex6 that receives:
+- a string corresponding to the first 3 lowercase letters of a month name
+- a year
+
+and returns the number of days in that month.
+
+In the case of an invalid string, your function should raise a ValueError.
+Use the function lab5ex5 from the previous exercise.
+
+For example:
+
+lab5ex6('jan', 2017)
+31
+
+lab5ex6('feb', 2016)
+29
+
+lab5ex6('MAR', 2017)
+ValueError: Month does not exist

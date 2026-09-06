@@ -1,0 +1,23 @@
+Using only recursion (no loops), define the function lab13ex11 that receives a list and a value k, and returns a list of all 0-indexed positions where k occurs in the list.
+
+The positions must appear in increasing order.
+
+For example:
+
+lab13ex11([1, 2, 3, 4, 2, 2], 2)
+[1, 4, 5]
+
+lab13ex11([], 1)
+[]
+
+lab13ex11([1, 2, 3], 5)
+[]
+
+lab13ex11([1, 1, 1], 1)
+[0, 1, 2]
+
+lab13ex11([5, 3, 5, 5, 2], 5)
+[0, 2, 3]
+
+lab13ex11([0, 1, 0, 1, 0], 0)
+[0, 2, 4]

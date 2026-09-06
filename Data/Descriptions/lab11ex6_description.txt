@@ -1,0 +1,19 @@
+The predicate eh_primo is defined as:
+
+def eh_primo(n):
+    for i in range(2, n):
+        if n % i == 0:
+            return False
+    return n != 1
+
+Write the higher-order function lab11ex6 that receives a positive integer n and returns all positive integers less than or equal to n that are NOT prime (including 1, which is not considered prime).
+
+Your function must contain only one instruction: the return statement.
+
+For example:
+
+lab11ex6(8)
+[1, 4, 6, 8]
+
+lab11ex6(10)
+[1, 4, 6, 8, 9, 10]

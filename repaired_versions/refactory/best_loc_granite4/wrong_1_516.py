@@ -1,0 +1,7 @@
+def search(x, seq):
+    if not seq:  # Handle empty sequence
+        return 0
+    for i, val in enumerate(seq):
+        if val >= x:
+            return i
+    return len(seq)  # If x is greater than all elements

@@ -1,0 +1,12 @@
+def search(x, seq):
+    n = len(seq)
+    if n == 0:
+        return 0
+    for i in range(0, n):
+        currentvalue = seq[i]
+        position = i
+        if x > currentvalue:
+            position = i + 1
+        elif x <= currentvalue:
+            return position
+    return position

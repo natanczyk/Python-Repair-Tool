@@ -1,0 +1,1 @@
+s = "aaabcccd", k = 2

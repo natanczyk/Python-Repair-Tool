@@ -1,0 +1,9 @@
+{
+    "Src": "wrong_find_first_in_sorted.py",
+    "Exclude": [],
+    "Family": "Sbfl",
+    "Granularity": "Statement",
+    "TopN": -1,
+    "TargetedFailingTests": [],
+    "MutationStrategy": "Traditional"
+}

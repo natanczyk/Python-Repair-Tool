@@ -1,0 +1,20 @@
+Using only recursion (no loops, no slicing with [::-1], no built-in reverse), define the function lab13ex6 that receives a list and returns a new list with the elements in reversed order.
+
+The original list must not be modified.
+
+For example:
+
+lab13ex6([])
+[]
+
+lab13ex6([1])
+[1]
+
+lab13ex6([1, 2, 3])
+[3, 2, 1]
+
+lab13ex6([1, 2, 3, 4, 5])
+[5, 4, 3, 2, 1]
+
+lab13ex6(['a', 'b', 'c'])
+['c', 'b', 'a']

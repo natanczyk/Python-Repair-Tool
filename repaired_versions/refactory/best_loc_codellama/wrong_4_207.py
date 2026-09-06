@@ -1,0 +1,16 @@
+def merge(one, two):
+    new_tup = []
+    while one and two:
+        if one[0][1] > two[0][1]:
+            new_tup.append(one.pop(0))
+        else:
+            new_tup.append(two.pop(0))
+    return new_tup + one + two
+
+def sort_age(lst):
+    n = len(lst)
+    if n < 2:
+        return lst
+    left = sort_age(lst[:n//2])
+    right = sort_age(lst[n//2:])
+    return merge(left, right)

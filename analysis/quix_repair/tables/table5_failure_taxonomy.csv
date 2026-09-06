@@ -1,0 +1,33 @@
+Model,Type,"already passing (solved, 0 iter)","solved with repair (solved, 1+ iter)","never attempted (unsolved, 0 iter)","died mid-loop (unsolved, 1-3 iter)","exhausted budget (unsolved, 4 iter)"
+CodeGemma,Best-Loc (Gemma4),0.0,0.625,0.125,0.125,0.125
+CodeGemma,FauxPy,0.0,0.45,0.125,0.125,0.3
+CodeGemma,None,0.0,0.475,0.125,0.125,0.275
+CodeGemma,Self-LLM,0.0,0.325,0.125,0.125,0.425
+CodeLlama,Best-Loc (Gemma4),0.0,0.575,0.125,0.125,0.175
+CodeLlama,FauxPy,0.0,0.275,0.125,0.15,0.45
+CodeLlama,None,0.0,0.325,0.125,0.2,0.35
+CodeLlama,Self-LLM,0.0,0.25,0.125,0.175,0.45
+Gemma4,Best-Loc (Gemma4),0.0,0.5,0.125,0.125,0.25
+Gemma4,FauxPy,0.0,0.525,0.125,0.1,0.25
+Gemma4,None,0.0,0.425,0.125,0.1,0.35
+Gemma4,Self-LLM,0.0,0.5,0.125,0.125,0.25
+Granite4,Best-Loc (Gemma4),0.0,0.675,0.125,0.15,0.05
+Granite4,FauxPy,0.0,0.625,0.15,0.125,0.1
+Granite4,None,0.0,0.675,0.125,0.125,0.075
+Granite4,Self-LLM,0.0,0.625,0.125,0.125,0.125
+GraniteCode,Best-Loc (Gemma4),0.0,0.675,0.125,0.125,0.075
+GraniteCode,FauxPy,0.0,0.375,0.125,0.125,0.375
+GraniteCode,None,0.0,0.375,0.125,0.125,0.375
+GraniteCode,Self-LLM,0.0,0.275,0.125,0.125,0.475
+Qwen2.5,Best-Loc (Gemma4),0.0,0.6,0.125,0.125,0.15
+Qwen2.5,FauxPy,0.0,0.45,0.125,0.15,0.275
+Qwen2.5,None,0.0,0.55,0.125,0.15,0.175
+Qwen2.5,Self-LLM,0.0,0.475,0.125,0.1,0.3
+Qwen3.6,Best-Loc (Gemma4),0.0,0.6,0.125,0.125,0.15
+Qwen3.6,FauxPy,0.0,0.575,0.15,0.1,0.175
+Qwen3.6,None,0.0,0.65,0.125,0.1,0.125
+Qwen3.6,Self-LLM,0.0,0.65,0.125,0.125,0.1
+Qwen3Coder,Best-Loc (Gemma4),0.0,0.65,0.125,0.125,0.1
+Qwen3Coder,FauxPy,0.0,0.6,0.15,0.1,0.15
+Qwen3Coder,None,0.0,0.55,0.125,0.15,0.175
+Qwen3Coder,Self-LLM,0.0,0.675,0.125,0.1,0.1

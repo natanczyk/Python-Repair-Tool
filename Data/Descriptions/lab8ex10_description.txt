@@ -1,0 +1,13 @@
+A Euromillions key consists of:
+- five ordered integers between 1 and 50 without repetition
+- two different ordered integers between 1 and 12
+
+Write a function lab8ex10 with no arguments that randomly returns a list containing two lists, each containing the components of a Euromillions key.
+
+To generate random numbers, use the function random from the random library, which returns a random real number in the interval [0, 1[.
+
+For example:
+
+lab8ex10()
+[[3, 15, 22, 37, 49], [4, 11]]
+(result will vary due to randomness)

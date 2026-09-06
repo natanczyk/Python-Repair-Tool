@@ -1,0 +1,11 @@
+Write the function lab9ex3b that receives a deck of cards (a list of card dictionaries as returned by lab9ex3a) and returns a new list with the same 52 cards in a randomized (shuffled) order.
+
+Each card is a dictionary with keys 'np' (suit) and 'vlr' (value).
+
+The original deck must not be modified. The returned list must contain all 52 cards with no duplicates and no missing cards.
+
+For example:
+
+deck = lab9ex3a()
+shuffled = lab9ex3b(deck)
+len(shuffled) == 52  # True

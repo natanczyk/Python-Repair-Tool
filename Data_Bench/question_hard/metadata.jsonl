@@ -1,0 +1,469 @@
+{"program_name": "wrong_hard_001.py", "reference_name": "reference_hard_001.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_hard_002.py", "reference_name": "reference_hard_002.py", "slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_hard_003.py", "reference_name": "reference_hard_003.py", "slug": "substring-with-concatenation-of-all-words", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_hard_004.py", "reference_name": "reference_hard_004.py", "slug": "merge-k-sorted-lists", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_hard_005.py", "reference_name": "reference_hard_005.py", "slug": "find-the-string-with-lcp", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_hard_006.py", "reference_name": "reference_hard_006.py", "slug": "maximize-number-of-nice-divisors", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_hard_007.py", "reference_name": "reference_hard_007.py", "slug": "count-anagrams", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_hard_008.py", "reference_name": "reference_hard_008.py", "slug": "next-greater-element-iv", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_hard_009.py", "reference_name": "reference_hard_009.py", "slug": "reverse-nodes-in-k-group", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_hard_010.py", "reference_name": "reference_hard_010.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_hard_011.py", "reference_name": "reference_hard_011.py", "slug": "median-of-two-sorted-arrays", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_hard_012.py", "reference_name": "reference_hard_012.py", "slug": "minimize-the-total-price-of-the-trips", "category": "logic error", "subtype": "other error"}
+{"program_name": "wrong_hard_013.py", "reference_name": "reference_hard_013.py", "slug": "minimum-time-to-complete-all-tasks", "category": "logic error", "subtype": "other error"}
+{"program_name": "wrong_hard_014.py", "reference_name": "reference_hard_014.py", "slug": "maximum-performance-of-a-team", "category": "logic error", "subtype": "other error"}
+{"program_name": "wrong_hard_015.py", "reference_name": "reference_hard_015.py", "slug": "merge-k-sorted-lists", "category": "logic error", "subtype": "other error"}
+{"program_name": "wrong_hard_016.py", "reference_name": "reference_hard_016.py", "slug": "sliding-window-median", "category": "logic error", "subtype": "other error"}
+{"program_name": "wrong_hard_017.py", "reference_name": "reference_hard_017.py", "slug": "design-a-text-editor", "category": "logic error", "subtype": "other error"}
+{"program_name": "wrong_hard_018.py", "reference_name": "reference_hard_018.py", "slug": "maximize-number-of-nice-divisors", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_hard_019.py", "reference_name": "reference_hard_019.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_hard_020.py", "reference_name": "reference_hard_020.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_hard_021.py", "reference_name": "reference_hard_021.py", "slug": "palindrome-pairs", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_hard_022.py", "reference_name": "reference_hard_022.py", "slug": "string-compression-ii", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_hard_023.py", "reference_name": "reference_hard_023.py", "slug": "check-if-point-is-reachable", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_hard_024.py", "reference_name": "reference_hard_024.py", "slug": "maximum-elegance-of-a-k-length-subsequence", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_hard_025.py", "reference_name": "reference_hard_025.py", "slug": "frog-position-after-t-seconds", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_hard_026.py", "reference_name": "reference_hard_026.py", "slug": "arithmetic-slices-ii-subsequence", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_hard_027.py", "reference_name": "reference_hard_027.py", "slug": "maximum-performance-of-a-team", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_hard_028.py", "reference_name": "reference_hard_028.py", "slug": "longest-happy-prefix", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_hard_029.py", "reference_name": "reference_hard_029.py", "slug": "arithmetic-slices-ii-subsequence", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_hard_030.py", "reference_name": "reference_hard_030.py", "slug": "sliding-window-median", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_hard_031.py", "reference_name": "reference_hard_031.py", "slug": "count-the-repetitions", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_hard_032.py", "reference_name": "reference_hard_032.py", "slug": "minimum-cost-to-cut-a-stick", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_hard_033.py", "reference_name": "reference_hard_033.py", "slug": "length-of-the-longest-valid-substring", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_hard_034.py", "reference_name": "reference_hard_034.py", "slug": "add-edges-to-make-degrees-of-all-nodes-even", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_hard_035.py", "reference_name": "reference_hard_035.py", "slug": "k-similar-strings", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_hard_036.py", "reference_name": "reference_hard_036.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_hard_037.py", "reference_name": "reference_hard_037.py", "slug": "minimum-obstacle-removal-to-reach-corner", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_hard_038.py", "reference_name": "reference_hard_038.py", "slug": "create-components-with-same-value", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_hard_039.py", "reference_name": "reference_hard_039.py", "slug": "reverse-subarray-to-maximize-array-value", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_hard_040.py", "reference_name": "reference_hard_040.py", "slug": "next-greater-element-iv", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_hard_041.py", "reference_name": "reference_hard_041.py", "slug": "arithmetic-slices-ii-subsequence", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_hard_042.py", "reference_name": "reference_hard_042.py", "slug": "median-of-two-sorted-arrays", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_hard_043.py", "reference_name": "reference_hard_043.py", "slug": "length-of-the-longest-valid-substring", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_hard_044.py", "reference_name": "reference_hard_044.py", "slug": "maximize-the-minimum-powered-city", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_hard_045.py", "reference_name": "reference_hard_045.py", "slug": "reverse-subarray-to-maximize-array-value", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_hard_046.py", "reference_name": "reference_hard_046.py", "slug": "frog-position-after-t-seconds", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_hard_047.py", "reference_name": "reference_hard_047.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_048.py", "reference_name": "reference_hard_048.py", "slug": "sliding-puzzle", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_049.py", "reference_name": "reference_hard_049.py", "slug": "palindrome-pairs", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_050.py", "reference_name": "reference_hard_050.py", "slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_051.py", "reference_name": "reference_hard_051.py", "slug": "check-if-point-is-reachable", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_052.py", "reference_name": "reference_hard_052.py", "slug": "count-the-repetitions", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_053.py", "reference_name": "reference_hard_053.py", "slug": "frog-position-after-t-seconds", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_054.py", "reference_name": "reference_hard_054.py", "slug": "minimum-total-cost-to-make-arrays-unequal", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_055.py", "reference_name": "reference_hard_055.py", "slug": "k-similar-strings", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_056.py", "reference_name": "reference_hard_056.py", "slug": "minimum-cost-to-split-an-array", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_057.py", "reference_name": "reference_hard_057.py", "slug": "minimum-deletions-to-make-array-divisible", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_058.py", "reference_name": "reference_hard_058.py", "slug": "create-components-with-same-value", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_059.py", "reference_name": "reference_hard_059.py", "slug": "scramble-string", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_060.py", "reference_name": "reference_hard_060.py", "slug": "valid-permutations-for-di-sequence", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_061.py", "reference_name": "reference_hard_061.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_062.py", "reference_name": "reference_hard_062.py", "slug": "maximum-elegance-of-a-k-length-subsequence", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_063.py", "reference_name": "reference_hard_063.py", "slug": "add-edges-to-make-degrees-of-all-nodes-even", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_064.py", "reference_name": "reference_hard_064.py", "slug": "restore-the-array", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_065.py", "reference_name": "reference_hard_065.py", "slug": "edit-distance", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_hard_066.py", "reference_name": "reference_hard_066.py", "slug": "minimum-cost-to-cut-a-stick", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_hard_067.py", "reference_name": "reference_hard_067.py", "slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_hard_068.py", "reference_name": "reference_hard_068.py", "slug": "count-subtrees-with-max-distance-between-cities", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_hard_069.py", "reference_name": "reference_hard_069.py", "slug": "next-greater-element-iv", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_hard_070.py", "reference_name": "reference_hard_070.py", "slug": "minimum-obstacle-removal-to-reach-corner", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_hard_071.py", "reference_name": "reference_hard_071.py", "slug": "median-of-two-sorted-arrays", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_hard_072.py", "reference_name": "reference_hard_072.py", "slug": "reverse-subarray-to-maximize-array-value", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_hard_073.py", "reference_name": "reference_hard_073.py", "slug": "longest-cycle-in-a-graph", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_hard_074.py", "reference_name": "reference_hard_074.py", "slug": "minimum-obstacle-removal-to-reach-corner", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_075.py", "reference_name": "reference_hard_075.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_076.py", "reference_name": "reference_hard_076.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_077.py", "reference_name": "reference_hard_077.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_078.py", "reference_name": "reference_hard_078.py", "slug": "count-anagrams", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_079.py", "reference_name": "reference_hard_079.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_080.py", "reference_name": "reference_hard_080.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_081.py", "reference_name": "reference_hard_081.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_082.py", "reference_name": "reference_hard_082.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_083.py", "reference_name": "reference_hard_083.py", "slug": "maximize-number-of-nice-divisors", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_084.py", "reference_name": "reference_hard_084.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_085.py", "reference_name": "reference_hard_085.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_086.py", "reference_name": "reference_hard_086.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_087.py", "reference_name": "reference_hard_087.py", "slug": "sliding-window-median", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_088.py", "reference_name": "reference_hard_088.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_089.py", "reference_name": "reference_hard_089.py", "slug": "find-the-string-with-lcp", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_090.py", "reference_name": "reference_hard_090.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_091.py", "reference_name": "reference_hard_091.py", "slug": "create-components-with-same-value", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_092.py", "reference_name": "reference_hard_092.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_093.py", "reference_name": "reference_hard_093.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_094.py", "reference_name": "reference_hard_094.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_095.py", "reference_name": "reference_hard_095.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_096.py", "reference_name": "reference_hard_096.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_097.py", "reference_name": "reference_hard_097.py", "slug": "minimize-the-total-price-of-the-trips", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_098.py", "reference_name": "reference_hard_098.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_099.py", "reference_name": "reference_hard_099.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_100.py", "reference_name": "reference_hard_100.py", "slug": "create-components-with-same-value", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_101.py", "reference_name": "reference_hard_101.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_102.py", "reference_name": "reference_hard_102.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_103.py", "reference_name": "reference_hard_103.py", "slug": "count-anagrams", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_104.py", "reference_name": "reference_hard_104.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_105.py", "reference_name": "reference_hard_105.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_106.py", "reference_name": "reference_hard_106.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_107.py", "reference_name": "reference_hard_107.py", "slug": "substring-with-concatenation-of-all-words", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_108.py", "reference_name": "reference_hard_108.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_109.py", "reference_name": "reference_hard_109.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_110.py", "reference_name": "reference_hard_110.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_111.py", "reference_name": "reference_hard_111.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_112.py", "reference_name": "reference_hard_112.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_113.py", "reference_name": "reference_hard_113.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_114.py", "reference_name": "reference_hard_114.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_115.py", "reference_name": "reference_hard_115.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_116.py", "reference_name": "reference_hard_116.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_117.py", "reference_name": "reference_hard_117.py", "slug": "count-anagrams", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_118.py", "reference_name": "reference_hard_118.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_119.py", "reference_name": "reference_hard_119.py", "slug": "count-anagrams", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_120.py", "reference_name": "reference_hard_120.py", "slug": "arithmetic-slices-ii-subsequence", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_121.py", "reference_name": "reference_hard_121.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_122.py", "reference_name": "reference_hard_122.py", "slug": "longest-happy-prefix", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_123.py", "reference_name": "reference_hard_123.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_124.py", "reference_name": "reference_hard_124.py", "slug": "minimum-obstacle-removal-to-reach-corner", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_125.py", "reference_name": "reference_hard_125.py", "slug": "max-points-on-a-line", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_126.py", "reference_name": "reference_hard_126.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_127.py", "reference_name": "reference_hard_127.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_128.py", "reference_name": "reference_hard_128.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_129.py", "reference_name": "reference_hard_129.py", "slug": "find-the-string-with-lcp", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_130.py", "reference_name": "reference_hard_130.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_131.py", "reference_name": "reference_hard_131.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_132.py", "reference_name": "reference_hard_132.py", "slug": "longest-happy-prefix", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_133.py", "reference_name": "reference_hard_133.py", "slug": "maximize-number-of-nice-divisors", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_134.py", "reference_name": "reference_hard_134.py", "slug": "sliding-window-median", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_135.py", "reference_name": "reference_hard_135.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_136.py", "reference_name": "reference_hard_136.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_137.py", "reference_name": "reference_hard_137.py", "slug": "palindrome-pairs", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_138.py", "reference_name": "reference_hard_138.py", "slug": "maximize-the-minimum-powered-city", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_139.py", "reference_name": "reference_hard_139.py", "slug": "k-th-smallest-in-lexicographical-order", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_140.py", "reference_name": "reference_hard_140.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_141.py", "reference_name": "reference_hard_141.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_142.py", "reference_name": "reference_hard_142.py", "slug": "minimize-the-total-price-of-the-trips", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_143.py", "reference_name": "reference_hard_143.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_144.py", "reference_name": "reference_hard_144.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_145.py", "reference_name": "reference_hard_145.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_146.py", "reference_name": "reference_hard_146.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_147.py", "reference_name": "reference_hard_147.py", "slug": "n-queens-ii", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_148.py", "reference_name": "reference_hard_148.py", "slug": "minimize-the-total-price-of-the-trips", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_149.py", "reference_name": "reference_hard_149.py", "slug": "substring-with-concatenation-of-all-words", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_150.py", "reference_name": "reference_hard_150.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_151.py", "reference_name": "reference_hard_151.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_152.py", "reference_name": "reference_hard_152.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_153.py", "reference_name": "reference_hard_153.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_154.py", "reference_name": "reference_hard_154.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_155.py", "reference_name": "reference_hard_155.py", "slug": "find-the-string-with-lcp", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_156.py", "reference_name": "reference_hard_156.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_157.py", "reference_name": "reference_hard_157.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_158.py", "reference_name": "reference_hard_158.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_159.py", "reference_name": "reference_hard_159.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_160.py", "reference_name": "reference_hard_160.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_161.py", "reference_name": "reference_hard_161.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_162.py", "reference_name": "reference_hard_162.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_163.py", "reference_name": "reference_hard_163.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_164.py", "reference_name": "reference_hard_164.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_165.py", "reference_name": "reference_hard_165.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_166.py", "reference_name": "reference_hard_166.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_167.py", "reference_name": "reference_hard_167.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_168.py", "reference_name": "reference_hard_168.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_169.py", "reference_name": "reference_hard_169.py", "slug": "find-the-string-with-lcp", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_170.py", "reference_name": "reference_hard_170.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_171.py", "reference_name": "reference_hard_171.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_172.py", "reference_name": "reference_hard_172.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_173.py", "reference_name": "reference_hard_173.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_174.py", "reference_name": "reference_hard_174.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_175.py", "reference_name": "reference_hard_175.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_176.py", "reference_name": "reference_hard_176.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_hard_177.py", "reference_name": "reference_hard_177.py", "slug": "arithmetic-slices-ii-subsequence", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_hard_178.py", "reference_name": "reference_hard_178.py", "slug": "maximize-the-minimum-powered-city", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_hard_179.py", "reference_name": "reference_hard_179.py", "slug": "count-anagrams", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_hard_180.py", "reference_name": "reference_hard_180.py", "slug": "arithmetic-slices-ii-subsequence", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_hard_181.py", "reference_name": "reference_hard_181.py", "slug": "frog-position-after-t-seconds", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_hard_182.py", "reference_name": "reference_hard_182.py", "slug": "length-of-the-longest-valid-substring", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_hard_183.py", "reference_name": "reference_hard_183.py", "slug": "maximize-number-of-nice-divisors", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_hard_184.py", "reference_name": "reference_hard_184.py", "slug": "maximum-sum-queries", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_hard_185.py", "reference_name": "reference_hard_185.py", "slug": "longest-cycle-in-a-graph", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_hard_186.py", "reference_name": "reference_hard_186.py", "slug": "string-compression-ii", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_hard_187.py", "reference_name": "reference_hard_187.py", "slug": "longest-happy-prefix", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_hard_188.py", "reference_name": "reference_hard_188.py", "slug": "find-the-string-with-lcp", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_hard_189.py", "reference_name": "reference_hard_189.py", "slug": "substring-with-concatenation-of-all-words", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_hard_190.py", "reference_name": "reference_hard_190.py", "slug": "reverse-nodes-in-k-group", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_hard_191.py", "reference_name": "reference_hard_191.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_hard_192.py", "reference_name": "reference_hard_192.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_hard_193.py", "reference_name": "reference_hard_193.py", "slug": "reverse-nodes-in-k-group", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_hard_194.py", "reference_name": "reference_hard_194.py", "slug": "maximize-the-minimum-powered-city", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_hard_195.py", "reference_name": "reference_hard_195.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_hard_196.py", "reference_name": "reference_hard_196.py", "slug": "max-points-on-a-line", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_hard_197.py", "reference_name": "reference_hard_197.py", "slug": "minimize-the-total-price-of-the-trips", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_hard_198.py", "reference_name": "reference_hard_198.py", "slug": "count-subtrees-with-max-distance-between-cities", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_hard_199.py", "reference_name": "reference_hard_199.py", "slug": "sliding-puzzle", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_hard_200.py", "reference_name": "reference_hard_200.py", "slug": "merge-k-sorted-lists", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_hard_201.py", "reference_name": "reference_hard_201.py", "slug": "minimum-obstacle-removal-to-reach-corner", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_hard_202.py", "reference_name": "reference_hard_202.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_hard_203.py", "reference_name": "reference_hard_203.py", "slug": "n-queens-ii", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_hard_204.py", "reference_name": "reference_hard_204.py", "slug": "count-the-repetitions", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_hard_205.py", "reference_name": "reference_hard_205.py", "slug": "design-a-text-editor", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_hard_206.py", "reference_name": "reference_hard_206.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_207.py", "reference_name": "reference_hard_207.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_208.py", "reference_name": "reference_hard_208.py", "slug": "find-the-string-with-lcp", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_209.py", "reference_name": "reference_hard_209.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_210.py", "reference_name": "reference_hard_210.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_211.py", "reference_name": "reference_hard_211.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_212.py", "reference_name": "reference_hard_212.py", "slug": "find-the-string-with-lcp", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_213.py", "reference_name": "reference_hard_213.py", "slug": "maximize-number-of-nice-divisors", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_214.py", "reference_name": "reference_hard_214.py", "slug": "max-points-on-a-line", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_215.py", "reference_name": "reference_hard_215.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_216.py", "reference_name": "reference_hard_216.py", "slug": "count-anagrams", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_217.py", "reference_name": "reference_hard_217.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_218.py", "reference_name": "reference_hard_218.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_219.py", "reference_name": "reference_hard_219.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_220.py", "reference_name": "reference_hard_220.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_221.py", "reference_name": "reference_hard_221.py", "slug": "find-the-string-with-lcp", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_222.py", "reference_name": "reference_hard_222.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_223.py", "reference_name": "reference_hard_223.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_224.py", "reference_name": "reference_hard_224.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_225.py", "reference_name": "reference_hard_225.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_226.py", "reference_name": "reference_hard_226.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_227.py", "reference_name": "reference_hard_227.py", "slug": "minimum-obstacle-removal-to-reach-corner", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_228.py", "reference_name": "reference_hard_228.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_229.py", "reference_name": "reference_hard_229.py", "slug": "sliding-window-median", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_230.py", "reference_name": "reference_hard_230.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_231.py", "reference_name": "reference_hard_231.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_232.py", "reference_name": "reference_hard_232.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_233.py", "reference_name": "reference_hard_233.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_234.py", "reference_name": "reference_hard_234.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_235.py", "reference_name": "reference_hard_235.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_236.py", "reference_name": "reference_hard_236.py", "slug": "sliding-window-median", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_237.py", "reference_name": "reference_hard_237.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_238.py", "reference_name": "reference_hard_238.py", "slug": "find-the-string-with-lcp", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_239.py", "reference_name": "reference_hard_239.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_240.py", "reference_name": "reference_hard_240.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_241.py", "reference_name": "reference_hard_241.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_242.py", "reference_name": "reference_hard_242.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_243.py", "reference_name": "reference_hard_243.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_244.py", "reference_name": "reference_hard_244.py", "slug": "minimize-the-total-price-of-the-trips", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_245.py", "reference_name": "reference_hard_245.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_246.py", "reference_name": "reference_hard_246.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_247.py", "reference_name": "reference_hard_247.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_248.py", "reference_name": "reference_hard_248.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_249.py", "reference_name": "reference_hard_249.py", "slug": "arithmetic-slices-ii-subsequence", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_250.py", "reference_name": "reference_hard_250.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_251.py", "reference_name": "reference_hard_251.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_252.py", "reference_name": "reference_hard_252.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_253.py", "reference_name": "reference_hard_253.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_254.py", "reference_name": "reference_hard_254.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_255.py", "reference_name": "reference_hard_255.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_256.py", "reference_name": "reference_hard_256.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_257.py", "reference_name": "reference_hard_257.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_258.py", "reference_name": "reference_hard_258.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_259.py", "reference_name": "reference_hard_259.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_260.py", "reference_name": "reference_hard_260.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_261.py", "reference_name": "reference_hard_261.py", "slug": "minimum-obstacle-removal-to-reach-corner", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_262.py", "reference_name": "reference_hard_262.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_263.py", "reference_name": "reference_hard_263.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_264.py", "reference_name": "reference_hard_264.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_265.py", "reference_name": "reference_hard_265.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_266.py", "reference_name": "reference_hard_266.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_267.py", "reference_name": "reference_hard_267.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_268.py", "reference_name": "reference_hard_268.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_269.py", "reference_name": "reference_hard_269.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_270.py", "reference_name": "reference_hard_270.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_271.py", "reference_name": "reference_hard_271.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_272.py", "reference_name": "reference_hard_272.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_273.py", "reference_name": "reference_hard_273.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_274.py", "reference_name": "reference_hard_274.py", "slug": "maximize-the-minimum-powered-city", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_275.py", "reference_name": "reference_hard_275.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_276.py", "reference_name": "reference_hard_276.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_277.py", "reference_name": "reference_hard_277.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_278.py", "reference_name": "reference_hard_278.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_279.py", "reference_name": "reference_hard_279.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_280.py", "reference_name": "reference_hard_280.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_281.py", "reference_name": "reference_hard_281.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_282.py", "reference_name": "reference_hard_282.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_283.py", "reference_name": "reference_hard_283.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_284.py", "reference_name": "reference_hard_284.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_285.py", "reference_name": "reference_hard_285.py", "slug": "find-the-string-with-lcp", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_286.py", "reference_name": "reference_hard_286.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_287.py", "reference_name": "reference_hard_287.py", "slug": "minimum-obstacle-removal-to-reach-corner", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_288.py", "reference_name": "reference_hard_288.py", "slug": "sliding-window-median", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_289.py", "reference_name": "reference_hard_289.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_290.py", "reference_name": "reference_hard_290.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_291.py", "reference_name": "reference_hard_291.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_292.py", "reference_name": "reference_hard_292.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_293.py", "reference_name": "reference_hard_293.py", "slug": "minimum-obstacle-removal-to-reach-corner", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_294.py", "reference_name": "reference_hard_294.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_295.py", "reference_name": "reference_hard_295.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_296.py", "reference_name": "reference_hard_296.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_297.py", "reference_name": "reference_hard_297.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_298.py", "reference_name": "reference_hard_298.py", "slug": "create-components-with-same-value", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_299.py", "reference_name": "reference_hard_299.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_300.py", "reference_name": "reference_hard_300.py", "slug": "sliding-window-median", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_301.py", "reference_name": "reference_hard_301.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_302.py", "reference_name": "reference_hard_302.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_303.py", "reference_name": "reference_hard_303.py", "slug": "minimum-obstacle-removal-to-reach-corner", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_304.py", "reference_name": "reference_hard_304.py", "slug": "longest-happy-prefix", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_305.py", "reference_name": "reference_hard_305.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_306.py", "reference_name": "reference_hard_306.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_307.py", "reference_name": "reference_hard_307.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_308.py", "reference_name": "reference_hard_308.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_309.py", "reference_name": "reference_hard_309.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_310.py", "reference_name": "reference_hard_310.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_311.py", "reference_name": "reference_hard_311.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_312.py", "reference_name": "reference_hard_312.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_313.py", "reference_name": "reference_hard_313.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_hard_314.py", "reference_name": "reference_hard_314.py", "slug": "count-anagrams", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_315.py", "reference_name": "reference_hard_315.py", "slug": "create-components-with-same-value", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_316.py", "reference_name": "reference_hard_316.py", "slug": "arithmetic-slices-ii-subsequence", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_317.py", "reference_name": "reference_hard_317.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_318.py", "reference_name": "reference_hard_318.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_319.py", "reference_name": "reference_hard_319.py", "slug": "maximize-number-of-nice-divisors", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_320.py", "reference_name": "reference_hard_320.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_321.py", "reference_name": "reference_hard_321.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_322.py", "reference_name": "reference_hard_322.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_323.py", "reference_name": "reference_hard_323.py", "slug": "sliding-window-median", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_324.py", "reference_name": "reference_hard_324.py", "slug": "minimum-obstacle-removal-to-reach-corner", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_325.py", "reference_name": "reference_hard_325.py", "slug": "n-queens-ii", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_326.py", "reference_name": "reference_hard_326.py", "slug": "reverse-nodes-in-k-group", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_327.py", "reference_name": "reference_hard_327.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_328.py", "reference_name": "reference_hard_328.py", "slug": "minimize-the-total-price-of-the-trips", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_329.py", "reference_name": "reference_hard_329.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_330.py", "reference_name": "reference_hard_330.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_331.py", "reference_name": "reference_hard_331.py", "slug": "n-queens-ii", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_332.py", "reference_name": "reference_hard_332.py", "slug": "scramble-string", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_333.py", "reference_name": "reference_hard_333.py", "slug": "sliding-window-median", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_334.py", "reference_name": "reference_hard_334.py", "slug": "longest-cycle-in-a-graph", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_335.py", "reference_name": "reference_hard_335.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_336.py", "reference_name": "reference_hard_336.py", "slug": "minimum-obstacle-removal-to-reach-corner", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_337.py", "reference_name": "reference_hard_337.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_338.py", "reference_name": "reference_hard_338.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_339.py", "reference_name": "reference_hard_339.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_340.py", "reference_name": "reference_hard_340.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_341.py", "reference_name": "reference_hard_341.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_342.py", "reference_name": "reference_hard_342.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_343.py", "reference_name": "reference_hard_343.py", "slug": "design-a-text-editor", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_344.py", "reference_name": "reference_hard_344.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_345.py", "reference_name": "reference_hard_345.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_346.py", "reference_name": "reference_hard_346.py", "slug": "maximum-elegance-of-a-k-length-subsequence", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_347.py", "reference_name": "reference_hard_347.py", "slug": "max-points-on-a-line", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_348.py", "reference_name": "reference_hard_348.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_349.py", "reference_name": "reference_hard_349.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_350.py", "reference_name": "reference_hard_350.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_351.py", "reference_name": "reference_hard_351.py", "slug": "maximize-number-of-nice-divisors", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_352.py", "reference_name": "reference_hard_352.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_353.py", "reference_name": "reference_hard_353.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_354.py", "reference_name": "reference_hard_354.py", "slug": "edit-distance", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_355.py", "reference_name": "reference_hard_355.py", "slug": "add-edges-to-make-degrees-of-all-nodes-even", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_356.py", "reference_name": "reference_hard_356.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_357.py", "reference_name": "reference_hard_357.py", "slug": "minimum-cost-to-split-an-array", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_358.py", "reference_name": "reference_hard_358.py", "slug": "minimize-the-total-price-of-the-trips", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_359.py", "reference_name": "reference_hard_359.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_360.py", "reference_name": "reference_hard_360.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_361.py", "reference_name": "reference_hard_361.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_362.py", "reference_name": "reference_hard_362.py", "slug": "k-th-smallest-in-lexicographical-order", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_363.py", "reference_name": "reference_hard_363.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_364.py", "reference_name": "reference_hard_364.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_365.py", "reference_name": "reference_hard_365.py", "slug": "arithmetic-slices-ii-subsequence", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_366.py", "reference_name": "reference_hard_366.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_367.py", "reference_name": "reference_hard_367.py", "slug": "create-components-with-same-value", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_368.py", "reference_name": "reference_hard_368.py", "slug": "count-the-repetitions", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_369.py", "reference_name": "reference_hard_369.py", "slug": "max-points-on-a-line", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_370.py", "reference_name": "reference_hard_370.py", "slug": "find-the-string-with-lcp", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_371.py", "reference_name": "reference_hard_371.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_372.py", "reference_name": "reference_hard_372.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_373.py", "reference_name": "reference_hard_373.py", "slug": "find-the-string-with-lcp", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_374.py", "reference_name": "reference_hard_374.py", "slug": "maximize-the-minimum-powered-city", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_375.py", "reference_name": "reference_hard_375.py", "slug": "minimize-the-total-price-of-the-trips", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_376.py", "reference_name": "reference_hard_376.py", "slug": "create-components-with-same-value", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_377.py", "reference_name": "reference_hard_377.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_378.py", "reference_name": "reference_hard_378.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_379.py", "reference_name": "reference_hard_379.py", "slug": "find-the-string-with-lcp", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_380.py", "reference_name": "reference_hard_380.py", "slug": "frog-position-after-t-seconds", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_381.py", "reference_name": "reference_hard_381.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_382.py", "reference_name": "reference_hard_382.py", "slug": "count-anagrams", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_383.py", "reference_name": "reference_hard_383.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_384.py", "reference_name": "reference_hard_384.py", "slug": "merge-k-sorted-lists", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_385.py", "reference_name": "reference_hard_385.py", "slug": "minimum-obstacle-removal-to-reach-corner", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_386.py", "reference_name": "reference_hard_386.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_387.py", "reference_name": "reference_hard_387.py", "slug": "next-greater-element-iv", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_388.py", "reference_name": "reference_hard_388.py", "slug": "sliding-window-median", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_389.py", "reference_name": "reference_hard_389.py", "slug": "reverse-nodes-in-k-group", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_390.py", "reference_name": "reference_hard_390.py", "slug": "valid-arrangement-of-pairs", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_391.py", "reference_name": "reference_hard_391.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_392.py", "reference_name": "reference_hard_392.py", "slug": "length-of-the-longest-valid-substring", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_393.py", "reference_name": "reference_hard_393.py", "slug": "valid-permutations-for-di-sequence", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_394.py", "reference_name": "reference_hard_394.py", "slug": "substring-with-concatenation-of-all-words", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_395.py", "reference_name": "reference_hard_395.py", "slug": "string-compression-ii", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_396.py", "reference_name": "reference_hard_396.py", "slug": "median-of-two-sorted-arrays", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_hard_397.py", "reference_name": "reference_hard_397.py", "slug": "palindrome-pairs", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_hard_398.py", "reference_name": "reference_hard_398.py", "slug": "length-of-the-longest-valid-substring", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_hard_399.py", "reference_name": "reference_hard_399.py", "slug": "create-components-with-same-value", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_hard_400.py", "reference_name": "reference_hard_400.py", "slug": "string-compression-ii", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_hard_401.py", "reference_name": "reference_hard_401.py", "slug": "n-queens-ii", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_hard_402.py", "reference_name": "reference_hard_402.py", "slug": "sliding-window-median", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_hard_403.py", "reference_name": "reference_hard_403.py", "slug": "valid-permutations-for-di-sequence", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_hard_404.py", "reference_name": "reference_hard_404.py", "slug": "minimum-cost-to-split-an-array", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_hard_405.py", "reference_name": "reference_hard_405.py", "slug": "count-the-repetitions", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_hard_406.py", "reference_name": "reference_hard_406.py", "slug": "max-points-on-a-line", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_hard_407.py", "reference_name": "reference_hard_407.py", "slug": "palindrome-partitioning-iii", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_hard_408.py", "reference_name": "reference_hard_408.py", "slug": "find-the-string-with-lcp", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_hard_409.py", "reference_name": "reference_hard_409.py", "slug": "restore-the-array", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_hard_410.py", "reference_name": "reference_hard_410.py", "slug": "count-anagrams", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_hard_411.py", "reference_name": "reference_hard_411.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_hard_412.py", "reference_name": "reference_hard_412.py", "slug": "maximize-number-of-nice-divisors", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_hard_413.py", "reference_name": "reference_hard_413.py", "slug": "count-the-repetitions", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_hard_414.py", "reference_name": "reference_hard_414.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_hard_415.py", "reference_name": "reference_hard_415.py", "slug": "minimize-the-total-price-of-the-trips", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_hard_416.py", "reference_name": "reference_hard_416.py", "slug": "longest-happy-prefix", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_hard_417.py", "reference_name": "reference_hard_417.py", "slug": "valid-permutations-for-di-sequence", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_hard_418.py", "reference_name": "reference_hard_418.py", "slug": "palindrome-partitioning-iii", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_hard_419.py", "reference_name": "reference_hard_419.py", "slug": "maximum-performance-of-a-team", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_hard_420.py", "reference_name": "reference_hard_420.py", "slug": "length-of-the-longest-valid-substring", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_hard_421.py", "reference_name": "reference_hard_421.py", "slug": "n-queens-ii", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_hard_422.py", "reference_name": "reference_hard_422.py", "slug": "minimum-deletions-to-make-array-divisible", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_hard_423.py", "reference_name": "reference_hard_423.py", "slug": "median-of-two-sorted-arrays", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_hard_424.py", "reference_name": "reference_hard_424.py", "slug": "k-similar-strings", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_hard_425.py", "reference_name": "reference_hard_425.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_hard_426.py", "reference_name": "reference_hard_426.py", "slug": "string-compression-ii", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_hard_427.py", "reference_name": "reference_hard_427.py", "slug": "valid-arrangement-of-pairs", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_hard_428.py", "reference_name": "reference_hard_428.py", "slug": "longest-cycle-in-a-graph", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_hard_429.py", "reference_name": "reference_hard_429.py", "slug": "substring-with-concatenation-of-all-words", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_hard_430.py", "reference_name": "reference_hard_430.py", "slug": "arithmetic-slices-ii-subsequence", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_hard_431.py", "reference_name": "reference_hard_431.py", "slug": "valid-permutations-for-di-sequence", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_hard_432.py", "reference_name": "reference_hard_432.py", "slug": "minimize-the-total-price-of-the-trips", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_hard_433.py", "reference_name": "reference_hard_433.py", "slug": "minimum-obstacle-removal-to-reach-corner", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_hard_434.py", "reference_name": "reference_hard_434.py", "slug": "sliding-window-median", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_hard_435.py", "reference_name": "reference_hard_435.py", "slug": "create-components-with-same-value", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_hard_436.py", "reference_name": "reference_hard_436.py", "slug": "find-the-string-with-lcp", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_hard_437.py", "reference_name": "reference_hard_437.py", "slug": "scramble-string", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_hard_438.py", "reference_name": "reference_hard_438.py", "slug": "design-a-text-editor", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_hard_439.py", "reference_name": "reference_hard_439.py", "slug": "edit-distance", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_hard_440.py", "reference_name": "reference_hard_440.py", "slug": "add-edges-to-make-degrees-of-all-nodes-even", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_hard_441.py", "reference_name": "reference_hard_441.py", "slug": "minimum-total-cost-to-make-arrays-unequal", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_hard_442.py", "reference_name": "reference_hard_442.py", "slug": "edit-distance", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_hard_443.py", "reference_name": "reference_hard_443.py", "slug": "find-the-string-with-lcp", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_hard_444.py", "reference_name": "reference_hard_444.py", "slug": "string-compression-ii", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_hard_445.py", "reference_name": "reference_hard_445.py", "slug": "minimum-cost-to-split-an-array", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_hard_446.py", "reference_name": "reference_hard_446.py", "slug": "valid-permutations-for-di-sequence", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_hard_447.py", "reference_name": "reference_hard_447.py", "slug": "minimum-obstacle-removal-to-reach-corner", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_hard_448.py", "reference_name": "reference_hard_448.py", "slug": "minimum-deletions-to-make-array-divisible", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_hard_449.py", "reference_name": "reference_hard_449.py", "slug": "longest-cycle-in-a-graph", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_hard_450.py", "reference_name": "reference_hard_450.py", "slug": "median-of-two-sorted-arrays", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_hard_451.py", "reference_name": "reference_hard_451.py", "slug": "max-points-on-a-line", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_hard_452.py", "reference_name": "reference_hard_452.py", "slug": "longest-happy-prefix", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_hard_453.py", "reference_name": "reference_hard_453.py", "slug": "restore-the-array", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_hard_454.py", "reference_name": "reference_hard_454.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_hard_455.py", "reference_name": "reference_hard_455.py", "slug": "count-anagrams", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_hard_456.py", "reference_name": "reference_hard_456.py", "slug": "arithmetic-slices-ii-subsequence", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_hard_457.py", "reference_name": "reference_hard_457.py", "slug": "max-points-on-a-line", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_hard_458.py", "reference_name": "reference_hard_458.py", "slug": "valid-permutations-for-di-sequence", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_hard_459.py", "reference_name": "reference_hard_459.py", "slug": "sliding-window-median", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_hard_460.py", "reference_name": "reference_hard_460.py", "slug": "count-the-repetitions", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_hard_461.py", "reference_name": "reference_hard_461.py", "slug": "maximum-elegance-of-a-k-length-subsequence", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_hard_462.py", "reference_name": "reference_hard_462.py", "slug": "median-of-two-sorted-arrays", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_hard_463.py", "reference_name": "reference_hard_463.py", "slug": "scramble-string", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_hard_464.py", "reference_name": "reference_hard_464.py", "slug": "length-of-the-longest-valid-substring", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_hard_465.py", "reference_name": "reference_hard_465.py", "slug": "maximize-the-minimum-powered-city", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_hard_466.py", "reference_name": "reference_hard_466.py", "slug": "check-if-string-is-transformable-with-substring-sort-operations", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_hard_467.py", "reference_name": "reference_hard_467.py", "slug": "string-compression-ii", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_hard_468.py", "reference_name": "reference_hard_468.py", "slug": "substring-with-concatenation-of-all-words", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_hard_469.py", "reference_name": "reference_hard_469.py", "slug": "number-of-ways-of-cutting-a-pizza", "category": "reference error", "subtype": "faulty indexing"}

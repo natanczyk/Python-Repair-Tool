@@ -1,0 +1,6 @@
+Define the function lab6ex8 that receives two tuples containing integers sorted in ascending order and returns a tuple also sorted in ascending order containing the elements of both tuples.
+
+For example:
+
+lab6ex8((2, 34, 200, 210), (1, 23))
+(1, 2, 23, 34, 200, 210)

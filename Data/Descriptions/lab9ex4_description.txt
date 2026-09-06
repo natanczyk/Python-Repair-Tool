@@ -1,0 +1,14 @@
+Write the function lab9ex4 that receives a dictionary 'notas' mapping grade values (integers 0-20) to lists of student numbers that received that grade, and returns a tuple (avg, failed) where:
+  - avg: the average grade of students who passed (grade >= 10), as a float
+  - failed: the total count of students who failed (grade < 10)
+
+If no student passed, avg should be 0.0.
+
+For example:
+
+notas = {1: [46592, 49212, 90300, 59312], 15: [52592, 59212], 20: [58323]}
+lab9ex4(notas)
+(50/3, 4)
+
+Explanation: Students with grades 15 and 20 passed (avg = (15+15+20)/3 = 50/3).
+Students with grade 1 failed (count = 4).

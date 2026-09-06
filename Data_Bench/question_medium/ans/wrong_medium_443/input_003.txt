@@ -1,0 +1,1 @@
+encodedText = "coding", rows = 1

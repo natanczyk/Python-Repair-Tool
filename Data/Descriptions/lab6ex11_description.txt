@@ -1,0 +1,6 @@
+Define the function lab6ex11 that receives a tuple of integers w and returns the tuple of positions (indices) where the largest element occurs.
+
+For example:
+
+lab6ex11((1, 2, 3, 2, 1, 2, 3))
+(2, 6)

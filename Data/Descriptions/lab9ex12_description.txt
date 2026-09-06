@@ -1,0 +1,19 @@
+Write the function lab9ex12 that receives a dictionary mapping paper identifiers (strings) to citation counts (integers), and returns the h-index of the researcher.
+
+The h-index is defined as the largest value h such that at least h papers have at least h citations each.
+
+Algorithm: sort the citation counts in descending order. The h-index is the largest h where the h-th paper (1-indexed) has at least h citations.
+
+For example:
+
+pubs = {'A': 10, 'B': 5, 'C': 4, 'D': 3, 'E': 8}
+lab9ex12(pubs)
+4
+
+Explanation: sorted citations = [10, 8, 5, 4, 3].
+h=4: the 4 most cited papers have [10, 8, 5, 4] citations, all >= 4. Valid.
+h=5: only 3 papers have >= 5 citations. Invalid.
+So h-index = 4.
+
+lab9ex12({})
+0

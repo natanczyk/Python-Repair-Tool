@@ -1,0 +1,16 @@
+Write the function lab10ex6 that receives two strings (input file name and output file name) and a non-negative integer n.
+
+The function writes the first n characters of the input file into the output file if the input file contains more than n characters. Otherwise, it writes the entire contents of the input file.
+
+For example, if file fich contains:
+
+A file to perform some tests.
+This file contains two lines.
+
+then:
+
+lab10ex6('fich', 'saida', 18)
+
+produces a file saida containing:
+
+A file to perform

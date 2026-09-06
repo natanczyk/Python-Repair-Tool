@@ -1,0 +1,2 @@
+Using the function lab5ex3 from the previous exercise, write the function lab5ex4 that receives two arguments, r1 and r2, and returns the area of a circular ring with inner radius r1 and outer radius r2.
+Your function should raise a ValueError if r1 is greater than r2.

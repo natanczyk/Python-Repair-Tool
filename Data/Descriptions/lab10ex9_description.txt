@@ -1,0 +1,29 @@
+Write the function lab10ex9 that receives a string containing the input file name, a string containing a single character, and an integer n.
+
+The function splits the file into two output files named as the input file suffixed with '0' and '1'.
+
+The second file contains the same contents as the input file, except that in each line the text between the n-th occurrence of the character (inclusive) and the (n+1)-th occurrence (exclusive) is removed.
+
+The first file contains exactly the removed text from each line.
+
+For example, if file fich contains:
+
+Another file to perform the same tests.
+besides this one.
+This file contains one more line
+
+then:
+
+lab10ex9('fich', 'h', 1)
+
+produces file fich0 containing:
+
+Another fil
+besides this one.
+This fil
+
+and file fich1 containing:
+
+e to perform the same tests.
+
+e contains one more line

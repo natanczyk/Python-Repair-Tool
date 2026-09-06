@@ -1,0 +1,9 @@
+Define the function lab5ex2 that receives an integer corresponding to a certain number of hours and returns a decimal number representing the corresponding number of days.
+
+For example:
+
+lab5ex2(48)
+2.0
+
+lab5ex2(10)
+0.4166666666666667

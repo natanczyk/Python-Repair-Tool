@@ -1,0 +1,6 @@
+Write the function lab6ex4 that receives a tuple containing digits, validating the correctness of its argument, and returns the tuple containing only the even digits.
+
+For example:
+
+lab6ex4((2, 5, 6, 7, 9, 1, 8, 8))
+(2, 6, 8, 8)

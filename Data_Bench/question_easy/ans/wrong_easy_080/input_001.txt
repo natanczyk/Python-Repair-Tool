@@ -1,0 +1,1 @@
+ransomNote = "a", magazine = "b"

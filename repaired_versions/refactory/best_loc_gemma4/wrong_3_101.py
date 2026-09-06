@@ -1,0 +1,10 @@
+def remove_extras(lst):
+    # To remove duplicates while keeping the first occurrence,
+    # we iterate through the list and keep track of seen elements.
+    seen = set()
+    result = []
+    for item in lst:
+        if item not in seen:
+            result.append(item)
+            seen.add(item)
+    return result

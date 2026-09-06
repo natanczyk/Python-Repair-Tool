@@ -1,0 +1,5 @@
+Category,N (has FauxPy output),N (FauxPy never ran / no record),Empty predictions,Empty rate
+syntax error,260,0,253,0.973
+multiple error,731,0,711,0.973
+reference error,227,0,193,0.85
+logic error,196,0,162,0.827

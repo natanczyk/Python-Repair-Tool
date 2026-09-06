@@ -1,0 +1,8 @@
+Define the function lab8ex11 that receives a matrix A and returns the transpose matrix A^T, whose rows are the columns of A.
+
+You may not use the zip instruction.
+
+For example:
+
+lab8ex11([[1, 2, 3], [4, 5, 6]])
+[[1, 4], [2, 5], [3, 6]]

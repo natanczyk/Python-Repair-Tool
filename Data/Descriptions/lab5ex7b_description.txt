@@ -1,0 +1,7 @@
+Using the function lab5ex7a from the previous exercise, write the function lab5ex7b that computes after how many years the money doubles.
+It is not necessary to validate input data.
+
+For example:
+
+lab5ex7b(100, 0.03)
+24

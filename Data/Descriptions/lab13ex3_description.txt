@@ -1,0 +1,26 @@
+Using only recursion (no loops), define the function lab13ex3 that receives a list (possibly containing nested lists) and returns the total number of sublists it contains at any depth, not counting the outermost list itself.
+
+An element is a sublist if it is a list (type list). Non-list elements (integers, strings, floats) are not counted.
+
+For example:
+
+lab13ex3([])
+0
+
+lab13ex3([1, 2, 3])
+0
+
+lab13ex3([[1, 2], [3, 4]])
+2
+
+lab13ex3([[[1]]])
+2
+
+lab13ex3([[[[[1]]]]])
+4
+
+lab13ex3(['a', [2, 3, [[[1]], 6, 7], 'b']])
+4
+
+lab13ex3([[], [], []])
+3

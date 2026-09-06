@@ -1,0 +1,15 @@
+Write the function lab9ex10c that receives two rational numbers r1 and r2 (each represented as a dictionary with keys 'n' and 'd') and returns their sum as a rational number in canonical form.
+
+The sum formula is:
+  result_n = r1['n'] * r2['d'] + r1['d'] * r2['n']
+  result_d = r1['d'] * r2['d']
+
+Then reduce to canonical form using GCD.
+
+For example:
+
+lab9ex10c({'n': 2, 'd': 3}, {'n': 2, 'd': 3})
+{'n': 4, 'd': 3}
+
+lab9ex10c({'n': 1, 'd': 2}, {'n': 1, 'd': 3})
+{'n': 5, 'd': 6}

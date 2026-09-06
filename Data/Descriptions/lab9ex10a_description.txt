@@ -1,0 +1,18 @@
+Write the function lab9ex10a that receives two integers n (numerator) and d (denominator) and returns a rational number in canonical (reduced) form as a dictionary with keys 'n' and 'd'.
+
+The canonical form is obtained by dividing both n and d by their GCD. The denominator must always be positive (if d is negative, move the sign to the numerator).
+
+Raise ValueError if:
+  - d is zero
+  - n or d is not an integer
+
+For example:
+
+lab9ex10a(4, 6)
+{'n': 2, 'd': 3}
+
+lab9ex10a(3, 9)
+{'n': 1, 'd': 3}
+
+lab9ex10a(4, 0)   # raises ValueError
+lab9ex10a(4.3, 2) # raises ValueError

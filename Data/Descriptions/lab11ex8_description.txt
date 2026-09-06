@@ -1,0 +1,13 @@
+Using higher-order functions over lists, write the function lab11ex8 that receives a positive integer n and returns the list whose elements are the digits of n.
+
+Your function must contain only one instruction: the return statement.
+
+Suggestion: Convert the number into a string, then map each character to an integer.
+
+For example:
+
+lab11ex8(123)
+[1, 2, 3]
+
+lab11ex8(1000)
+[1, 0, 0, 0]

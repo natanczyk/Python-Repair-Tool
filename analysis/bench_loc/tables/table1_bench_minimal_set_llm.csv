@@ -1,0 +1,10 @@
+Method,Precision,Recall,F1
+FauxPy,0.022,0.021,0.021
+Qwen2.5,0.506,0.587,0.494
+Qwen3.6,0.732,0.814,0.723
+Qwen3Coder,0.531,0.797,0.581
+Gemma4,0.679,0.828,0.689
+Granite4,0.593,0.682,0.581
+CodeGemma,0.304,0.439,0.314
+GraniteCode,0.423,0.448,0.38
+CodeLlama,0.26,0.674,0.326

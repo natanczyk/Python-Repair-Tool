@@ -1,0 +1,13 @@
+Write the function lab8ex6 that receives two matrices with the same dimensions and returns a matrix corresponding to their sum.
+
+If a and b are the matrices being added, the elements of the resulting matrix are:
+
+sij = aij + bij
+
+For example:
+
+m1 = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+m2 = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+
+lab8ex6(m1, m2)
+[[2, 4, 6], [8, 10, 12], [14, 16, 18]]

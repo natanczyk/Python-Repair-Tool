@@ -1,0 +1,9 @@
+Using recursion (without built-in higher-order functions like reduce), define the function lab11ex4c(lst, fn) that returns the value obtained by applying the two-argument function fn to all elements of the list lst (a left fold / reduce operation).
+
+For example:
+
+lab11ex4c([1, 2, 3, 4], lambda x, y: x + y)
+10
+
+lab11ex4c([1, 2, 3, 4], lambda x, y: x * y)
+24

@@ -1,0 +1,202 @@
+{
+  "question_1": {
+    "name": "bitcount",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_2": {
+    "name": "breadth_first_search",
+    "has_tests": true,
+    "kind": "graph"
+  },
+  "question_3": {
+    "name": "bucketsort",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_4": {
+    "name": "depth_first_search",
+    "has_tests": true,
+    "kind": "graph"
+  },
+  "question_5": {
+    "name": "detect_cycle",
+    "has_tests": true,
+    "kind": "graph"
+  },
+  "question_6": {
+    "name": "find_first_in_sorted",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_7": {
+    "name": "find_in_sorted",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_8": {
+    "name": "flatten",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_9": {
+    "name": "gcd",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_10": {
+    "name": "get_factors",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_11": {
+    "name": "hanoi",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_12": {
+    "name": "is_valid_parenthesization",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_13": {
+    "name": "kheapsort",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_14": {
+    "name": "knapsack",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_15": {
+    "name": "kth",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_16": {
+    "name": "lcs_length",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_17": {
+    "name": "levenshtein",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_18": {
+    "name": "lis",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_19": {
+    "name": "longest_common_subsequence",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_20": {
+    "name": "max_sublist_sum",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_21": {
+    "name": "mergesort",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_22": {
+    "name": "minimum_spanning_tree",
+    "has_tests": true,
+    "kind": "graph"
+  },
+  "question_23": {
+    "name": "next_palindrome",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_24": {
+    "name": "next_permutation",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_25": {
+    "name": "pascal",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_26": {
+    "name": "possible_change",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_27": {
+    "name": "powerset",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_28": {
+    "name": "quicksort",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_29": {
+    "name": "reverse_linked_list",
+    "has_tests": true,
+    "kind": "graph"
+  },
+  "question_30": {
+    "name": "rpn_eval",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_31": {
+    "name": "shortest_path_length",
+    "has_tests": true,
+    "kind": "graph"
+  },
+  "question_32": {
+    "name": "shortest_path_lengths",
+    "has_tests": true,
+    "kind": "graph"
+  },
+  "question_33": {
+    "name": "shortest_paths",
+    "has_tests": true,
+    "kind": "graph"
+  },
+  "question_34": {
+    "name": "shunting_yard",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_35": {
+    "name": "sieve",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_36": {
+    "name": "sqrt",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_37": {
+    "name": "subsequences",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_38": {
+    "name": "to_base",
+    "has_tests": true,
+    "kind": "json"
+  },
+  "question_39": {
+    "name": "topological_ordering",
+    "has_tests": true,
+    "kind": "graph"
+  },
+  "question_40": {
+    "name": "wrap",
+    "has_tests": true,
+    "kind": "json"
+  }
+}

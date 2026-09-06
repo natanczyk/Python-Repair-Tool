@@ -1,0 +1,9 @@
+Using recursion (without built-in higher-order functions like filter), define the function lab11ex4a(lst, tst) that returns the list obtained from lst containing only the elements that satisfy the one-argument predicate tst.
+
+For example:
+
+lab11ex4a([1, 2, 3, 4, 5], lambda x: x % 2 == 0)
+[2, 4]
+
+lab11ex4a([], lambda x: x > 0)
+[]

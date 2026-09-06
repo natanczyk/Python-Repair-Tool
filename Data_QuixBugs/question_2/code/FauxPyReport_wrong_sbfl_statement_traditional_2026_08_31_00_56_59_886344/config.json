@@ -1,0 +1,9 @@
+{
+    "Src": "wrong_breadth_first_search.py",
+    "Exclude": [],
+    "Family": "Sbfl",
+    "Granularity": "Statement",
+    "TopN": -1,
+    "TargetedFailingTests": [],
+    "MutationStrategy": "Traditional"
+}

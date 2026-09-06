@@ -1,0 +1,33 @@
+Model,Type,"already passing (solved, 0 iter)","solved with repair (solved, 1+ iter)","never attempted (unsolved, 0 iter)","died mid-loop (unsolved, 1-3 iter)","exhausted budget (unsolved, 4 iter)"
+CodeGemma,Best-Loc (Gemma4),0.044,0.731,0.026,0.013,0.186
+CodeGemma,FauxPy,0.042,0.458,0.04,0.004,0.456
+CodeGemma,None,0.044,0.482,0.022,0.003,0.449
+CodeGemma,Self-LLM,0.044,0.458,0.022,0.008,0.467
+CodeLlama,Best-Loc (Gemma4),0.044,0.797,0.023,0.006,0.13
+CodeLlama,FauxPy,0.044,0.422,0.046,0.013,0.476
+CodeLlama,None,0.044,0.497,0.022,0.025,0.412
+CodeLlama,Self-LLM,0.044,0.576,0.022,0.001,0.357
+Gemma4,Best-Loc (Gemma4),0.043,0.884,0.028,0.019,0.025
+Gemma4,FauxPy,0.044,0.905,0.036,0.0,0.016
+Gemma4,None,0.044,0.876,0.034,0.018,0.028
+Gemma4,Self-LLM,0.041,0.807,0.065,0.064,0.024
+Granite4,Best-Loc (Gemma4),0.044,0.902,0.024,0.01,0.019
+Granite4,FauxPy,0.043,0.86,0.053,0.006,0.039
+Granite4,None,0.044,0.895,0.027,0.006,0.028
+Granite4,Self-LLM,0.044,0.894,0.022,0.0,0.04
+GraniteCode,Best-Loc (Gemma4),0.044,0.746,0.022,0.002,0.185
+GraniteCode,FauxPy,0.04,0.355,0.051,0.036,0.519
+GraniteCode,None,0.043,0.365,0.03,0.011,0.551
+GraniteCode,Self-LLM,0.044,0.416,0.024,0.001,0.515
+Qwen2.5,Best-Loc (Gemma4),0.044,0.9,0.022,0.001,0.033
+Qwen2.5,FauxPy,0.042,0.82,0.051,0.005,0.082
+Qwen2.5,None,0.044,0.844,0.036,0.024,0.051
+Qwen2.5,Self-LLM,0.044,0.811,0.022,0.002,0.121
+Qwen3.6,Best-Loc (Gemma4),0.044,0.906,0.022,0.0,0.028
+Qwen3.6,FauxPy,0.044,0.885,0.037,0.0,0.034
+Qwen3.6,None,0.044,0.844,0.039,0.022,0.051
+Qwen3.6,Self-LLM,0.044,0.896,0.022,0.004,0.034
+Qwen3Coder,Best-Loc (Gemma4),0.042,0.715,0.026,0.013,0.204
+Qwen3Coder,FauxPy,0.039,0.464,0.04,0.004,0.453
+Qwen3Coder,None,0.041,0.478,0.022,0.004,0.455
+Qwen3Coder,Self-LLM,0.049,0.473,0.019,0.007,0.453

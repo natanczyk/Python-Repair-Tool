@@ -1,0 +1,9 @@
+Model,Spearman,Kendall_tau,n
+Qwen2.5,0.0399,0.0226,1594
+Qwen3.6,0.1360,0.0795,1594
+Qwen3Coder,0.0718,0.0604,1594
+Gemma4,0.1399,0.1095,1594
+Granite4,0.0937,0.0516,1594
+CodeGemma,0.0407,0.0721,1594
+GraniteCode,0.0475,-0.0329,1591
+CodeLlama,-0.0110,-0.0400,1585

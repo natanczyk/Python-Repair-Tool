@@ -1,0 +1,9 @@
+{
+    "Src": "wrong_is_valid_parenthesization.py",
+    "Exclude": [],
+    "Family": "Sbfl",
+    "Granularity": "Statement",
+    "TopN": -1,
+    "TargetedFailingTests": [],
+    "MutationStrategy": "Traditional"
+}

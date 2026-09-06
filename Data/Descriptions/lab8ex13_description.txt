@@ -1,0 +1,21 @@
+Define the function lab8ex13 that receives:
+- a function f
+- the interval endpoints a and b (with a < b)
+- the number of subintervals n used to approximate the area
+
+The method divides [a, b] into n consecutive subintervals of equal width l = (b - a) / n and approximates the area under f on each subinterval using the trapezoidal rule:
+
+area_i = l * (f(x_i) + f(x_{i+1})) / 2
+
+The total approximate area is the sum of all such areas.
+
+For example (using f(x) = -(x-2)^2 + 5):
+
+lab8ex13(f, 0.5, 3.5, 6)
+12.625
+
+lab8ex13(f, 0.5, 3.5, 12)
+12.71875
+
+lab8ex13(f, 0.5, 3.5, 100)
+12.749550000000003

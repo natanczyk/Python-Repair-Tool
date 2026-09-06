@@ -1,0 +1,355 @@
+{"program_name": "wrong_easy_001.py", "reference_name": "reference_easy_001.py", "slug": "nim-game", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_002.py", "reference_name": "reference_easy_002.py", "slug": "increasing-order-search-tree", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_003.py", "reference_name": "reference_easy_003.py", "slug": "check-if-one-string-swap-can-make-strings-equal", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_004.py", "reference_name": "reference_easy_004.py", "slug": "number-complement", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_005.py", "reference_name": "reference_easy_005.py", "slug": "alternating-digit-sum", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_006.py", "reference_name": "reference_easy_006.py", "slug": "range-sum-query-immutable", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_007.py", "reference_name": "reference_easy_007.py", "slug": "plus-one", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_008.py", "reference_name": "reference_easy_008.py", "slug": "third-maximum-number", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_009.py", "reference_name": "reference_easy_009.py", "slug": "minimum-index-sum-of-two-lists", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_010.py", "reference_name": "reference_easy_010.py", "slug": "find-words-that-can-be-formed-by-characters", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_011.py", "reference_name": "reference_easy_011.py", "slug": "delete-greatest-value-in-each-row", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_012.py", "reference_name": "reference_easy_012.py", "slug": "minimum-bit-flips-to-convert-number", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_013.py", "reference_name": "reference_easy_013.py", "slug": "linked-list-cycle", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_014.py", "reference_name": "reference_easy_014.py", "slug": "minimum-distance-to-the-target-element", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_015.py", "reference_name": "reference_easy_015.py", "slug": "distribute-candies", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_016.py", "reference_name": "reference_easy_016.py", "slug": "partition-array-into-three-parts-with-equal-sum", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_017.py", "reference_name": "reference_easy_017.py", "slug": "convert-integer-to-the-sum-of-two-no-zero-integers", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_018.py", "reference_name": "reference_easy_018.py", "slug": "how-many-numbers-are-smaller-than-the-current-number", "category": "syntax error", "subtype": "illegal indentation"}
+{"program_name": "wrong_easy_019.py", "reference_name": "reference_easy_019.py", "slug": "increasing-decreasing-string", "category": "logic error", "subtype": "other error"}
+{"program_name": "wrong_easy_020.py", "reference_name": "reference_easy_020.py", "slug": "binary-tree-inorder-traversal", "category": "logic error", "subtype": "other error"}
+{"program_name": "wrong_easy_021.py", "reference_name": "reference_easy_021.py", "slug": "range-sum-query-immutable", "category": "logic error", "subtype": "other error"}
+{"program_name": "wrong_easy_022.py", "reference_name": "reference_easy_022.py", "slug": "isomorphic-strings", "category": "logic error", "subtype": "other error"}
+{"program_name": "wrong_easy_023.py", "reference_name": "reference_easy_023.py", "slug": "convert-integer-to-the-sum-of-two-no-zero-integers", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_easy_024.py", "reference_name": "reference_easy_024.py", "slug": "find-first-palindromic-string-in-the-array", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_easy_025.py", "reference_name": "reference_easy_025.py", "slug": "minimum-difference-between-highest-and-lowest-of-k-scores", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_easy_026.py", "reference_name": "reference_easy_026.py", "slug": "number-complement", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_easy_027.py", "reference_name": "reference_easy_027.py", "slug": "pascals-triangle", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_easy_028.py", "reference_name": "reference_easy_028.py", "slug": "binary-tree-inorder-traversal", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_easy_029.py", "reference_name": "reference_easy_029.py", "slug": "baseball-game", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_easy_030.py", "reference_name": "reference_easy_030.py", "slug": "minimum-index-sum-of-two-lists", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_easy_031.py", "reference_name": "reference_easy_031.py", "slug": "largest-positive-integer-that-exists-with-its-negative", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_easy_032.py", "reference_name": "reference_easy_032.py", "slug": "self-dividing-numbers", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_easy_033.py", "reference_name": "reference_easy_033.py", "slug": "find-the-middle-index-in-array", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_easy_034.py", "reference_name": "reference_easy_034.py", "slug": "can-place-flowers", "category": "reference error", "subtype": "illegal keywords"}
+{"program_name": "wrong_easy_035.py", "reference_name": "reference_easy_035.py", "slug": "fibonacci-number", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_036.py", "reference_name": "reference_easy_036.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_037.py", "reference_name": "reference_easy_037.py", "slug": "next-greater-element-i", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_038.py", "reference_name": "reference_easy_038.py", "slug": "partition-array-into-three-parts-with-equal-sum", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_039.py", "reference_name": "reference_easy_039.py", "slug": "kth-missing-positive-number", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_040.py", "reference_name": "reference_easy_040.py", "slug": "fizz-buzz", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_041.py", "reference_name": "reference_easy_041.py", "slug": "minimum-bit-flips-to-convert-number", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_042.py", "reference_name": "reference_easy_042.py", "slug": "make-array-zero-by-subtracting-equal-amounts", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_043.py", "reference_name": "reference_easy_043.py", "slug": "unique-number-of-occurrences", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_044.py", "reference_name": "reference_easy_044.py", "slug": "linked-list-cycle", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_045.py", "reference_name": "reference_easy_045.py", "slug": "next-greater-element-i", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_046.py", "reference_name": "reference_easy_046.py", "slug": "fizz-buzz", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_047.py", "reference_name": "reference_easy_047.py", "slug": "lexicographically-smallest-palindrome", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_048.py", "reference_name": "reference_easy_048.py", "slug": "distribute-candies", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_049.py", "reference_name": "reference_easy_049.py", "slug": "increasing-decreasing-string", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_050.py", "reference_name": "reference_easy_050.py", "slug": "capitalize-the-title", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_051.py", "reference_name": "reference_easy_051.py", "slug": "find-first-palindromic-string-in-the-array", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_052.py", "reference_name": "reference_easy_052.py", "slug": "check-if-every-row-and-column-contains-all-numbers", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_053.py", "reference_name": "reference_easy_053.py", "slug": "how-many-numbers-are-smaller-than-the-current-number", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_054.py", "reference_name": "reference_easy_054.py", "slug": "third-maximum-number", "category": "reference error", "subtype": "undefined methods"}
+{"program_name": "wrong_easy_055.py", "reference_name": "reference_easy_055.py", "slug": "average-value-of-even-numbers-that-are-divisible-by-three", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_easy_056.py", "reference_name": "reference_easy_056.py", "slug": "alternating-digit-sum", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_easy_057.py", "reference_name": "reference_easy_057.py", "slug": "largest-positive-integer-that-exists-with-its-negative", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_easy_058.py", "reference_name": "reference_easy_058.py", "slug": "find-words-that-can-be-formed-by-characters", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_easy_059.py", "reference_name": "reference_easy_059.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_easy_060.py", "reference_name": "reference_easy_060.py", "slug": "partition-array-into-three-parts-with-equal-sum", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_easy_061.py", "reference_name": "reference_easy_061.py", "slug": "how-many-numbers-are-smaller-than-the-current-number", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_easy_062.py", "reference_name": "reference_easy_062.py", "slug": "self-dividing-numbers", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_easy_063.py", "reference_name": "reference_easy_063.py", "slug": "fibonacci-number", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_easy_064.py", "reference_name": "reference_easy_064.py", "slug": "determine-the-winner-of-a-bowling-game", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_easy_065.py", "reference_name": "reference_easy_065.py", "slug": "find-the-array-concatenation-value", "category": "syntax error", "subtype": "illegal comment"}
+{"program_name": "wrong_easy_066.py", "reference_name": "reference_easy_066.py", "slug": "binary-search", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_067.py", "reference_name": "reference_easy_067.py", "slug": "partition-array-into-three-parts-with-equal-sum", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_068.py", "reference_name": "reference_easy_068.py", "slug": "minimum-bit-flips-to-convert-number", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_069.py", "reference_name": "reference_easy_069.py", "slug": "make-array-zero-by-subtracting-equal-amounts", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_070.py", "reference_name": "reference_easy_070.py", "slug": "next-greater-element-i", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_071.py", "reference_name": "reference_easy_071.py", "slug": "average-value-of-even-numbers-that-are-divisible-by-three", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_072.py", "reference_name": "reference_easy_072.py", "slug": "delete-greatest-value-in-each-row", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_073.py", "reference_name": "reference_easy_073.py", "slug": "fizz-buzz", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_074.py", "reference_name": "reference_easy_074.py", "slug": "plus-one", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_075.py", "reference_name": "reference_easy_075.py", "slug": "minimum-difference-between-highest-and-lowest-of-k-scores", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_076.py", "reference_name": "reference_easy_076.py", "slug": "find-the-array-concatenation-value", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_077.py", "reference_name": "reference_easy_077.py", "slug": "determine-the-winner-of-a-bowling-game", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_078.py", "reference_name": "reference_easy_078.py", "slug": "rings-and-rods", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_079.py", "reference_name": "reference_easy_079.py", "slug": "fizz-buzz", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_080.py", "reference_name": "reference_easy_080.py", "slug": "ransom-note", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_081.py", "reference_name": "reference_easy_081.py", "slug": "linked-list-cycle", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_082.py", "reference_name": "reference_easy_082.py", "slug": "x-of-a-kind-in-a-deck-of-cards", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_083.py", "reference_name": "reference_easy_083.py", "slug": "excel-sheet-column-title", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_084.py", "reference_name": "reference_easy_084.py", "slug": "nim-game", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_085.py", "reference_name": "reference_easy_085.py", "slug": "remove-linked-list-elements", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_086.py", "reference_name": "reference_easy_086.py", "slug": "third-maximum-number", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_087.py", "reference_name": "reference_easy_087.py", "slug": "verifying-an-alien-dictionary", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_088.py", "reference_name": "reference_easy_088.py", "slug": "pascals-triangle", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_089.py", "reference_name": "reference_easy_089.py", "slug": "check-if-one-string-swap-can-make-strings-equal", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_090.py", "reference_name": "reference_easy_090.py", "slug": "increasing-order-search-tree", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_091.py", "reference_name": "reference_easy_091.py", "slug": "lexicographically-smallest-palindrome", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_092.py", "reference_name": "reference_easy_092.py", "slug": "can-place-flowers", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_093.py", "reference_name": "reference_easy_093.py", "slug": "most-common-word", "category": "logic error", "subtype": "condition error"}
+{"program_name": "wrong_easy_094.py", "reference_name": "reference_easy_094.py", "slug": "find-the-middle-index-in-array", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_easy_095.py", "reference_name": "reference_easy_095.py", "slug": "maximum-depth-of-n-ary-tree", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_easy_096.py", "reference_name": "reference_easy_096.py", "slug": "calculate-money-in-leetcode-bank", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_easy_097.py", "reference_name": "reference_easy_097.py", "slug": "longest-subsequence-with-limited-sum", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_easy_098.py", "reference_name": "reference_easy_098.py", "slug": "count-equal-and-divisible-pairs-in-an-array", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_easy_099.py", "reference_name": "reference_easy_099.py", "slug": "substrings-of-size-three-with-distinct-characters", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_easy_100.py", "reference_name": "reference_easy_100.py", "slug": "find-the-array-concatenation-value", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_easy_101.py", "reference_name": "reference_easy_101.py", "slug": "check-if-every-row-and-column-contains-all-numbers", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_easy_102.py", "reference_name": "reference_easy_102.py", "slug": "minimum-index-sum-of-two-lists", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_easy_103.py", "reference_name": "reference_easy_103.py", "slug": "minimum-difference-between-highest-and-lowest-of-k-scores", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_easy_104.py", "reference_name": "reference_easy_104.py", "slug": "maximum-depth-of-binary-tree", "category": "logic error", "subtype": "variable error"}
+{"program_name": "wrong_easy_105.py", "reference_name": "reference_easy_105.py", "slug": "number-complement", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_106.py", "reference_name": "reference_easy_106.py", "slug": "check-if-every-row-and-column-contains-all-numbers", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_107.py", "reference_name": "reference_easy_107.py", "slug": "linked-list-cycle", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_108.py", "reference_name": "reference_easy_108.py", "slug": "how-many-numbers-are-smaller-than-the-current-number", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_109.py", "reference_name": "reference_easy_109.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_110.py", "reference_name": "reference_easy_110.py", "slug": "lexicographically-smallest-palindrome", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_111.py", "reference_name": "reference_easy_111.py", "slug": "partition-array-into-three-parts-with-equal-sum", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_112.py", "reference_name": "reference_easy_112.py", "slug": "alternating-digit-sum", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_113.py", "reference_name": "reference_easy_113.py", "slug": "increasing-order-search-tree", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_114.py", "reference_name": "reference_easy_114.py", "slug": "check-whether-two-strings-are-almost-equivalent", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_115.py", "reference_name": "reference_easy_115.py", "slug": "average-value-of-even-numbers-that-are-divisible-by-three", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_116.py", "reference_name": "reference_easy_116.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_117.py", "reference_name": "reference_easy_117.py", "slug": "largest-positive-integer-that-exists-with-its-negative", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_118.py", "reference_name": "reference_easy_118.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_119.py", "reference_name": "reference_easy_119.py", "slug": "check-if-every-row-and-column-contains-all-numbers", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_120.py", "reference_name": "reference_easy_120.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_121.py", "reference_name": "reference_easy_121.py", "slug": "find-words-that-can-be-formed-by-characters", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_122.py", "reference_name": "reference_easy_122.py", "slug": "unique-number-of-occurrences", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_123.py", "reference_name": "reference_easy_123.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_124.py", "reference_name": "reference_easy_124.py", "slug": "baseball-game", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_125.py", "reference_name": "reference_easy_125.py", "slug": "find-the-middle-index-in-array", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_126.py", "reference_name": "reference_easy_126.py", "slug": "baseball-game", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_127.py", "reference_name": "reference_easy_127.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_128.py", "reference_name": "reference_easy_128.py", "slug": "delete-greatest-value-in-each-row", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_129.py", "reference_name": "reference_easy_129.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_130.py", "reference_name": "reference_easy_130.py", "slug": "lexicographically-smallest-palindrome", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_131.py", "reference_name": "reference_easy_131.py", "slug": "largest-positive-integer-that-exists-with-its-negative", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_132.py", "reference_name": "reference_easy_132.py", "slug": "lexicographically-smallest-palindrome", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_133.py", "reference_name": "reference_easy_133.py", "slug": "linked-list-cycle", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_134.py", "reference_name": "reference_easy_134.py", "slug": "check-whether-two-strings-are-almost-equivalent", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_135.py", "reference_name": "reference_easy_135.py", "slug": "lexicographically-smallest-palindrome", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_136.py", "reference_name": "reference_easy_136.py", "slug": "baseball-game", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_137.py", "reference_name": "reference_easy_137.py", "slug": "minimum-index-sum-of-two-lists", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_138.py", "reference_name": "reference_easy_138.py", "slug": "number-complement", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_139.py", "reference_name": "reference_easy_139.py", "slug": "largest-positive-integer-that-exists-with-its-negative", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_140.py", "reference_name": "reference_easy_140.py", "slug": "lexicographically-smallest-palindrome", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_141.py", "reference_name": "reference_easy_141.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_142.py", "reference_name": "reference_easy_142.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_143.py", "reference_name": "reference_easy_143.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_144.py", "reference_name": "reference_easy_144.py", "slug": "number-complement", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_145.py", "reference_name": "reference_easy_145.py", "slug": "find-words-that-can-be-formed-by-characters", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_146.py", "reference_name": "reference_easy_146.py", "slug": "number-complement", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_147.py", "reference_name": "reference_easy_147.py", "slug": "number-complement", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_148.py", "reference_name": "reference_easy_148.py", "slug": "fizz-buzz", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_149.py", "reference_name": "reference_easy_149.py", "slug": "how-many-numbers-are-smaller-than-the-current-number", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_150.py", "reference_name": "reference_easy_150.py", "slug": "self-dividing-numbers", "category": "multiple error", "subtype": "triple"}
+{"program_name": "wrong_easy_151.py", "reference_name": "reference_easy_151.py", "slug": "n-th-tribonacci-number", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_152.py", "reference_name": "reference_easy_152.py", "slug": "baseball-game", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_153.py", "reference_name": "reference_easy_153.py", "slug": "capitalize-the-title", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_154.py", "reference_name": "reference_easy_154.py", "slug": "check-whether-two-strings-are-almost-equivalent", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_155.py", "reference_name": "reference_easy_155.py", "slug": "longest-harmonious-subsequence", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_156.py", "reference_name": "reference_easy_156.py", "slug": "next-greater-element-i", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_157.py", "reference_name": "reference_easy_157.py", "slug": "reverse-bits", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_158.py", "reference_name": "reference_easy_158.py", "slug": "alternating-digit-sum", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_159.py", "reference_name": "reference_easy_159.py", "slug": "minimum-subsequence-in-non-increasing-order", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_160.py", "reference_name": "reference_easy_160.py", "slug": "largest-positive-integer-that-exists-with-its-negative", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_161.py", "reference_name": "reference_easy_161.py", "slug": "kth-missing-positive-number", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_162.py", "reference_name": "reference_easy_162.py", "slug": "number-complement", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_163.py", "reference_name": "reference_easy_163.py", "slug": "design-hashmap", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_164.py", "reference_name": "reference_easy_164.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_165.py", "reference_name": "reference_easy_165.py", "slug": "rank-transform-of-an-array", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_166.py", "reference_name": "reference_easy_166.py", "slug": "find-first-palindromic-string-in-the-array", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_167.py", "reference_name": "reference_easy_167.py", "slug": "unique-number-of-occurrences", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_168.py", "reference_name": "reference_easy_168.py", "slug": "alternating-digit-sum", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_169.py", "reference_name": "reference_easy_169.py", "slug": "self-dividing-numbers", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_170.py", "reference_name": "reference_easy_170.py", "slug": "fibonacci-number", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_171.py", "reference_name": "reference_easy_171.py", "slug": "distribute-candies", "category": "logic error", "subtype": "operation error"}
+{"program_name": "wrong_easy_172.py", "reference_name": "reference_easy_172.py", "slug": "check-whether-two-strings-are-almost-equivalent", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_easy_173.py", "reference_name": "reference_easy_173.py", "slug": "number-complement", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_easy_174.py", "reference_name": "reference_easy_174.py", "slug": "fizz-buzz", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_easy_175.py", "reference_name": "reference_easy_175.py", "slug": "largest-number-after-digit-swaps-by-parity", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_easy_176.py", "reference_name": "reference_easy_176.py", "slug": "minimum-distance-to-the-target-element", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_easy_177.py", "reference_name": "reference_easy_177.py", "slug": "find-the-middle-index-in-array", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_easy_178.py", "reference_name": "reference_easy_178.py", "slug": "partition-array-into-three-parts-with-equal-sum", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_easy_179.py", "reference_name": "reference_easy_179.py", "slug": "check-if-every-row-and-column-contains-all-numbers", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_easy_180.py", "reference_name": "reference_easy_180.py", "slug": "binary-tree-inorder-traversal", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_easy_181.py", "reference_name": "reference_easy_181.py", "slug": "fizz-buzz", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_easy_182.py", "reference_name": "reference_easy_182.py", "slug": "can-place-flowers", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_easy_183.py", "reference_name": "reference_easy_183.py", "slug": "find-the-array-concatenation-value", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_easy_184.py", "reference_name": "reference_easy_184.py", "slug": "find-mode-in-binary-search-tree", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_easy_185.py", "reference_name": "reference_easy_185.py", "slug": "neither-minimum-nor-maximum", "category": "reference error", "subtype": "undefined objects"}
+{"program_name": "wrong_easy_186.py", "reference_name": "reference_easy_186.py", "slug": "lexicographically-smallest-palindrome", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_187.py", "reference_name": "reference_easy_187.py", "slug": "find-words-that-can-be-formed-by-characters", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_188.py", "reference_name": "reference_easy_188.py", "slug": "lexicographically-smallest-palindrome", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_189.py", "reference_name": "reference_easy_189.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_190.py", "reference_name": "reference_easy_190.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_191.py", "reference_name": "reference_easy_191.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_192.py", "reference_name": "reference_easy_192.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_193.py", "reference_name": "reference_easy_193.py", "slug": "largest-positive-integer-that-exists-with-its-negative", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_194.py", "reference_name": "reference_easy_194.py", "slug": "baseball-game", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_195.py", "reference_name": "reference_easy_195.py", "slug": "minimum-index-sum-of-two-lists", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_196.py", "reference_name": "reference_easy_196.py", "slug": "two-furthest-houses-with-different-colors", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_197.py", "reference_name": "reference_easy_197.py", "slug": "next-greater-element-i", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_198.py", "reference_name": "reference_easy_198.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_199.py", "reference_name": "reference_easy_199.py", "slug": "linked-list-cycle", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_200.py", "reference_name": "reference_easy_200.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_201.py", "reference_name": "reference_easy_201.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_202.py", "reference_name": "reference_easy_202.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_203.py", "reference_name": "reference_easy_203.py", "slug": "how-many-numbers-are-smaller-than-the-current-number", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_204.py", "reference_name": "reference_easy_204.py", "slug": "lexicographically-smallest-palindrome", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_205.py", "reference_name": "reference_easy_205.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_206.py", "reference_name": "reference_easy_206.py", "slug": "number-complement", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_207.py", "reference_name": "reference_easy_207.py", "slug": "check-if-every-row-and-column-contains-all-numbers", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_208.py", "reference_name": "reference_easy_208.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_209.py", "reference_name": "reference_easy_209.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_210.py", "reference_name": "reference_easy_210.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_211.py", "reference_name": "reference_easy_211.py", "slug": "number-complement", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_212.py", "reference_name": "reference_easy_212.py", "slug": "number-complement", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_213.py", "reference_name": "reference_easy_213.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_214.py", "reference_name": "reference_easy_214.py", "slug": "number-complement", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_215.py", "reference_name": "reference_easy_215.py", "slug": "partition-array-into-three-parts-with-equal-sum", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_216.py", "reference_name": "reference_easy_216.py", "slug": "lexicographically-smallest-palindrome", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_217.py", "reference_name": "reference_easy_217.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_218.py", "reference_name": "reference_easy_218.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_219.py", "reference_name": "reference_easy_219.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_220.py", "reference_name": "reference_easy_220.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_221.py", "reference_name": "reference_easy_221.py", "slug": "check-whether-two-strings-are-almost-equivalent", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_222.py", "reference_name": "reference_easy_222.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_223.py", "reference_name": "reference_easy_223.py", "slug": "lexicographically-smallest-palindrome", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_224.py", "reference_name": "reference_easy_224.py", "slug": "number-complement", "category": "multiple error", "subtype": "quadruple"}
+{"program_name": "wrong_easy_225.py", "reference_name": "reference_easy_225.py", "slug": "maximum-depth-of-binary-tree", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_226.py", "reference_name": "reference_easy_226.py", "slug": "number-complement", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_227.py", "reference_name": "reference_easy_227.py", "slug": "largest-positive-integer-that-exists-with-its-negative", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_228.py", "reference_name": "reference_easy_228.py", "slug": "two-furthest-houses-with-different-colors", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_229.py", "reference_name": "reference_easy_229.py", "slug": "baseball-game", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_230.py", "reference_name": "reference_easy_230.py", "slug": "nim-game", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_231.py", "reference_name": "reference_easy_231.py", "slug": "plus-one", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_232.py", "reference_name": "reference_easy_232.py", "slug": "third-maximum-number", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_233.py", "reference_name": "reference_easy_233.py", "slug": "largest-positive-integer-that-exists-with-its-negative", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_234.py", "reference_name": "reference_easy_234.py", "slug": "longest-harmonious-subsequence", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_235.py", "reference_name": "reference_easy_235.py", "slug": "linked-list-cycle", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_236.py", "reference_name": "reference_easy_236.py", "slug": "partition-array-into-three-parts-with-equal-sum", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_237.py", "reference_name": "reference_easy_237.py", "slug": "x-of-a-kind-in-a-deck-of-cards", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_238.py", "reference_name": "reference_easy_238.py", "slug": "baseball-game", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_239.py", "reference_name": "reference_easy_239.py", "slug": "pascals-triangle", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_240.py", "reference_name": "reference_easy_240.py", "slug": "baseball-game", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_241.py", "reference_name": "reference_easy_241.py", "slug": "check-if-every-row-and-column-contains-all-numbers", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_242.py", "reference_name": "reference_easy_242.py", "slug": "minimum-difference-between-highest-and-lowest-of-k-scores", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_243.py", "reference_name": "reference_easy_243.py", "slug": "fizz-buzz", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_244.py", "reference_name": "reference_easy_244.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_245.py", "reference_name": "reference_easy_245.py", "slug": "two-furthest-houses-with-different-colors", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_246.py", "reference_name": "reference_easy_246.py", "slug": "largest-number-after-digit-swaps-by-parity", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_247.py", "reference_name": "reference_easy_247.py", "slug": "fizz-buzz", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_248.py", "reference_name": "reference_easy_248.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_249.py", "reference_name": "reference_easy_249.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_250.py", "reference_name": "reference_easy_250.py", "slug": "minimum-bit-flips-to-convert-number", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_251.py", "reference_name": "reference_easy_251.py", "slug": "check-if-one-string-swap-can-make-strings-equal", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_252.py", "reference_name": "reference_easy_252.py", "slug": "pascals-triangle", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_253.py", "reference_name": "reference_easy_253.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_254.py", "reference_name": "reference_easy_254.py", "slug": "find-words-that-can-be-formed-by-characters", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_255.py", "reference_name": "reference_easy_255.py", "slug": "partition-array-into-three-parts-with-equal-sum", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_256.py", "reference_name": "reference_easy_256.py", "slug": "check-if-every-row-and-column-contains-all-numbers", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_257.py", "reference_name": "reference_easy_257.py", "slug": "next-greater-element-i", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_258.py", "reference_name": "reference_easy_258.py", "slug": "delete-greatest-value-in-each-row", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_259.py", "reference_name": "reference_easy_259.py", "slug": "fibonacci-number", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_260.py", "reference_name": "reference_easy_260.py", "slug": "lexicographically-smallest-palindrome", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_261.py", "reference_name": "reference_easy_261.py", "slug": "find-the-array-concatenation-value", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_262.py", "reference_name": "reference_easy_262.py", "slug": "how-many-numbers-are-smaller-than-the-current-number", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_263.py", "reference_name": "reference_easy_263.py", "slug": "number-complement", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_264.py", "reference_name": "reference_easy_264.py", "slug": "move-zeroes", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_265.py", "reference_name": "reference_easy_265.py", "slug": "fizz-buzz", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_266.py", "reference_name": "reference_easy_266.py", "slug": "unique-number-of-occurrences", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_267.py", "reference_name": "reference_easy_267.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_268.py", "reference_name": "reference_easy_268.py", "slug": "largest-positive-integer-that-exists-with-its-negative", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_269.py", "reference_name": "reference_easy_269.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_270.py", "reference_name": "reference_easy_270.py", "slug": "largest-positive-integer-that-exists-with-its-negative", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_271.py", "reference_name": "reference_easy_271.py", "slug": "how-many-numbers-are-smaller-than-the-current-number", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_272.py", "reference_name": "reference_easy_272.py", "slug": "fizz-buzz", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_273.py", "reference_name": "reference_easy_273.py", "slug": "unique-number-of-occurrences", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_274.py", "reference_name": "reference_easy_274.py", "slug": "third-maximum-number", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_275.py", "reference_name": "reference_easy_275.py", "slug": "most-common-word", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_276.py", "reference_name": "reference_easy_276.py", "slug": "partition-array-into-three-parts-with-equal-sum", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_277.py", "reference_name": "reference_easy_277.py", "slug": "find-the-middle-index-in-array", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_278.py", "reference_name": "reference_easy_278.py", "slug": "increasing-decreasing-string", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_279.py", "reference_name": "reference_easy_279.py", "slug": "partition-array-into-three-parts-with-equal-sum", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_280.py", "reference_name": "reference_easy_280.py", "slug": "largest-positive-integer-that-exists-with-its-negative", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_281.py", "reference_name": "reference_easy_281.py", "slug": "move-zeroes", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_282.py", "reference_name": "reference_easy_282.py", "slug": "make-array-zero-by-subtracting-equal-amounts", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_283.py", "reference_name": "reference_easy_283.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_284.py", "reference_name": "reference_easy_284.py", "slug": "can-place-flowers", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_285.py", "reference_name": "reference_easy_285.py", "slug": "alternating-digit-sum", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_286.py", "reference_name": "reference_easy_286.py", "slug": "partition-array-into-three-parts-with-equal-sum", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_287.py", "reference_name": "reference_easy_287.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_288.py", "reference_name": "reference_easy_288.py", "slug": "two-furthest-houses-with-different-colors", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_289.py", "reference_name": "reference_easy_289.py", "slug": "maximum-depth-of-binary-tree", "category": "multiple error", "subtype": "double"}
+{"program_name": "wrong_easy_290.py", "reference_name": "reference_easy_290.py", "slug": "fizz-buzz", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_easy_291.py", "reference_name": "reference_easy_291.py", "slug": "self-dividing-numbers", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_easy_292.py", "reference_name": "reference_easy_292.py", "slug": "plus-one", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_easy_293.py", "reference_name": "reference_easy_293.py", "slug": "maximum-depth-of-n-ary-tree", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_easy_294.py", "reference_name": "reference_easy_294.py", "slug": "lexicographically-smallest-palindrome", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_easy_295.py", "reference_name": "reference_easy_295.py", "slug": "baseball-game", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_easy_296.py", "reference_name": "reference_easy_296.py", "slug": "rings-and-rods", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_easy_297.py", "reference_name": "reference_easy_297.py", "slug": "most-common-word", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_easy_298.py", "reference_name": "reference_easy_298.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_easy_299.py", "reference_name": "reference_easy_299.py", "slug": "check-whether-two-strings-are-almost-equivalent", "category": "syntax error", "subtype": "unclosed string"}
+{"program_name": "wrong_easy_300.py", "reference_name": "reference_easy_300.py", "slug": "check-whether-two-strings-are-almost-equivalent", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_easy_301.py", "reference_name": "reference_easy_301.py", "slug": "most-common-word", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_easy_302.py", "reference_name": "reference_easy_302.py", "slug": "can-place-flowers", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_easy_303.py", "reference_name": "reference_easy_303.py", "slug": "check-if-one-string-swap-can-make-strings-equal", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_easy_304.py", "reference_name": "reference_easy_304.py", "slug": "unique-number-of-occurrences", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_easy_305.py", "reference_name": "reference_easy_305.py", "slug": "find-mode-in-binary-search-tree", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_easy_306.py", "reference_name": "reference_easy_306.py", "slug": "lexicographically-smallest-palindrome", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_easy_307.py", "reference_name": "reference_easy_307.py", "slug": "row-with-maximum-ones", "category": "syntax error", "subtype": "missing colons"}
+{"program_name": "wrong_easy_308.py", "reference_name": "reference_easy_308.py", "slug": "find-words-that-can-be-formed-by-characters", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_easy_309.py", "reference_name": "reference_easy_309.py", "slug": "pascals-triangle", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_easy_310.py", "reference_name": "reference_easy_310.py", "slug": "next-greater-element-i", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_easy_311.py", "reference_name": "reference_easy_311.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_easy_312.py", "reference_name": "reference_easy_312.py", "slug": "fibonacci-number", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_easy_313.py", "reference_name": "reference_easy_313.py", "slug": "reverse-bits", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_easy_314.py", "reference_name": "reference_easy_314.py", "slug": "minimum-changes-to-make-alternating-binary-string", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_easy_315.py", "reference_name": "reference_easy_315.py", "slug": "increasing-order-search-tree", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_easy_316.py", "reference_name": "reference_easy_316.py", "slug": "maximum-depth-of-binary-tree", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_easy_317.py", "reference_name": "reference_easy_317.py", "slug": "count-equal-and-divisible-pairs-in-an-array", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_easy_318.py", "reference_name": "reference_easy_318.py", "slug": "largest-number-after-digit-swaps-by-parity", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_easy_319.py", "reference_name": "reference_easy_319.py", "slug": "alternating-digit-sum", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_easy_320.py", "reference_name": "reference_easy_320.py", "slug": "how-many-numbers-are-smaller-than-the-current-number", "category": "syntax error", "subtype": "unclosed parentheses"}
+{"program_name": "wrong_easy_321.py", "reference_name": "reference_easy_321.py", "slug": "can-place-flowers", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_easy_322.py", "reference_name": "reference_easy_322.py", "slug": "minimum-index-sum-of-two-lists", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_easy_323.py", "reference_name": "reference_easy_323.py", "slug": "find-mode-in-binary-search-tree", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_easy_324.py", "reference_name": "reference_easy_324.py", "slug": "make-array-zero-by-subtracting-equal-amounts", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_easy_325.py", "reference_name": "reference_easy_325.py", "slug": "excel-sheet-column-title", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_easy_326.py", "reference_name": "reference_easy_326.py", "slug": "fizz-buzz", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_easy_327.py", "reference_name": "reference_easy_327.py", "slug": "next-greater-element-i", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_easy_328.py", "reference_name": "reference_easy_328.py", "slug": "baseball-game", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_easy_329.py", "reference_name": "reference_easy_329.py", "slug": "substrings-of-size-three-with-distinct-characters", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_easy_330.py", "reference_name": "reference_easy_330.py", "slug": "check-if-two-string-arrays-are-equivalent", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_easy_331.py", "reference_name": "reference_easy_331.py", "slug": "average-value-of-even-numbers-that-are-divisible-by-three", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_easy_332.py", "reference_name": "reference_easy_332.py", "slug": "linked-list-cycle", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_easy_333.py", "reference_name": "reference_easy_333.py", "slug": "number-complement", "category": "syntax error", "subtype": "misused == or ="}
+{"program_name": "wrong_easy_334.py", "reference_name": "reference_easy_334.py", "slug": "lexicographically-smallest-palindrome", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_335.py", "reference_name": "reference_easy_335.py", "slug": "plus-one", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_336.py", "reference_name": "reference_easy_336.py", "slug": "x-of-a-kind-in-a-deck-of-cards", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_337.py", "reference_name": "reference_easy_337.py", "slug": "delete-greatest-value-in-each-row", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_338.py", "reference_name": "reference_easy_338.py", "slug": "maximum-depth-of-binary-tree", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_339.py", "reference_name": "reference_easy_339.py", "slug": "binary-search", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_340.py", "reference_name": "reference_easy_340.py", "slug": "determine-the-winner-of-a-bowling-game", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_341.py", "reference_name": "reference_easy_341.py", "slug": "find-words-that-can-be-formed-by-characters", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_342.py", "reference_name": "reference_easy_342.py", "slug": "number-complement", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_343.py", "reference_name": "reference_easy_343.py", "slug": "self-dividing-numbers", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_344.py", "reference_name": "reference_easy_344.py", "slug": "fizz-buzz", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_345.py", "reference_name": "reference_easy_345.py", "slug": "check-if-every-row-and-column-contains-all-numbers", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_346.py", "reference_name": "reference_easy_346.py", "slug": "maximum-depth-of-n-ary-tree", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_347.py", "reference_name": "reference_easy_347.py", "slug": "calculate-money-in-leetcode-bank", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_348.py", "reference_name": "reference_easy_348.py", "slug": "increasing-decreasing-string", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_349.py", "reference_name": "reference_easy_349.py", "slug": "largest-positive-integer-that-exists-with-its-negative", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_350.py", "reference_name": "reference_easy_350.py", "slug": "longest-harmonious-subsequence", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_351.py", "reference_name": "reference_easy_351.py", "slug": "largest-number-after-digit-swaps-by-parity", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_352.py", "reference_name": "reference_easy_352.py", "slug": "minimum-bit-flips-to-convert-number", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_353.py", "reference_name": "reference_easy_353.py", "slug": "n-th-tribonacci-number", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_354.py", "reference_name": "reference_easy_354.py", "slug": "can-place-flowers", "category": "reference error", "subtype": "faulty indexing"}
+{"program_name": "wrong_easy_355.py", "reference_name": "reference_easy_355.py", "slug": "binary-tree-inorder-traversal", "category": "reference error", "subtype": "faulty indexing"}

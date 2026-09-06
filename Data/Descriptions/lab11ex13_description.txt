@@ -1,0 +1,13 @@
+Using only pure functions and the higher-order functions map, reduce, filter, any, all, fixedPoint, and nest (lab11ex12a), re-implement exercises from Labs 6 to 10 in a purely functional style.
+
+This means: no for/while loops, no variable reassignment, no explicit recursion — only function composition and application.
+
+The behavior of each re-implemented function must be identical to the original lab6–10 implementations. Use the existing lab6–10 test suites to validate the implementations.
+
+Examples of target functions:
+- Counting occurrences (lab6 exercises)
+- List processing (lab8 exercises)
+- Dictionary operations (lab9 exercises)
+- File processing (lab10 exercises — where applicable)
+
+This is a broad exercise requiring systematic application of functional programming concepts to previously solved problems.

@@ -1,0 +1,11 @@
+Using only the higher-order function lab11ex12a from exercise 12a and pure functions (no explicit loops or recursion), define implementations of the functions from exercise 11:
+
+- Number of digits of n (lab11ex11a)
+- Filter even numbers from a list (lab11ex11b)
+- First digit of n (lab11ex11c)
+
+The key insight is that lab11ex12a(f, x, n) applies f n times to x, which can simulate iteration.
+
+This exercise requires demonstrating that any computable iterative process can be expressed using function composition (nest/iterate).
+
+No separate test suite is provided for this exercise — the behavior is verified by the tests for lab11ex11a, lab11ex11b, and lab11ex11c.

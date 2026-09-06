@@ -1,0 +1,12 @@
+Write the function lab6ex6 that receives a positive integer and returns a tuple containing the encoded digits of that number according to the following rules:
+
+(a) each even digit is replaced by the next even number, where the next even number after 8 is 0;
+    (0->2, 2->4, 4->6, 6->8, 8->0)
+
+(b) each odd digit is replaced by the previous odd number, where the previous odd number before 1 is 9.
+    (9->7, 7->5, 5->3, 3->1, 1->9)
+
+For example:
+
+lab6ex6(1234567890)
+(9, 4, 1, 6, 3, 8, 5, 0, 7, 2)

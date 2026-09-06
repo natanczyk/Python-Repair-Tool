@@ -1,0 +1,24 @@
+Write the function lab10ex4 that receives a list of strings, each corresponding to a file name, and a string corresponding to the output file name, and concatenates the contents of the input files into the output file in order.
+
+For example, if file fich1 contains:
+
+A file to perform some tests.
+This file contains two lines.
+
+and file fich2 contains:
+
+Another file to perform the same tests.
+This file contains one more line
+besides this one.
+
+then:
+
+lab10ex4(['fich1', 'fich2'], 'saida')
+
+produces a file saida containing:
+
+A file to perform some tests.
+This file contains two lines.
+Another file to perform the same tests.
+This file contains one more line
+besides this one.

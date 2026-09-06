@@ -1,0 +1,20 @@
+Write the function lab5ex8 that receives:
+- an integer r
+- a non-negative integer n
+
+and returns the sum of the first n+1 terms of the geometric series:
+
+1 + r + r^2 + r^3 + ... + r^n
+
+That is: sum of r^i for i = 0 to n.
+
+For example:
+
+lab5ex8(2, 4)
+31
+
+lab5ex8(100, 0)
+1
+
+lab5ex8(100, -1)
+ValueError: lab5ex8: invalid argument

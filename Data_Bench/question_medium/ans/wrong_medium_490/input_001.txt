@@ -1,0 +1,1 @@
+encodedText = "ch   ie   pr", rows = 3

@@ -1,0 +1,19 @@
+Consider any 3-digit integer such that the difference between its first and last digit is greater than 1.
+
+Let this number be n.
+Reverse the digits of n, obtaining ni.
+Subtract the smaller from the larger, obtaining ns = |n - ni|.
+Reverse the digits of ns, obtaining nsi.
+
+You can verify that: ns + nsi = 1089
+
+Write a function lab5ex10a that reproduces this mystery.
+Your function should validate that the argument satisfies the conditions (3-digit integer with |first digit - last digit| > 1).
+
+For example:
+
+lab5ex10a(246)
+1089
+
+lab5ex10a(131)
+'Conditions not satisfied'

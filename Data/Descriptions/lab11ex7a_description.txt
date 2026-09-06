@@ -1,0 +1,15 @@
+This exercise asks you to explain what the following recursive function does:
+
+def misterio(num, p):
+    if num == 0:
+        return 0
+    elif p(num % 10):
+        return (num % 10) + 10 * misterio(num // 10, p)
+    else:
+        return misterio(num // 10, p)
+
+Explanation: the function extracts and reassembles the digits of num that satisfy the predicate p, preserving their original left-to-right order. Digits that do not satisfy p are removed. The result is the integer formed by only the digits of num for which p returns True.
+
+For example, misterio(5467829, lambda x: x % 2 == 0) returns 4682 (only the even digits of 5467829).
+
+This is an explanation exercise — no function to implement.

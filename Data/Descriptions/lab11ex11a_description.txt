@@ -1,0 +1,19 @@
+Using the fixedPoint combinator and defining an appropriate pure function (without loops, variable manipulation, or explicit recursion), write the function lab11ex11a that computes the number of digits of a natural number n.
+
+def fixedPoint(f, x):
+    while x != f(x):
+        x = f(x)
+    return x
+
+The state tuple approach: use a pair (remaining_number, digit_count) as the state, and define f to peel off digits until done.
+
+For example:
+
+lab11ex11a(123)
+3
+
+lab11ex11a(1000)
+4
+
+lab11ex11a(9)
+1

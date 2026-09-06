@@ -1,0 +1,29 @@
+Using only recursion (no loops, no multiplication *, no division /, no modulo %), define the function lab13ex13 that receives two positive integers a and b and returns the integer quotient of a divided by b (equivalent to a // b).
+
+The approach uses repeated subtraction: count how many times b can be subtracted from a before the result is less than b.
+
+For example:
+
+lab13ex13(7, 2)
+3
+
+lab13ex13(10, 3)
+3
+
+lab13ex13(6, 2)
+3
+
+lab13ex13(0, 5)
+0
+
+lab13ex13(1, 1)
+1
+
+lab13ex13(100, 10)
+10
+
+lab13ex13(5, 10)
+0
+
+lab13ex13(8, 3)
+2

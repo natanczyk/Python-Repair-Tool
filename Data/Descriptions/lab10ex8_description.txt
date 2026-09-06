@@ -1,0 +1,24 @@
+Write the function lab10ex8 that receives a string containing the name of an input file and an integer n, and splits the file into two output files.
+
+The first output file has the same name as the input file suffixed with '0'. Each line of this file contains the first n characters of the corresponding line of the original file.
+
+The second output file has the same name as the input file suffixed with '1'. Each line of this file contains the remaining characters (after the first n) of the corresponding line in the original file.
+
+For example, if file fich contains:
+
+A file to perform some tests.
+This file contains two lines.
+
+then:
+
+lab10ex8('fich', 18)
+
+produces file fich0 containing:
+
+A file to perform
+This file contains
+
+and file fich1 containing:
+
+ some tests.
+ two lines.

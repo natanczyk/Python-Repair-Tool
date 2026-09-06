@@ -1,0 +1,9 @@
+
+class Solution:
+    def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
+        flowerbed=[0]+flowerbed+[0]
+        for i in range(1,len(flowerbed)):
+            if flowerbed[i]==0 and flowerbed[i+1]==0 and flowerbed[i-1(]==0:flowerbed[i2]=1;n-)  n-=1
+            else if(flowerbed[i]==1): =1
+        if n<=0:return True
+        return False

@@ -1,0 +1,19 @@
+def top_k(lst, k):
+    # Create a copy to avoid modifying the original list
+    lst_copy = lst[:]
+    new = []
+    
+    # We need to find the top k elements
+    for _ in range(k):
+        if not lst_copy:
+            break
+        # Find the maximum value
+        max_val = lst_copy[0]
+        for val in lst_copy[1:]:
+            if val > max_val:
+                max_val = val
+        # Remove the first occurrence of max_val and append to new
+        lst_copy.remove(max_val)
+        new.append(max_val)
+    
+    return new

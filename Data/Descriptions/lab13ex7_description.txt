@@ -1,0 +1,23 @@
+Using only recursion (no loops, no use of the built-in 'in' operator), define the function lab13ex7 that receives a list and an element, and returns True if the element is present in the list, or False otherwise.
+
+Membership is tested using the == operator, which means floating-point comparisons may behave unexpectedly due to precision issues.
+
+For example:
+
+lab13ex7([], 5)
+False
+
+lab13ex7([1, 2, 3], 2)
+True
+
+lab13ex7([1, 2, 3], 5)
+False
+
+lab13ex7([0.1, 0.2, 0.8], 0.7 + 0.1)
+False
+
+lab13ex7([0.1, 0.2, 0.8], 0.8)
+True
+
+lab13ex7(['a', 'b', 'c'], 'b')
+True

@@ -1,0 +1,10 @@
+Using the function lab11ex8 from exercise 8 and higher-order list functions, write the function lab11ex9 that receives a positive integer n and a one-argument predicate pred, and returns the product of the digits of n that satisfy pred.
+
+Your function must contain only one instruction: the return statement.
+
+For example:
+
+lab11ex9(12345, lambda x: x > 3)
+20
+
+Explanation: digits of 12345 are [1,2,3,4,5]. Digits satisfying x > 3 are [4,5]. Product = 4*5 = 20.

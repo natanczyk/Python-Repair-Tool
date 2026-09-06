@@ -1,0 +1,20 @@
+Using only recursion (no loops), define the function lab13ex9 that receives a list and a pivot value, and returns a tuple of two lists: the first contains all elements strictly less than the pivot, and the second contains all elements greater than or equal to the pivot.
+
+The relative order of elements within each partition must be preserved.
+
+For example:
+
+lab13ex9([], 5)
+([], [])
+
+lab13ex9([1, 2, 3, 4, 5], 3)
+([1, 2], [3, 4, 5])
+
+lab13ex9([3, 1, 4, 1, 5, 9, 2, 6], 4)
+([3, 1, 1, 2], [4, 5, 9, 6])
+
+lab13ex9([1, 1, 1], 1)
+([], [1, 1, 1])
+
+lab13ex9([1, 1, 1], 2)
+([1, 1, 1], [])

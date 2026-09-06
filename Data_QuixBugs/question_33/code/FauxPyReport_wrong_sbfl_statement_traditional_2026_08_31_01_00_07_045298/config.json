@@ -1,0 +1,9 @@
+{
+    "Src": "wrong_shortest_paths.py",
+    "Exclude": [],
+    "Family": "Sbfl",
+    "Granularity": "Statement",
+    "TopN": -1,
+    "TargetedFailingTests": [],
+    "MutationStrategy": "Traditional"
+}

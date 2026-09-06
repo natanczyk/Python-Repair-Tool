@@ -1,0 +1,11 @@
+Two words of equal length are called "friendly" if the number of positions in which the corresponding characters differ is less than 10% of the word length.
+
+Write the predicate lab6ex7 that receives two strings as arguments and returns True if the arguments correspond to friendly words and False otherwise. Words of different lengths are not friendly.
+
+For example:
+
+lab6ex7('amigas', 'amigas')
+True
+
+lab6ex7('amigas', 'asigos')
+False

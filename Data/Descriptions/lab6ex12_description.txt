@@ -1,0 +1,10 @@
+Define the function lab6ex12 that receives:
+- a tuple of integers t
+- an integer k
+
+and returns the tuple obtained by deleting the first occurrence of k from t. If k does not appear in t, return t unchanged.
+
+For example:
+
+lab6ex12((1, 2, 4, 2, 1), 2)
+(1, 4, 2, 1)

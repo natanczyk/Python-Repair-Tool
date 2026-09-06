@@ -1,0 +1,9 @@
+Method,F1 (with tests),F1 (without tests),Precision (with tests),Precision (without tests),Recall (with tests),Recall (without tests)
+Qwen2.5,0.392,0.385,0.333,0.324,0.532,0.538
+Qwen3.6,0.661,0.596,0.624,0.547,0.758,0.738
+Qwen3Coder,0.523,0.481,0.41,0.36,0.855,0.838
+Gemma4,0.79,0.721,0.758,0.668,0.887,0.862
+Granite4,0.409,0.402,0.377,0.37,0.5,0.488
+CodeGemma,0.315,0.314,0.23,0.232,0.548,0.538
+GraniteCode,0.215,0.26,0.188,0.219,0.274,0.35
+CodeLlama,0.184,0.167,0.127,0.125,0.677,0.612

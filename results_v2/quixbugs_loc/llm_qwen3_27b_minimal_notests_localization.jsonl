@@ -1,0 +1,40 @@
+{"program_name": "wrong_bitcount.py", "buggy_lines": [5]}
+{"program_name": "wrong_breadth_first_search.py", "buggy_lines": [17, 18]}
+{"program_name": "wrong_bucketsort.py", "buggy_lines": [7]}
+{"program_name": "wrong_depth_first_search.py", "buggy_lines": [5, 6]}
+{"program_name": "wrong_detect_cycle.py", "buggy_lines": [5, 9]}
+{"program_name": "wrong_find_first_in_sorted.py", "buggy_lines": [3, 12]}
+{"program_name": "wrong_find_in_sorted.py", "buggy_lines": [3, 9]}
+{"program_name": "wrong_flatten.py", "buggy_lines": [7]}
+{"program_name": "wrong_gcd.py", "buggy_lines": [5]}
+{"program_name": "wrong_get_factors.py", "buggy_lines": [10]}
+{"program_name": "wrong_hanoi.py", "buggy_lines": [6]}
+{"program_name": "wrong_is_valid_parenthesization.py", "buggy_lines": [12]}
+{"program_name": "wrong_kheapsort.py", "buggy_lines": [4, 7]}
+{"program_name": "wrong_knapsack.py", "buggy_lines": [12]}
+{"program_name": "wrong_kth.py", "buggy_lines": [12]}
+{"program_name": "wrong_lcs_length.py", "buggy_lines": [9]}
+{"program_name": "wrong_levenshtein.py", "buggy_lines": [3, 6, 11]}
+{"program_name": "wrong_lis.py", "buggy_lines": [10, 12, 14]}
+{"program_name": "wrong_longest_common_subsequence.py", "buggy_lines": [6]}
+{"program_name": "wrong_max_sublist_sum.py", "buggy_lines": [3, 4, 8]}
+{"program_name": "wrong_mergesort.py", "buggy_lines": [14]}
+{"program_name": "wrong_minimum_spanning_tree.py", "buggy_lines": [10, 12]}
+{"program_name": "wrong_next_palindrome.py", "buggy_lines": [8, 9, 15]}
+{"program_name": "wrong_next_permutation.py", "buggy_lines": [6, 8]}
+{"program_name": "wrong_pascal.py", "buggy_lines": [7, 8]}
+{"program_name": "wrong_possible_change.py", "buggy_lines": [8, 9]}
+{"program_name": "wrong_powerset.py", "buggy_lines": [6]}
+{"program_name": "wrong_quicksort.py", "buggy_lines": [7]}
+{"program_name": "wrong_reverse_linked_list.py", "buggy_lines": [7]}
+{"program_name": "wrong_rpn_eval.py", "buggy_lines": [17, 18]}
+{"program_name": "wrong_shortest_path_length.py", "buggy_lines": [21, 22]}
+{"program_name": "wrong_shortest_path_lengths.py", "buggy_lines": [13]}
+{"program_name": "wrong_shortest_paths.py", "buggy_lines": [10, 11]}
+{"program_name": "wrong_shunting_yard.py", "buggy_lines": [16, 18]}
+{"program_name": "wrong_sieve.py", "buggy_lines": [4]}
+{"program_name": "wrong_sqrt.py", "buggy_lines": [4]}
+{"program_name": "wrong_subsequences.py", "buggy_lines": [2, 3, 6]}
+{"program_name": "wrong_to_base.py", "buggy_lines": [9, 10]}
+{"program_name": "wrong_topological_ordering.py", "buggy_lines": [2, 4, 6, 7, 9]}
+{"program_name": "wrong_wrap.py", "buggy_lines": [4, 7, 10]}

@@ -1,0 +1,9 @@
+Model,None rate,FauxPy rate,Gap (FauxPy - None),p-value
+Qwen2.5,0.55,0.45,-0.1,0.125
+Qwen3.6,0.65,0.575,-0.075,0.25
+Qwen3Coder,0.55,0.6,0.05,0.5
+Gemma4,0.425,0.525,0.1,0.125
+Granite4,0.675,0.625,-0.05,0.5
+CodeGemma,0.475,0.45,-0.025,1.0
+GraniteCode,0.375,0.375,0.0,1.0
+CodeLlama,0.325,0.275,-0.05,0.625

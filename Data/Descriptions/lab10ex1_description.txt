@@ -1,0 +1,13 @@
+Write the function lab10ex1 that receives a string corresponding to a file name and returns the number of non-empty lines in the file.
+
+A non-empty line is any line that is not composed only of the newline character (i.e., it contains at least one character besides the newline).
+
+For example, if file fich contains:
+
+Hello
+World
+
+then:
+
+lab10ex1('fich')
+2

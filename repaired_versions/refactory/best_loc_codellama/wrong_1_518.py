@@ -1,0 +1,7 @@
+def search(x, seq):
+    if not seq:
+        return 0
+    for c, value in enumerate(seq):
+        if value >= x:
+            return c
+    return c + 1

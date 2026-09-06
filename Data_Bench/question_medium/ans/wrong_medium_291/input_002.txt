@@ -1,0 +1,1 @@
+customers = [10,9,6], boardingCost = 6, runningCost = 4

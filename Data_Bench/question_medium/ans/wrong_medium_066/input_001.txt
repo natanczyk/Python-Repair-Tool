@@ -1,0 +1,1 @@
+word1 = "sea", word2 = "eat"

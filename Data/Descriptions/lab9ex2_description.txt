@@ -1,0 +1,9 @@
+Write the function lab9ex2 that receives a list of pairs (2-element tuples) and returns a dictionary where each key maps to a list of all values associated with that key in the input pairs.
+
+For example:
+
+lab9ex2([(1, 'a'), (2, 'b'), (1, 'c'), (3, 'd'), (2, 'e')])
+{1: ['a', 'c'], 2: ['b', 'e'], 3: ['d']}
+
+lab9ex2([])
+{}

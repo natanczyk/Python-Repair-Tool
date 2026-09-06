@@ -1,0 +1,11 @@
+Write the function lab9ex9 that receives a dictionary of books where each key is the book title (string) and each value is a dictionary containing at least the key 'ano' (year of publication as an integer), and returns the title of the oldest book (the one with the smallest 'ano' value).
+
+For example:
+
+livros = {
+    'Dom Casmurro': {'autor': 'Machado de Assis', 'ano': 1899},
+    'O Alquimista': {'autor': 'Paulo Coelho', 'ano': 1988},
+    'Os Lusiadas': {'autor': 'Luis de Camoes', 'ano': 1572}
+}
+lab9ex9(livros)
+'Os Lusiadas'

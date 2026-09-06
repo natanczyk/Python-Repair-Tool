@@ -1,0 +1,12 @@
+Write the function lab9ex3a that takes no arguments and returns a list representing a full deck of 52 playing cards.
+
+Each card is a dictionary with two keys:
+  - 'np': the suit name (string), one of 'ouros', 'copas', 'paus', 'espadas'
+  - 'vlr': the card value (integer), ranging from 1 to 13
+
+The deck must contain exactly one card for each combination of suit and value (4 suits x 13 values = 52 cards).
+
+For example:
+
+lab9ex3a()
+[{'np': 'ouros', 'vlr': 1}, {'np': 'ouros', 'vlr': 2}, ..., {'np': 'espadas', 'vlr': 13}]

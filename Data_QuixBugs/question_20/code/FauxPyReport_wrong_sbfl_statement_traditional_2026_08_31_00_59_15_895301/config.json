@@ -1,0 +1,9 @@
+{
+    "Src": "wrong_max_sublist_sum.py",
+    "Exclude": [],
+    "Family": "Sbfl",
+    "Granularity": "Statement",
+    "TopN": -1,
+    "TargetedFailingTests": [],
+    "MutationStrategy": "Traditional"
+}

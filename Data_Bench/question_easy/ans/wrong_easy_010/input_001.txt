@@ -1,0 +1,1 @@
+words = ["cat","bt","hat","tree"], chars = "atach"

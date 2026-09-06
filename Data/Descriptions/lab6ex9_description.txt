@@ -1,0 +1,20 @@
+Consider the following grammar in BNF notation:
+
+<idt> ::= <letters><numbers>
+<letters> ::= <letter> | <letter><letters>
+<numbers> ::= <num> | <num><numbers>
+<letter> ::= A | B | C | D
+<num> ::= 1 | 2 | 3 | 4
+
+Write the function lab6ex9 that receives a string as argument and returns True if its argument corresponds to a sentence of the language defined by the grammar, and False otherwise.
+
+For example:
+
+lab6ex9('A1')
+True
+
+lab6ex9('ABBBBCDDDD23311')
+True
+
+lab6ex9('ABC12C')
+False

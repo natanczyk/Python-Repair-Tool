@@ -1,0 +1,14 @@
+Write the function lab9ex6 that receives a string of words separated by spaces and returns a dictionary mapping each unique word to the number of times it appears in the string.
+
+If the input string is empty, return an empty dictionary.
+
+For example:
+
+lab9ex6('a aranha arranha a ra a ra arranha a aranha nem a aranha arranha a ra nem a ra arranha a aranha')
+{'a': 8, 'aranha': 4, 'arranha': 4, 'ra': 4, 'nem': 2}
+
+lab9ex6('hello world hello')
+{'hello': 2, 'world': 1}
+
+lab9ex6('')
+{}

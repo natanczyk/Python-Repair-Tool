@@ -1,0 +1,31 @@
+Using only recursion (no loops, no string conversion), define the function lab13ex1 that receives a natural number n and returns the number formed by keeping only its odd digits (1, 3, 5, 7, 9), preserving their original left-to-right order.
+
+If n has no odd digits, return 0.
+
+The approach uses integer arithmetic: extract digits via modulo and integer division, recursively process the remaining digits, and reassemble the result by positional shifting.
+
+For example:
+
+lab13ex1(468)
+0
+
+lab13ex1(135)
+135
+
+lab13ex1(13579)
+13579
+
+lab13ex1(246)
+0
+
+lab13ex1(123456789)
+13579
+
+lab13ex1(98765)
+975
+
+lab13ex1(9876543)
+9753
+
+lab13ex1(12426374856)
+1375

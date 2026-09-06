@@ -1,0 +1,8 @@
+def remove_extras(lst):
+    seen = set()
+    new_lst = []
+    for item in lst:
+        if item not in seen:
+            new_lst.append(item)
+            seen.add(item)
+    return new_lst

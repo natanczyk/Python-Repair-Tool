@@ -1,0 +1,9 @@
+Using recursion (without built-in higher-order functions like map), define the function lab11ex4b(lst, fn) that returns the list obtained from lst where each element corresponds to the application of the one-argument function fn to the elements of lst.
+
+For example:
+
+lab11ex4b([1, 2, 3, 4], lambda x: x ** 3)
+[1, 8, 27, 64]
+
+lab11ex4b([], lambda x: x + 1)
+[]

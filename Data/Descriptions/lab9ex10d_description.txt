@@ -1,0 +1,15 @@
+Write the function lab9ex10d that receives two rational numbers r1 and r2 (each represented as a dictionary with keys 'n' and 'd') and returns their product as a rational number in canonical form.
+
+The product formula is:
+  result_n = r1['n'] * r2['n']
+  result_d = r1['d'] * r2['d']
+
+Then reduce to canonical form using GCD.
+
+For example:
+
+lab9ex10d({'n': 2, 'd': 3}, {'n': 2, 'd': 3})
+{'n': 4, 'd': 9}
+
+lab9ex10d({'n': 2, 'd': 3}, {'n': 3, 'd': 4})
+{'n': 1, 'd': 2}

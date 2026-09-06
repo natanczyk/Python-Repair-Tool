@@ -1,0 +1,9 @@
+Write the function lab6ex2 that receives a positive integer, validating the correctness of its argument, and returns the tuple containing the digits of that number in the order they appear.
+
+For example:
+
+lab6ex2(34500)
+(3, 4, 5, 0, 0)
+
+lab6ex2(3.5)
+ValueError: lab6ex2: argument is not a positive integer

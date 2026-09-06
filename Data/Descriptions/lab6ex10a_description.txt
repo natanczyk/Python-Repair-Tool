@@ -1,0 +1,10 @@
+A basic method for encoding text consists of separating the characters in even positions (indices 0, 2, 4, ...) from the characters in odd positions (indices 1, 3, 5, ...), then concatenating the two resulting parts.
+
+Define a function lab6ex10a that encodes a string according to this algorithm. Input validation is not necessary.
+
+For example:
+
+lab6ex10a('abcde')
+'acebd'
+
+(even-position characters 'ace' are followed by odd-position characters 'bd')

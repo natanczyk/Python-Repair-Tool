@@ -1,0 +1,14 @@
+Write the function lab8ex5 that receives an n×m matrix and prints it using the print function in the form:
+
+a11 a12 ... a1m
+a21 a22 ... a2m
+...
+an1 an2 ... anm
+
+For example, lab8ex5 applied to a 3x3 matrix of doubles would print:
+
+2   4   6
+8   10  12
+14  16  18
+
+Note: this function only prints and does not return a value.

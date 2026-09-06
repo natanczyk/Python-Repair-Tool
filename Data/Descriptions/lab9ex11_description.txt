@@ -1,0 +1,21 @@
+Write the function lab9ex11 that receives a chess board represented as a dictionary, a queen's position, and the queen's color, and returns all pieces the queen can attack.
+
+Parameters:
+  - board: dict mapping (row, col) tuples to [piece_type, color] lists.
+            Rows and columns are integers from 1 to 8.
+  - queen_pos: (row, col) tuple with the queen's position (not in the board dict)
+  - queen_color: 'white' or 'black'
+
+The queen moves in 8 directions (horizontal, vertical, diagonal). In each direction it stops at the first piece encountered. It can only attack pieces of the opposite color.
+
+Return a dictionary with two keys:
+  - 'white': list of white pieces attacked (when queen is black)
+  - 'black': list of black pieces attacked (when queen is white)
+
+Each attacked piece is represented as [piece_type, color, (row, col)].
+
+For example:
+
+board = {(4, 7): ['pawn', 'black']}
+lab9ex11(board, (4, 4), 'white')
+{'white': [], 'black': [['pawn', 'black', (4, 7)]]}

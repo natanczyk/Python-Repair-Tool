@@ -1,0 +1,7 @@
+def search(x, seq):
+    for i in range(len(seq)):
+        if x <= seq[i]:
+            return i
+        elif i == len(seq) - 1 and seq[i] < x:
+            return i + 1
+    return 0

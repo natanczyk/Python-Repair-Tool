@@ -1,0 +1,12 @@
+Write the function lab8ex2 that receives:
+- a list of integers
+- an integer
+
+and returns the list obtained by removing all multiples of the second argument from the original list.
+
+For example:
+
+lab8ex2([2, 3, 5, 9, 12, 33, 34, 45], 3)
+[2, 5, 34]
+
+Also write another version of the function that removes the elements directly from the given list (in-place).

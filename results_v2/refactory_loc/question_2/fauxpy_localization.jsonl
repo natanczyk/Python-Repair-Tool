@@ -1,0 +1,435 @@
+{"program_name": "wrong_2_001.py", "buggy_lines": [14, 9, 10, 7, 3, 2, 6, 5, 4, 20, 19, 18, 17, 16, 13, 12, 11]}
+{"program_name": "wrong_2_002.py", "buggy_lines": [20, 21, 19, 18, 17, 16, 5, 6, 4, 3, 2, 9, 13, 12, 11, 10]}
+{"program_name": "wrong_2_003.py", "buggy_lines": [20, 21, 19, 18, 17, 16, 5, 6, 4, 3, 2, 9, 13, 12, 11, 10]}
+{"program_name": "wrong_2_004.py", "buggy_lines": [12, 4, 3, 2, 9]}
+{"program_name": "wrong_2_005.py", "buggy_lines": [4, 3, 2, 18, 17, 16, 9, 13, 12, 11, 10]}
+{"program_name": "wrong_2_006.py", "buggy_lines": [41, 40, 37, 36, 35, 33, 31, 29, 19, 18, 16, 9, 6, 5, 3, 12]}
+{"program_name": "wrong_2_007.py", "buggy_lines": [41, 40, 37, 36, 35, 33, 31, 29, 22, 19, 18, 16, 9, 6, 5, 3, 12]}
+{"program_name": "wrong_2_008.py", "buggy_lines": [41, 40, 37, 36, 35, 33, 31, 29, 9, 6, 5, 3, 12, 25, 23, 22, 20, 19, 18, 16]}
+{"program_name": "wrong_2_009.py", "buggy_lines": []}
+{"program_name": "wrong_2_010.py", "buggy_lines": [41, 40, 37, 36, 35, 33, 31, 29, 9, 6, 5, 3, 12, 25, 23, 22, 21, 20, 18, 17]}
+{"program_name": "wrong_2_011.py", "buggy_lines": [6, 5, 3, 37, 36, 35, 33, 31, 29, 25, 23, 22, 21, 20, 18, 17]}
+{"program_name": "wrong_2_012.py", "buggy_lines": [6, 5, 3, 46, 45, 44, 42, 40, 38, 34, 32, 31, 30, 29, 27, 26]}
+{"program_name": "wrong_2_013.py", "buggy_lines": [6, 5, 3, 38, 37, 36, 34, 32, 30, 26, 24, 23, 22, 21, 19, 18]}
+{"program_name": "wrong_2_014.py", "buggy_lines": [4, 3, 2, 35, 34, 33, 31, 29, 27, 23, 21, 20, 19, 18, 16, 15]}
+{"program_name": "wrong_2_015.py", "buggy_lines": []}
+{"program_name": "wrong_2_016.py", "buggy_lines": [32, 28, 6, 5, 4, 2, 29, 25, 24, 23, 22, 19, 15, 9, 16, 12, 11, 10, 55, 53, 52, 51, 49, 48, 47, 46, 45, 44, 41, 40, 39, 38, 36, 30, 26, 17, 13]}
+{"program_name": "wrong_2_017.py", "buggy_lines": [15, 12, 11, 10, 7, 4, 3, 2, 6, 5, 22, 21, 20, 19, 18, 14, 13]}
+{"program_name": "wrong_2_018.py", "buggy_lines": [15, 12, 11, 10, 7, 4, 3, 2, 6, 5, 22, 21, 20, 19, 18, 14, 13]}
+{"program_name": "wrong_2_019.py", "buggy_lines": [40, 42, 39, 37, 35, 33, 31, 29, 27, 9, 7, 5, 3, 11, 23, 21, 19, 17, 15]}
+{"program_name": "wrong_2_020.py", "buggy_lines": [40, 42, 39, 37, 35, 33, 31, 29, 27, 9, 7, 5, 3, 11, 23, 21, 19, 17, 15]}
+{"program_name": "wrong_2_021.py", "buggy_lines": [25, 12, 22, 20, 18, 17, 16, 15, 9, 7, 5, 4, 3, 2, 8, 6, 34, 33, 32, 31, 30, 29, 28, 23, 21, 19, 10]}
+{"program_name": "wrong_2_022.py", "buggy_lines": [17, 13, 12, 11, 8, 4, 3, 2, 7, 6, 5, 24, 23, 22, 21, 20, 16, 15, 14]}
+{"program_name": "wrong_2_023.py", "buggy_lines": [17, 13, 12, 11, 8, 4, 3, 2, 7, 6, 5, 27, 26, 25, 24, 23, 22, 21, 20, 16, 15, 14]}
+{"program_name": "wrong_2_024.py", "buggy_lines": [17, 13, 12, 11, 8, 4, 3, 2, 7, 6, 5, 27, 26, 25, 24, 23, 22, 21, 20, 16, 15, 14]}
+{"program_name": "wrong_2_025.py", "buggy_lines": [17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 24, 23, 22, 21, 20, 16, 14]}
+{"program_name": "wrong_2_026.py", "buggy_lines": [17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 24, 23, 22, 21, 20, 16, 14]}
+{"program_name": "wrong_2_027.py", "buggy_lines": []}
+{"program_name": "wrong_2_028.py", "buggy_lines": [4, 3, 2, 31, 29, 28, 27, 25, 23, 22, 21, 19, 18, 15, 13, 12, 11, 10]}
+{"program_name": "wrong_2_029.py", "buggy_lines": []}
+{"program_name": "wrong_2_030.py", "buggy_lines": [13, 10, 7, 5, 4, 3, 2, 6]}
+{"program_name": "wrong_2_031.py", "buggy_lines": [18, 12, 11, 10, 7, 5, 4, 3, 2, 6]}
+{"program_name": "wrong_2_032.py", "buggy_lines": [18, 12, 11, 10, 7, 5, 4, 3, 2, 6]}
+{"program_name": "wrong_2_033.py", "buggy_lines": [18, 7, 15, 13, 12, 11, 10, 5, 4, 3, 2, 6, 14]}
+{"program_name": "wrong_2_034.py", "buggy_lines": [15, 13, 12, 11, 10, 7, 5, 4, 3, 2, 6, 25, 24, 23, 22, 21, 20, 19, 18, 14]}
+{"program_name": "wrong_2_035.py", "buggy_lines": [20, 17, 15, 14, 13, 9, 6, 4, 3, 2, 7, 5, 27, 26, 25, 24, 23, 18, 16]}
+{"program_name": "wrong_2_036.py", "buggy_lines": [20, 17, 15, 14, 13, 9, 6, 4, 3, 2, 7, 5, 27, 26, 25, 24, 23, 18, 16]}
+{"program_name": "wrong_2_037.py", "buggy_lines": [4, 3, 2, 27, 26, 25, 24, 23, 22, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_038.py", "buggy_lines": [4, 3, 2, 29, 28, 27, 26, 25, 24, 21, 19, 18, 17, 16, 15, 14]}
+{"program_name": "wrong_2_039.py", "buggy_lines": []}
+{"program_name": "wrong_2_040.py", "buggy_lines": []}
+{"program_name": "wrong_2_041.py", "buggy_lines": [17, 14, 9, 8, 7, 6, 5, 4, 3, 2, 11, 10]}
+{"program_name": "wrong_2_042.py", "buggy_lines": [26, 9, 8, 7, 6, 5, 4, 3, 23, 22, 21, 20, 2, 19, 18, 17, 16, 15, 14, 11, 10]}
+{"program_name": "wrong_2_043.py", "buggy_lines": [37, 32, 35, 33, 30, 29, 28, 27, 11, 7, 8, 6, 5, 4, 9, 36, 22, 20, 19, 18, 17, 16, 15]}
+{"program_name": "wrong_2_044.py", "buggy_lines": [17, 14, 9, 8, 7, 6, 5, 4, 11]}
+{"program_name": "wrong_2_045.py", "buggy_lines": []}
+{"program_name": "wrong_2_046.py", "buggy_lines": [35, 31, 30, 27, 7, 32, 29, 28, 26, 25, 24, 5, 6, 4, 3, 2, 10, 33, 21, 18, 17, 16, 15, 14, 13]}
+{"program_name": "wrong_2_047.py", "buggy_lines": [18, 16, 14, 13, 12, 8, 6, 4, 3, 2, 7, 5, 28, 27, 26, 25, 24, 23, 22, 21, 17, 15]}
+{"program_name": "wrong_2_048.py", "buggy_lines": [23, 21, 20, 18, 17, 16, 15, 14, 11, 9, 8, 6, 5, 4, 3, 2, 7, 34, 33, 32, 31, 30, 29, 28, 27, 26, 22, 19, 10]}
+{"program_name": "wrong_2_049.py", "buggy_lines": [13, 2, 10]}
+{"program_name": "wrong_2_050.py", "buggy_lines": [13, 2, 10]}
+{"program_name": "wrong_2_051.py", "buggy_lines": [12, 4, 3, 2, 9]}
+{"program_name": "wrong_2_052.py", "buggy_lines": [23, 21, 20, 18, 17, 16, 15, 14, 11, 9, 8, 6, 5, 4, 3, 2, 7, 34, 33, 32, 31, 30, 29, 28, 27, 26, 22, 19, 10]}
+{"program_name": "wrong_2_053.py", "buggy_lines": [14, 11, 5, 4, 3, 2, 8]}
+{"program_name": "wrong_2_054.py", "buggy_lines": [20, 5, 4, 3, 2, 17, 14, 13, 12, 11, 8]}
+{"program_name": "wrong_2_055.py", "buggy_lines": [5, 4, 3, 2, 27, 26, 25, 24, 23, 22, 21, 20, 17, 14, 13, 12, 11, 8, 29]}
+{"program_name": "wrong_2_056.py", "buggy_lines": [5, 4, 3, 2, 27, 26, 25, 24, 23, 22, 21, 20, 17, 14, 13, 12, 11, 8, 29]}
+{"program_name": "wrong_2_057.py", "buggy_lines": []}
+{"program_name": "wrong_2_058.py", "buggy_lines": [22, 9, 7, 6, 5, 4, 3, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_059.py", "buggy_lines": [19, 14, 13, 12, 9, 4, 3, 2, 8, 7, 6, 5, 28, 27, 26, 25, 24, 23, 22, 18, 17, 16, 15]}
+{"program_name": "wrong_2_060.py", "buggy_lines": [19, 17, 15, 14, 13, 12, 9, 7, 5, 4, 3, 2, 8, 6, 30, 29, 28, 27, 26, 25, 24, 23, 18, 16]}
+{"program_name": "wrong_2_061.py", "buggy_lines": [11, 9, 10, 4, 3, 2, 6, 24, 22, 21, 20, 19, 18, 17, 16, 13]}
+{"program_name": "wrong_2_062.py", "buggy_lines": [27, 25, 24, 22, 21, 20, 17, 15, 14, 12, 11, 10, 7, 6, 5, 4, 35, 34, 33, 32, 31, 30, 26, 23, 2, 16, 13]}
+{"program_name": "wrong_2_063.py", "buggy_lines": [17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 27, 26, 24, 23, 22, 21, 20, 16, 14]}
+{"program_name": "wrong_2_064.py", "buggy_lines": [19, 14, 13, 12, 9, 4, 3, 2, 8, 6, 5, 26, 25, 24, 23, 22, 18, 16, 15]}
+{"program_name": "wrong_2_065.py", "buggy_lines": [23, 21, 20, 19, 18, 17, 16, 9, 6, 5, 4, 3, 2, 13, 12, 11, 10]}
+{"program_name": "wrong_2_066.py", "buggy_lines": [22, 16, 15, 14, 13, 10, 4, 3, 2, 8, 6, 5, 31, 30, 28, 27, 26, 25, 20, 18, 17]}
+{"program_name": "wrong_2_067.py", "buggy_lines": [18, 17, 15, 14, 13, 7, 6, 4, 3, 2, 9, 5, 30, 29, 28, 27, 26, 25, 24, 23, 20, 16]}
+{"program_name": "wrong_2_068.py", "buggy_lines": [4, 3, 2, 23, 22, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_069.py", "buggy_lines": [25, 24, 29, 9, 26, 20, 19, 18, 17, 10, 14, 5, 4, 3, 2, 11, 7, 6, 39, 38, 37, 36, 35, 34, 33, 32, 28, 27, 22, 21, 13, 12]}
+{"program_name": "wrong_2_070.py", "buggy_lines": [19, 14, 13, 12, 9, 4, 3, 2, 8, 6, 5, 26, 25, 24, 23, 22, 18, 16, 15]}
+{"program_name": "wrong_2_071.py", "buggy_lines": [9, 32, 29, 28, 27, 26, 25, 24, 23, 22, 6, 4, 3, 2, 19, 16, 14, 13, 12, 7, 5, 17, 15]}
+{"program_name": "wrong_2_072.py", "buggy_lines": [23, 21, 20, 19, 18, 17, 16, 9, 6, 5, 4, 3, 2, 13, 12, 11, 10]}
+{"program_name": "wrong_2_073.py", "buggy_lines": [31, 27, 8, 28, 26, 25, 24, 23, 22, 21, 20, 5, 6, 4, 3, 2, 7, 29, 17, 16, 15, 14, 13, 12, 11]}
+{"program_name": "wrong_2_074.py", "buggy_lines": [4, 3, 2, 26, 25, 24, 23, 22, 21, 20, 17, 16, 15, 14, 13, 12, 11]}
+{"program_name": "wrong_2_075.py", "buggy_lines": [31, 27, 8, 28, 26, 25, 24, 23, 22, 21, 20, 5, 6, 4, 3, 2, 7, 29, 17, 16, 15, 14, 13, 12, 11]}
+{"program_name": "wrong_2_076.py", "buggy_lines": [4, 3, 2, 17, 16, 9, 13, 12, 11, 10]}
+{"program_name": "wrong_2_077.py", "buggy_lines": [9, 32, 29, 28, 27, 26, 25, 24, 23, 22, 6, 4, 3, 2, 19, 16, 14, 13, 12, 7, 5, 17, 15]}
+{"program_name": "wrong_2_078.py", "buggy_lines": [17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 24, 23, 22, 21, 20, 16, 14]}
+{"program_name": "wrong_2_079.py", "buggy_lines": [17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 24, 23, 22, 21, 20, 16, 14]}
+{"program_name": "wrong_2_080.py", "buggy_lines": [5, 4, 3, 2, 37, 36, 35, 34, 33, 32, 25, 24, 29, 26, 20, 19, 18, 17, 28, 27, 22, 21]}
+{"program_name": "wrong_2_081.py", "buggy_lines": [5, 4, 3, 2, 37, 36, 35, 34, 33, 32, 25, 24, 29, 26, 20, 19, 18, 17, 28, 27, 22, 21]}
+{"program_name": "wrong_2_082.py", "buggy_lines": [9, 25, 24, 10, 29, 14, 26, 20, 19, 18, 17, 5, 4, 3, 2, 11, 7, 6, 28, 27, 22, 21, 13, 12]}
+{"program_name": "wrong_2_083.py", "buggy_lines": [25, 24, 29, 9, 26, 20, 19, 18, 17, 10, 14, 5, 4, 3, 2, 11, 7, 6, 39, 38, 37, 36, 35, 34, 33, 32, 28, 27, 22, 21, 13, 12]}
+{"program_name": "wrong_2_084.py", "buggy_lines": []}
+{"program_name": "wrong_2_085.py", "buggy_lines": [21, 16, 15, 14, 13, 5, 10, 4, 3, 2, 9, 7, 6, 30, 29, 28, 26, 25, 24, 20, 18, 17]}
+{"program_name": "wrong_2_086.py", "buggy_lines": [10, 4, 3, 2, 8, 6, 5]}
+{"program_name": "wrong_2_087.py", "buggy_lines": [22, 10, 16, 15, 14, 13, 4, 3, 2, 8, 6, 5, 20, 18, 17]}
+{"program_name": "wrong_2_088.py", "buggy_lines": [22, 16, 15, 14, 13, 10, 4, 3, 2, 8, 6, 5, 31, 30, 28, 27, 26, 25, 20, 18, 17]}
+{"program_name": "wrong_2_089.py", "buggy_lines": [17, 14, 8, 7, 6, 5, 4, 3, 2, 10]}
+{"program_name": "wrong_2_090.py", "buggy_lines": [25, 8, 7, 6, 5, 4, 3, 22, 20, 2, 19, 18, 17, 16, 15, 14, 10]}
+{"program_name": "wrong_2_091.py", "buggy_lines": [96, 78, 61, 44, 42, 41, 39, 38, 36, 35, 34, 33, 32, 31, 30, 29, 28, 112, 37, 9, 8, 7, 6, 57, 56, 52, 51, 5, 47, 46, 45, 4, 3, 25, 23, 22, 21, 20, 2, 19, 18, 17, 16, 15, 12, 113, 10]}
+{"program_name": "wrong_2_092.py", "buggy_lines": [26, 25, 8, 7, 6, 5, 4, 3, 22, 20, 2, 19, 18, 17, 16, 15, 14, 10]}
+{"program_name": "wrong_2_093.py", "buggy_lines": [18, 4, 3, 2, 5, 15, 6]}
+{"program_name": "wrong_2_094.py", "buggy_lines": [17, 4, 3, 2, 5, 14, 6]}
+{"program_name": "wrong_2_095.py", "buggy_lines": []}
+{"program_name": "wrong_2_096.py", "buggy_lines": [17, 14, 5, 6, 4, 3, 2]}
+{"program_name": "wrong_2_097.py", "buggy_lines": []}
+{"program_name": "wrong_2_098.py", "buggy_lines": [17, 14, 5, 6, 4, 3, 2]}
+{"program_name": "wrong_2_099.py", "buggy_lines": [17, 14, 5, 6, 4, 3, 2]}
+{"program_name": "wrong_2_100.py", "buggy_lines": [17, 14, 5, 6, 4, 3, 2]}
+{"program_name": "wrong_2_101.py", "buggy_lines": [16, 13, 5, 6, 4, 3, 2]}
+{"program_name": "wrong_2_102.py", "buggy_lines": [16, 13, 5, 6, 4, 3, 2]}
+{"program_name": "wrong_2_103.py", "buggy_lines": [17, 14, 5, 6, 4, 3, 2]}
+{"program_name": "wrong_2_104.py", "buggy_lines": [17, 14, 5, 6, 4, 3, 2]}
+{"program_name": "wrong_2_105.py", "buggy_lines": [17, 14, 5, 6, 4, 3, 2]}
+{"program_name": "wrong_2_106.py", "buggy_lines": [17, 14, 5, 6, 4, 3, 2]}
+{"program_name": "wrong_2_107.py", "buggy_lines": [19, 16, 9, 12]}
+{"program_name": "wrong_2_108.py", "buggy_lines": [19, 16, 9, 12]}
+{"program_name": "wrong_2_109.py", "buggy_lines": [19, 16, 9, 12]}
+{"program_name": "wrong_2_110.py", "buggy_lines": [19, 16, 9, 6, 5, 4, 3, 2, 12, 10]}
+{"program_name": "wrong_2_111.py", "buggy_lines": [19, 16, 9, 6, 5, 4, 3, 2, 12, 10]}
+{"program_name": "wrong_2_112.py", "buggy_lines": [29, 23, 17, 16, 15, 9, 6, 5, 4, 3, 2, 12, 10]}
+{"program_name": "wrong_2_113.py", "buggy_lines": [28, 9, 6, 5, 4, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_114.py", "buggy_lines": [20, 17, 15, 14, 13, 9, 6, 4, 3, 2, 7, 5, 27, 25, 24, 23, 18, 16]}
+{"program_name": "wrong_2_115.py", "buggy_lines": [29, 9, 6, 5, 4, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_116.py", "buggy_lines": [9, 6, 5, 4, 39, 37, 36, 35, 32, 31, 30, 3, 29, 28, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_117.py", "buggy_lines": []}
+{"program_name": "wrong_2_118.py", "buggy_lines": [29, 28, 30, 35, 9, 6, 5, 4, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_119.py", "buggy_lines": [29, 28, 35, 33, 30, 12, 9, 6, 4, 3, 2, 5, 25, 23, 22, 19, 18, 17, 16, 15, 10]}
+{"program_name": "wrong_2_120.py", "buggy_lines": [35, 29, 28, 9, 6, 5, 4, 33, 31, 30, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_121.py", "buggy_lines": [9, 6, 5, 4, 35, 33, 31, 30, 3, 29, 28, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_122.py", "buggy_lines": [27, 24, 22, 9, 7, 6, 5, 4, 3, 23, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_123.py", "buggy_lines": [15, 12, 9, 8, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_124.py", "buggy_lines": [22, 14, 13, 12, 9, 8, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_125.py", "buggy_lines": [22, 9, 8, 6, 5, 4, 3, 2, 19, 18, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_126.py", "buggy_lines": [22, 4, 3, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_127.py", "buggy_lines": [22, 4, 3, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_128.py", "buggy_lines": [22, 4, 3, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_129.py", "buggy_lines": [19, 16, 14, 13, 12, 9, 6, 4, 3, 2, 7, 5, 32, 30, 29, 28, 27, 26, 25, 24, 23, 22, 17, 15]}
+{"program_name": "wrong_2_130.py", "buggy_lines": [19, 16, 14, 13, 12, 9, 6, 4, 3, 2, 7, 5, 32, 30, 29, 28, 27, 26, 25, 24, 23, 22, 17, 15]}
+{"program_name": "wrong_2_131.py", "buggy_lines": [96, 78, 61, 44, 42, 41, 39, 38, 36, 35, 34, 33, 32, 31, 30, 29, 28, 112, 37, 9, 8, 7, 6, 57, 56, 52, 51, 5, 47, 46, 45, 4, 3, 25, 23, 22, 21, 20, 2, 19, 18, 17, 16, 15, 12, 113, 10]}
+{"program_name": "wrong_2_132.py", "buggy_lines": [14, 11, 8, 7, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_133.py", "buggy_lines": [20, 8, 7, 6, 5, 4, 3, 2, 17, 16, 15, 14, 13, 12, 11]}
+{"program_name": "wrong_2_134.py", "buggy_lines": [35, 29, 28, 9, 6, 5, 4, 33, 31, 30, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_135.py", "buggy_lines": [34, 29, 28, 9, 6, 5, 4, 32, 31, 30, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_136.py", "buggy_lines": [34, 29, 28, 9, 6, 5, 4, 31, 30, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_137.py", "buggy_lines": [9, 6, 5, 4, 34, 31, 30, 3, 29, 28, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_138.py", "buggy_lines": [35, 9, 6, 5, 4, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_139.py", "buggy_lines": [35, 9, 6, 5, 4, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_140.py", "buggy_lines": [9, 6, 5, 4, 39, 37, 36, 35, 32, 31, 30, 3, 29, 28, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_141.py", "buggy_lines": [39, 36, 35, 32, 31, 30, 29, 28, 12, 9, 6, 4, 3, 2, 5, 25, 23, 22, 19, 18, 17, 16, 15, 10]}
+{"program_name": "wrong_2_142.py", "buggy_lines": [9, 6, 5, 4, 39, 37, 36, 35, 32, 31, 30, 3, 29, 28, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_143.py", "buggy_lines": [4, 3, 2, 21, 20, 19, 18, 17, 16, 9, 13, 12, 11, 10]}
+{"program_name": "wrong_2_144.py", "buggy_lines": [4, 3, 2, 21, 20, 19, 18, 17, 16, 9, 13, 12, 11, 10]}
+{"program_name": "wrong_2_145.py", "buggy_lines": [19, 16, 9, 7, 6, 5, 3, 12, 10]}
+{"program_name": "wrong_2_146.py", "buggy_lines": [17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 27, 26, 25, 24, 23, 22, 21, 20, 16, 14]}
+{"program_name": "wrong_2_147.py", "buggy_lines": [34, 30, 8, 31, 29, 28, 27, 26, 25, 24, 6, 7, 5, 4, 3, 2, 10, 32, 21, 19, 18, 17, 16, 15, 14, 13]}
+{"program_name": "wrong_2_148.py", "buggy_lines": [20, 17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5]}
+{"program_name": "wrong_2_149.py", "buggy_lines": [20, 8, 17, 15, 13, 12, 11, 6, 4, 3, 2, 7, 5, 16, 14]}
+{"program_name": "wrong_2_150.py", "buggy_lines": [8, 17, 6, 4, 3, 2, 15, 13, 12, 11, 26, 25, 24, 23, 22, 21, 20, 5, 7, 16, 14]}
+{"program_name": "wrong_2_151.py", "buggy_lines": [17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 27, 26, 25, 24, 23, 22, 21, 20, 16, 14]}
+{"program_name": "wrong_2_152.py", "buggy_lines": [24, 8, 7, 6, 5, 4, 3, 21, 2, 19, 18, 17, 16, 15, 14, 13, 10]}
+{"program_name": "wrong_2_153.py", "buggy_lines": [20, 21, 17, 15, 14, 13, 9, 6, 4, 3, 2, 10, 7, 5, 32, 31, 30, 29, 28, 27, 26, 25, 18, 16]}
+{"program_name": "wrong_2_154.py", "buggy_lines": [16, 13, 7, 6, 4, 3, 2, 5, 9]}
+{"program_name": "wrong_2_155.py", "buggy_lines": [22, 14, 13, 7, 15, 6, 4, 3, 2, 16, 5, 9]}
+{"program_name": "wrong_2_156.py", "buggy_lines": [23, 7, 6, 4, 3, 2, 18, 5, 17, 15, 14, 13, 9, 20, 16]}
+{"program_name": "wrong_2_157.py", "buggy_lines": [4, 3, 2, 37, 36, 35, 34, 33, 32, 29, 28, 27, 26, 31, 23, 21, 20, 19, 17, 16, 15, 14]}
+{"program_name": "wrong_2_158.py", "buggy_lines": [4, 3, 2, 37, 36, 35, 34, 33, 32, 29, 28, 27, 26, 31, 23, 21, 20, 19, 17, 16, 15, 14]}
+{"program_name": "wrong_2_159.py", "buggy_lines": [9, 6, 5, 4, 39, 37, 36, 35, 32, 31, 30, 3, 29, 28, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_160.py", "buggy_lines": [35, 32, 31, 30, 29, 28, 9, 6, 5, 4, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_161.py", "buggy_lines": [39, 36, 35, 32, 31, 30, 29, 28, 12, 9, 6, 4, 3, 2, 5, 25, 23, 22, 19, 18, 17, 16, 15, 10]}
+{"program_name": "wrong_2_162.py", "buggy_lines": [34, 30, 8, 31, 29, 28, 27, 26, 25, 24, 6, 7, 5, 4, 3, 2, 10, 32, 21, 19, 18, 17, 16, 15, 14, 13]}
+{"program_name": "wrong_2_163.py", "buggy_lines": [20, 21, 17, 15, 14, 13, 9, 6, 4, 3, 2, 10, 7, 5, 32, 31, 30, 29, 28, 27, 26, 25, 18, 16]}
+{"program_name": "wrong_2_164.py", "buggy_lines": [37, 36, 35, 32, 31, 30, 29, 28, 12, 9, 6, 4, 3, 2, 5, 25, 23, 22, 19, 18, 17, 16, 15, 10]}
+{"program_name": "wrong_2_165.py", "buggy_lines": [38, 36, 35, 32, 31, 30, 29, 28, 5, 12, 9, 6, 4, 3, 2, 39, 10, 25, 23, 22, 19, 18, 17, 16, 15]}
+{"program_name": "wrong_2_166.py", "buggy_lines": [36, 35, 32, 31, 30, 29, 28, 9, 6, 5, 4, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_167.py", "buggy_lines": [36, 35, 32, 31, 30, 29, 28, 9, 6, 5, 4, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_168.py", "buggy_lines": [35, 32, 31, 30, 29, 28, 9, 6, 5, 4, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_169.py", "buggy_lines": [35, 32, 31, 30, 29, 28, 9, 6, 5, 4, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_170.py", "buggy_lines": [36, 35, 32, 31, 30, 29, 28, 9, 6, 5, 4, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_171.py", "buggy_lines": [21, 4, 18, 17, 16, 3, 2, 6, 9, 19, 13, 11, 10]}
+{"program_name": "wrong_2_172.py", "buggy_lines": [9, 6, 5, 4, 39, 37, 36, 35, 32, 31, 30, 3, 29, 28, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_173.py", "buggy_lines": [9, 6, 5, 43, 41, 40, 4, 39, 38, 37, 36, 35, 32, 31, 30, 3, 29, 28, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_174.py", "buggy_lines": [33, 32, 31, 30, 29, 9, 6, 5, 4, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_175.py", "buggy_lines": [33, 32, 31, 30, 29, 9, 6, 5, 4, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_176.py", "buggy_lines": [33, 32, 31, 30, 29, 9, 6, 5, 4, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_177.py", "buggy_lines": [33, 32, 31, 30, 29, 9, 6, 5, 4, 3, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_178.py", "buggy_lines": [9, 19, 14, 13, 12, 4, 3, 2, 8, 6, 5, 36, 35, 34, 33, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 18, 16, 15]}
+{"program_name": "wrong_2_179.py", "buggy_lines": [9, 6, 5, 4, 37, 35, 34, 33, 32, 31, 30, 3, 29, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_180.py", "buggy_lines": [9, 6, 5, 4, 37, 35, 34, 33, 32, 31, 30, 3, 29, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_181.py", "buggy_lines": [9, 6, 5, 4, 37, 35, 34, 33, 32, 31, 30, 3, 29, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_182.py", "buggy_lines": [9, 6, 5, 4, 37, 35, 34, 33, 32, 31, 30, 3, 29, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_183.py", "buggy_lines": [9, 6, 5, 4, 37, 35, 34, 33, 32, 31, 30, 3, 29, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_184.py", "buggy_lines": [34, 33, 32, 31, 30, 29, 37, 10, 5, 9, 6, 4, 3, 2, 35, 12, 25, 23, 22, 19, 18, 17, 16, 15]}
+{"program_name": "wrong_2_185.py", "buggy_lines": [35, 12, 34, 33, 32, 31, 30, 29, 5, 9, 6, 4, 3, 2, 37, 25, 23, 22, 19, 18, 17, 16, 15, 10]}
+{"program_name": "wrong_2_186.py", "buggy_lines": [34, 33, 32, 31, 30, 29, 37, 10, 5, 9, 6, 4, 3, 2, 35, 12, 25, 23, 22, 19, 18, 17, 16, 15]}
+{"program_name": "wrong_2_187.py", "buggy_lines": [34, 33, 32, 31, 30, 29, 37, 10, 5, 9, 6, 4, 3, 2, 35, 12, 25, 23, 22, 19, 18, 17, 16, 15]}
+{"program_name": "wrong_2_188.py", "buggy_lines": [9, 6, 5, 4, 37, 35, 34, 33, 32, 31, 30, 3, 29, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_189.py", "buggy_lines": [9, 6, 5, 4, 39, 37, 36, 35, 32, 31, 30, 3, 29, 28, 25, 23, 22, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_190.py", "buggy_lines": [15, 12, 9, 7, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_191.py", "buggy_lines": [22, 9, 7, 6, 5, 4, 3, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_192.py", "buggy_lines": [17, 13, 12, 11, 8, 4, 3, 2, 7, 6, 5, 27, 26, 25, 24, 23, 22, 21, 20, 16, 15, 14]}
+{"program_name": "wrong_2_193.py", "buggy_lines": [20, 17, 8, 7, 6, 5, 4, 3, 2, 14, 12, 11, 10]}
+{"program_name": "wrong_2_194.py", "buggy_lines": [23, 19, 20, 16, 15, 14, 7, 11, 8, 4, 3, 2, 9, 5, 33, 32, 31, 30, 29, 28, 27, 26, 21, 17]}
+{"program_name": "wrong_2_195.py", "buggy_lines": [4, 3, 2, 26, 23, 22, 24, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_196.py", "buggy_lines": [19, 16, 14, 13, 12, 9, 6, 4, 3, 2, 7, 5, 29, 27, 26, 25, 24, 23, 22, 17, 15]}
+{"program_name": "wrong_2_197.py", "buggy_lines": [19, 16, 14, 13, 12, 9, 6, 4, 3, 2, 7, 5, 29, 27, 26, 25, 24, 23, 22, 17, 15]}
+{"program_name": "wrong_2_198.py", "buggy_lines": [16, 9, 13, 11, 10, 6, 4, 3, 2, 12, 5]}
+{"program_name": "wrong_2_199.py", "buggy_lines": [16, 9, 6, 5, 4, 3, 2, 13, 12, 11, 10]}
+{"program_name": "wrong_2_200.py", "buggy_lines": [17, 14, 13, 12, 11, 8, 5, 4, 3, 2, 6, 33, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 15]}
+{"program_name": "wrong_2_201.py", "buggy_lines": [7, 6, 4, 3, 2, 28, 27, 26, 25, 24, 23, 5, 18, 17, 15, 14, 13, 9, 30, 20, 16]}
+{"program_name": "wrong_2_202.py", "buggy_lines": [7, 6, 4, 3, 2, 27, 26, 25, 24, 23, 22, 5, 17, 16, 14, 13, 12, 9, 29, 19, 15]}
+{"program_name": "wrong_2_203.py", "buggy_lines": []}
+{"program_name": "wrong_2_204.py", "buggy_lines": [7, 6, 4, 3, 2, 28, 27, 26, 25, 24, 23, 5, 18, 17, 15, 14, 13, 9, 30, 20, 16]}
+{"program_name": "wrong_2_205.py", "buggy_lines": [7, 6, 4, 3, 2, 28, 27, 26, 25, 24, 23, 5, 18, 17, 15, 14, 13, 9, 30, 20, 16]}
+{"program_name": "wrong_2_206.py", "buggy_lines": [7, 6, 4, 3, 2, 27, 26, 25, 24, 23, 22, 5, 17, 16, 14, 13, 12, 9, 29, 19, 15]}
+{"program_name": "wrong_2_207.py", "buggy_lines": [7, 6, 4, 3, 2, 28, 27, 26, 25, 24, 23, 5, 18, 17, 15, 14, 13, 9, 30, 20, 16]}
+{"program_name": "wrong_2_208.py", "buggy_lines": []}
+{"program_name": "wrong_2_209.py", "buggy_lines": []}
+{"program_name": "wrong_2_210.py", "buggy_lines": [17, 14, 7, 11, 8, 4, 3, 2, 9, 5]}
+{"program_name": "wrong_2_211.py", "buggy_lines": [26, 8, 7, 5, 4, 3, 23, 20, 2, 19, 17, 16, 15, 14, 11]}
+{"program_name": "wrong_2_212.py", "buggy_lines": [17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 24, 23, 22, 21, 20, 16, 14]}
+{"program_name": "wrong_2_213.py", "buggy_lines": [14, 11, 8, 6, 4, 3, 2, 7, 5]}
+{"program_name": "wrong_2_214.py", "buggy_lines": [17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 24, 23, 22, 21, 20, 16, 14]}
+{"program_name": "wrong_2_215.py", "buggy_lines": [6, 5, 4, 2, 29, 28, 27, 19, 18, 17, 9, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 34, 32, 31, 30, 24, 22, 21, 20, 14, 13, 12, 11]}
+{"program_name": "wrong_2_216.py", "buggy_lines": [14, 11, 8, 7, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_217.py", "buggy_lines": [17, 4, 3, 2, 14]}
+{"program_name": "wrong_2_218.py", "buggy_lines": [17, 4, 3, 2, 14]}
+{"program_name": "wrong_2_219.py", "buggy_lines": [17, 14, 9, 8, 7, 5, 4, 3, 2, 11]}
+{"program_name": "wrong_2_220.py", "buggy_lines": [26, 9, 8, 7, 5, 4, 3, 23, 21, 20, 2, 19, 17, 16, 15, 14, 11]}
+{"program_name": "wrong_2_221.py", "buggy_lines": [18, 16, 14, 13, 12, 8, 6, 4, 3, 2, 7, 5, 26, 25, 24, 23, 22, 21, 17, 15]}
+{"program_name": "wrong_2_222.py", "buggy_lines": [16, 9, 11, 10, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_223.py", "buggy_lines": [16, 9, 6, 5, 4, 3, 2, 13, 12, 11, 10]}
+{"program_name": "wrong_2_224.py", "buggy_lines": [16, 9, 6, 5, 4, 3, 2, 13, 12, 11, 10]}
+{"program_name": "wrong_2_225.py", "buggy_lines": [8, 25, 24, 21, 12, 11, 22, 18, 17, 16, 15, 9, 5, 4, 3, 2, 6, 42, 40, 39, 38, 37, 36, 35, 34, 32, 31, 30, 29, 28, 23, 19, 10]}
+{"program_name": "wrong_2_226.py", "buggy_lines": [4, 3, 2, 18, 17, 16, 9, 13, 12, 11, 10]}
+{"program_name": "wrong_2_227.py", "buggy_lines": [12, 9, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_228.py", "buggy_lines": [15, 12, 9, 7, 5, 4, 3, 2, 8, 6]}
+{"program_name": "wrong_2_229.py", "buggy_lines": []}
+{"program_name": "wrong_2_230.py", "buggy_lines": [8, 2, 5]}
+{"program_name": "wrong_2_231.py", "buggy_lines": [23, 9, 19, 17, 15, 14, 13, 12, 7, 5, 4, 3, 2, 8, 6, 18, 16]}
+{"program_name": "wrong_2_232.py", "buggy_lines": [19, 17, 15, 14, 13, 12, 9, 7, 5, 4, 3, 2, 8, 6, 30, 29, 28, 27, 26, 25, 24, 23, 18, 16]}
+{"program_name": "wrong_2_233.py", "buggy_lines": [11, 9, 8, 5, 3, 2, 4, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 10]}
+{"program_name": "wrong_2_234.py", "buggy_lines": [19, 17, 15, 14, 13, 12, 9, 7, 5, 4, 3, 2, 8, 6, 30, 29, 28, 27, 26, 25, 24, 23, 18, 16]}
+{"program_name": "wrong_2_235.py", "buggy_lines": [19, 16, 14, 13, 12, 9, 6, 4, 3, 2, 7, 5, 26, 25, 24, 23, 22, 17, 15]}
+{"program_name": "wrong_2_236.py", "buggy_lines": [11, 9, 8, 5, 3, 2, 4, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 10]}
+{"program_name": "wrong_2_237.py", "buggy_lines": [9, 2, 6]}
+{"program_name": "wrong_2_238.py", "buggy_lines": [9, 2, 6]}
+{"program_name": "wrong_2_239.py", "buggy_lines": [9, 13, 11, 10, 6, 4, 3, 2, 5, 23, 22, 21, 20, 19, 18, 17, 16, 12]}
+{"program_name": "wrong_2_240.py", "buggy_lines": [17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 24, 23, 22, 21, 20, 16, 14]}
+{"program_name": "wrong_2_241.py", "buggy_lines": [9, 8, 7, 6, 5, 4, 3, 2, 12, 10]}
+{"program_name": "wrong_2_242.py", "buggy_lines": [9, 8, 7, 6, 5, 4, 3, 25, 23, 22, 21, 20, 2, 19, 18, 17, 16, 15, 12, 10]}
+{"program_name": "wrong_2_243.py", "buggy_lines": [22, 21, 20, 19, 18, 6, 7, 5, 4, 3, 2, 15, 14, 13, 12, 11, 10]}
+{"program_name": "wrong_2_244.py", "buggy_lines": [26, 7, 23, 19, 11, 20, 16, 15, 14, 8, 4, 3, 2, 9, 5, 21, 17]}
+{"program_name": "wrong_2_245.py", "buggy_lines": [23, 19, 20, 16, 15, 14, 7, 11, 8, 4, 3, 2, 9, 5, 34, 32, 31, 30, 29, 28, 27, 26, 21, 17]}
+{"program_name": "wrong_2_246.py", "buggy_lines": [23, 19, 20, 16, 15, 14, 7, 11, 8, 4, 3, 2, 9, 5, 34, 32, 31, 30, 29, 28, 27, 26, 21, 17]}
+{"program_name": "wrong_2_247.py", "buggy_lines": [23, 19, 20, 16, 15, 14, 7, 11, 8, 4, 3, 2, 9, 5, 33, 32, 31, 30, 29, 28, 27, 26, 21, 17]}
+{"program_name": "wrong_2_248.py", "buggy_lines": [17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 16, 14]}
+{"program_name": "wrong_2_249.py", "buggy_lines": [30, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 28, 9, 6, 5, 4, 3, 2, 13, 12, 11, 10]}
+{"program_name": "wrong_2_250.py", "buggy_lines": [15, 12, 9, 7, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_251.py", "buggy_lines": [17, 16, 14, 13, 12, 7, 6, 4, 3, 2, 9, 5, 29, 28, 27, 26, 25, 24, 23, 22, 19, 15]}
+{"program_name": "wrong_2_252.py", "buggy_lines": [4, 3, 2, 27, 26, 25, 24, 23, 22, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_253.py", "buggy_lines": [4, 3, 2, 29, 28, 27, 26, 25, 24, 19, 18, 16, 15, 14, 21, 17]}
+{"program_name": "wrong_2_254.py", "buggy_lines": [4, 3, 2, 29, 28, 27, 26, 25, 24, 19, 18, 16, 15, 14, 21, 17]}
+{"program_name": "wrong_2_255.py", "buggy_lines": [21, 18, 16, 15, 14, 10, 7, 5, 4, 3, 8, 6, 29, 27, 26, 25, 19, 17]}
+{"program_name": "wrong_2_256.py", "buggy_lines": [32, 8, 7, 6, 5, 4, 3, 29, 27, 26, 25, 23, 22, 21, 20, 2, 19, 18, 17, 14, 12, 11, 10]}
+{"program_name": "wrong_2_257.py", "buggy_lines": [14, 8, 11, 9, 5, 2, 3]}
+{"program_name": "wrong_2_258.py", "buggy_lines": [8, 11, 9, 5, 2, 17, 14, 3]}
+{"program_name": "wrong_2_259.py", "buggy_lines": []}
+{"program_name": "wrong_2_260.py", "buggy_lines": [5, 2, 8, 11, 9, 17, 14]}
+{"program_name": "wrong_2_261.py", "buggy_lines": [8, 11, 9, 5, 2, 17, 14, 3]}
+{"program_name": "wrong_2_262.py", "buggy_lines": [5, 2, 8, 11, 9, 17, 14]}
+{"program_name": "wrong_2_263.py", "buggy_lines": [8, 11, 9, 5, 2, 17, 14, 3]}
+{"program_name": "wrong_2_264.py", "buggy_lines": [16, 17, 13, 12, 11, 7, 8, 4, 3, 2, 5, 31, 28, 27, 26, 25, 23, 22, 21, 20, 14]}
+{"program_name": "wrong_2_265.py", "buggy_lines": [17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 24, 23, 22, 21, 20, 16, 14]}
+{"program_name": "wrong_2_266.py", "buggy_lines": [16, 17, 13, 12, 11, 7, 8, 4, 3, 2, 5, 31, 28, 27, 26, 25, 23, 22, 21, 20, 14]}
+{"program_name": "wrong_2_267.py", "buggy_lines": [19, 17, 15, 14, 13, 12, 9, 7, 5, 4, 3, 2, 8, 6, 28, 27, 26, 25, 24, 23, 22, 18, 16]}
+{"program_name": "wrong_2_268.py", "buggy_lines": [19, 17, 15, 14, 13, 12, 9, 7, 5, 4, 3, 2, 8, 6, 28, 27, 26, 25, 24, 23, 22, 18, 16]}
+{"program_name": "wrong_2_269.py", "buggy_lines": [17, 14, 13, 12, 11, 8, 5, 4, 3, 2, 6, 33, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 15]}
+{"program_name": "wrong_2_270.py", "buggy_lines": [20, 19, 17, 16, 15, 7, 6, 4, 3, 2, 9, 5, 32, 31, 30, 29, 28, 27, 26, 25, 22, 18]}
+{"program_name": "wrong_2_271.py", "buggy_lines": [17, 16, 14, 13, 12, 7, 6, 4, 3, 2, 9, 5, 29, 28, 27, 26, 25, 24, 23, 22, 19, 15]}
+{"program_name": "wrong_2_272.py", "buggy_lines": [17, 16, 14, 13, 12, 7, 6, 4, 3, 2, 9, 5, 29, 28, 27, 26, 25, 24, 23, 22, 19, 15]}
+{"program_name": "wrong_2_273.py", "buggy_lines": [9, 12, 11, 10, 5, 4, 3, 2, 18, 17, 16, 15]}
+{"program_name": "wrong_2_274.py", "buggy_lines": [17, 16, 14, 13, 12, 7, 6, 4, 3, 2, 9, 5, 29, 28, 27, 26, 25, 24, 23, 22, 19, 15]}
+{"program_name": "wrong_2_275.py", "buggy_lines": [17, 16, 14, 13, 12, 7, 6, 4, 3, 2, 9, 5, 29, 28, 27, 26, 25, 24, 23, 22, 19, 15]}
+{"program_name": "wrong_2_276.py", "buggy_lines": [22, 9, 6, 4, 3, 2, 5, 7, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_277.py", "buggy_lines": [11, 2, 8]}
+{"program_name": "wrong_2_278.py", "buggy_lines": [26, 6, 4, 3, 2, 7, 23, 22, 5, 19, 16, 14, 13, 12, 9, 24, 17, 15]}
+{"program_name": "wrong_2_279.py", "buggy_lines": [19, 16, 14, 13, 12, 9, 6, 4, 3, 2, 7, 5, 26, 24, 23, 22, 17, 15]}
+{"program_name": "wrong_2_280.py", "buggy_lines": [36, 34, 33, 32, 30, 7, 31, 29, 28, 27, 26, 25, 24, 23, 22, 9, 5, 6, 4, 3, 2, 35, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_281.py", "buggy_lines": [36, 34, 33, 32, 30, 7, 31, 29, 28, 27, 26, 25, 24, 23, 22, 9, 5, 6, 4, 3, 2, 35, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_282.py", "buggy_lines": [9, 8, 11, 10, 5, 4, 3, 21, 20, 2, 19, 18, 17, 16, 15, 14]}
+{"program_name": "wrong_2_283.py", "buggy_lines": [30, 28, 27, 26, 25, 24, 23, 22, 9, 6, 4, 3, 2, 7, 5, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_284.py", "buggy_lines": [4, 3, 2, 33, 32, 29, 28, 27, 26, 31, 23, 21, 20, 19, 17, 16, 15, 14]}
+{"program_name": "wrong_2_285.py", "buggy_lines": [4, 3, 2, 33, 32, 29, 28, 27, 26, 31, 16, 15, 14]}
+{"program_name": "wrong_2_286.py", "buggy_lines": [16, 15, 14, 9, 8, 7, 5, 4, 35, 34, 33, 32, 31, 3, 29, 28, 27, 26, 2, 11]}
+{"program_name": "wrong_2_287.py", "buggy_lines": [23, 20, 19, 16, 15, 14, 9, 8, 7, 5, 4, 35, 34, 33, 32, 31, 3, 29, 28, 27, 26, 2, 11]}
+{"program_name": "wrong_2_288.py", "buggy_lines": [26, 5, 4, 3, 2, 23, 20, 19, 16, 15, 14, 8, 7, 11]}
+{"program_name": "wrong_2_289.py", "buggy_lines": [5, 4, 3, 2, 20, 19, 18, 17, 16, 15, 14, 9, 8, 11, 10]}
+{"program_name": "wrong_2_290.py", "buggy_lines": [9, 8, 11, 10, 5, 4, 3, 21, 20, 2, 19, 18, 17, 16, 15, 14]}
+{"program_name": "wrong_2_291.py", "buggy_lines": [12, 9, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_292.py", "buggy_lines": [16, 9, 6, 5, 4, 3, 2, 13, 12, 11, 10]}
+{"program_name": "wrong_2_293.py", "buggy_lines": [25, 24, 21, 19, 18, 17, 16, 15, 12, 8, 6, 5, 4, 3, 2, 11, 9, 7, 39, 38, 37, 36, 35, 33, 32, 31, 30, 29, 28, 22, 20]}
+{"program_name": "wrong_2_294.py", "buggy_lines": []}
+{"program_name": "wrong_2_295.py", "buggy_lines": [12, 9, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_296.py", "buggy_lines": [12, 9, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_297.py", "buggy_lines": [9, 6, 5, 4, 3, 2, 19, 18, 17, 16, 13, 12, 11, 10]}
+{"program_name": "wrong_2_298.py", "buggy_lines": [26, 9, 8, 7, 5, 4, 3, 23, 21, 20, 2, 19, 17, 16, 15, 14, 11]}
+{"program_name": "wrong_2_299.py", "buggy_lines": []}
+{"program_name": "wrong_2_300.py", "buggy_lines": []}
+{"program_name": "wrong_2_301.py", "buggy_lines": [27, 24, 22, 9, 7, 6, 5, 4, 3, 25, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_302.py", "buggy_lines": [9, 12, 11, 10, 5, 4, 3, 2, 18, 17, 16, 15]}
+{"program_name": "wrong_2_303.py", "buggy_lines": [4, 3, 2, 12, 15, 13, 21, 18]}
+{"program_name": "wrong_2_304.py", "buggy_lines": [12, 15, 13, 21, 18, 9, 7, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_305.py", "buggy_lines": [6, 4, 3, 2, 5, 11, 14, 12, 20, 17, 7]}
+{"program_name": "wrong_2_306.py", "buggy_lines": [21, 18, 8, 7, 6, 5, 4, 3, 2, 15, 13, 12, 10]}
+{"program_name": "wrong_2_307.py", "buggy_lines": [16, 3, 2, 13]}
+{"program_name": "wrong_2_308.py", "buggy_lines": [24, 9, 7, 6, 5, 4, 3, 20, 2, 18, 17, 16, 15, 14, 13]}
+{"program_name": "wrong_2_309.py", "buggy_lines": [22, 8, 6, 5, 4, 3, 2, 17, 15, 14, 13, 12, 11]}
+{"program_name": "wrong_2_310.py", "buggy_lines": [21, 20, 19, 18, 17, 16, 9, 6, 5, 4, 3, 2, 13, 12, 11, 10]}
+{"program_name": "wrong_2_311.py", "buggy_lines": [17, 5, 14, 4, 3, 2, 8, 7, 11]}
+{"program_name": "wrong_2_312.py", "buggy_lines": [26, 5, 4, 3, 2, 23, 20, 19, 16, 15, 14, 8, 7, 11]}
+{"program_name": "wrong_2_313.py", "buggy_lines": [21, 20, 19, 18, 17, 16, 9, 6, 5, 4, 3, 2, 13, 12, 11, 10]}
+{"program_name": "wrong_2_314.py", "buggy_lines": [21, 20, 19, 18, 17, 16, 9, 6, 5, 4, 3, 2, 13, 12, 11, 10]}
+{"program_name": "wrong_2_315.py", "buggy_lines": [22, 9, 7, 6, 5, 4, 3, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_316.py", "buggy_lines": [4, 3, 2, 33, 32, 29, 28, 27, 26, 31, 23, 21, 20, 19, 17, 16, 15, 14]}
+{"program_name": "wrong_2_317.py", "buggy_lines": [9, 8, 7, 5, 4, 36, 34, 33, 32, 31, 3, 29, 28, 27, 26, 23, 21, 20, 2, 19, 17, 16, 15, 14, 11]}
+{"program_name": "wrong_2_318.py", "buggy_lines": [30, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 28, 9, 6, 5, 4, 3, 2, 13, 12, 11, 10]}
+{"program_name": "wrong_2_319.py", "buggy_lines": [17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 27, 26, 25, 24, 23, 22, 21, 20, 16, 14]}
+{"program_name": "wrong_2_320.py", "buggy_lines": [27, 26, 25, 24, 23, 22, 7, 5, 6, 4, 3, 2, 9, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_321.py", "buggy_lines": [17, 13, 12, 11, 8, 4, 3, 2, 7, 6, 5, 33, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 16, 15, 14]}
+{"program_name": "wrong_2_322.py", "buggy_lines": [46, 44, 34, 45, 42, 41, 40, 39, 38, 37, 36, 32, 31, 30, 29, 28, 7, 24, 20, 11, 21, 17, 16, 15, 8, 4, 3, 2, 9, 5, 48, 22, 18]}
+{"program_name": "wrong_2_323.py", "buggy_lines": [22, 7, 5, 6, 4, 3, 2, 17, 15, 16, 14, 13, 12, 9, 19]}
+{"program_name": "wrong_2_324.py", "buggy_lines": [22, 7, 5, 6, 4, 3, 2, 17, 15, 16, 14, 13, 12, 9, 19]}
+{"program_name": "wrong_2_325.py", "buggy_lines": [22, 17, 15, 16, 14, 13, 12, 9, 7, 6, 5, 4, 3, 2, 19]}
+{"program_name": "wrong_2_326.py", "buggy_lines": [22, 9, 7, 6, 5, 4, 3, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_327.py", "buggy_lines": [27, 24, 22, 9, 7, 6, 5, 4, 3, 23, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_328.py", "buggy_lines": [17, 6, 4, 3, 2, 15, 13, 12, 11, 7, 23, 22, 21, 20, 8, 5, 24, 16, 14]}
+{"program_name": "wrong_2_329.py", "buggy_lines": [9, 6, 4, 3, 2, 5, 25, 24, 23, 22, 21, 18, 16, 14, 13, 12, 17, 15]}
+{"program_name": "wrong_2_330.py", "buggy_lines": [18, 6, 4, 3, 2, 16, 14, 13, 12, 7, 24, 23, 22, 21, 8, 5, 25, 17, 15]}
+{"program_name": "wrong_2_331.py", "buggy_lines": []}
+{"program_name": "wrong_2_332.py", "buggy_lines": []}
+{"program_name": "wrong_2_333.py", "buggy_lines": [4, 3, 2, 28, 27, 26, 23, 21, 20, 19, 17, 16, 15, 14]}
+{"program_name": "wrong_2_334.py", "buggy_lines": [6, 5, 4, 3, 2, 36, 35, 33, 32, 31, 30, 29, 28, 25, 24, 21, 19, 18, 17, 16, 15, 22, 20]}
+{"program_name": "wrong_2_335.py", "buggy_lines": [6, 5, 4, 3, 2, 36, 35, 33, 32, 31, 30, 29, 28, 25, 24, 21, 19, 18, 17, 16, 15, 22, 20]}
+{"program_name": "wrong_2_336.py", "buggy_lines": [4, 3, 2, 25, 24, 23, 19, 16, 14, 13, 12, 17, 15]}
+{"program_name": "wrong_2_337.py", "buggy_lines": []}
+{"program_name": "wrong_2_338.py", "buggy_lines": []}
+{"program_name": "wrong_2_339.py", "buggy_lines": []}
+{"program_name": "wrong_2_340.py", "buggy_lines": []}
+{"program_name": "wrong_2_341.py", "buggy_lines": []}
+{"program_name": "wrong_2_342.py", "buggy_lines": []}
+{"program_name": "wrong_2_343.py", "buggy_lines": []}
+{"program_name": "wrong_2_344.py", "buggy_lines": []}
+{"program_name": "wrong_2_345.py", "buggy_lines": []}
+{"program_name": "wrong_2_346.py", "buggy_lines": []}
+{"program_name": "wrong_2_347.py", "buggy_lines": []}
+{"program_name": "wrong_2_348.py", "buggy_lines": []}
+{"program_name": "wrong_2_349.py", "buggy_lines": []}
+{"program_name": "wrong_2_350.py", "buggy_lines": []}
+{"program_name": "wrong_2_351.py", "buggy_lines": []}
+{"program_name": "wrong_2_352.py", "buggy_lines": []}
+{"program_name": "wrong_2_353.py", "buggy_lines": []}
+{"program_name": "wrong_2_354.py", "buggy_lines": []}
+{"program_name": "wrong_2_355.py", "buggy_lines": []}
+{"program_name": "wrong_2_356.py", "buggy_lines": []}
+{"program_name": "wrong_2_357.py", "buggy_lines": [17, 16, 15, 9, 10, 11, 12, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_358.py", "buggy_lines": [6, 4, 3, 2, 7, 23, 22, 21, 20, 5, 17, 15, 13, 12, 11, 8, 16, 14]}
+{"program_name": "wrong_2_359.py", "buggy_lines": [17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 27, 26, 24, 23, 22, 21, 20, 16, 14]}
+{"program_name": "wrong_2_360.py", "buggy_lines": [17, 16, 14, 13, 12, 7, 6, 4, 3, 2, 9, 5, 32, 30, 29, 28, 27, 26, 25, 24, 23, 22, 19, 15]}
+{"program_name": "wrong_2_361.py", "buggy_lines": [30, 27, 25, 24, 23, 9, 7, 6, 5, 4, 3, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_362.py", "buggy_lines": [27, 26, 25, 24, 23, 30, 28, 9, 7, 6, 5, 4, 3, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_363.py", "buggy_lines": [17, 8, 4, 3, 2, 5, 14, 7]}
+{"program_name": "wrong_2_364.py", "buggy_lines": [16, 7, 4, 3, 2, 5, 13]}
+{"program_name": "wrong_2_365.py", "buggy_lines": [16, 7, 4, 3, 2, 5, 13]}
+{"program_name": "wrong_2_366.py", "buggy_lines": [16, 13, 8, 7, 5, 4, 3, 2, 10]}
+{"program_name": "wrong_2_367.py", "buggy_lines": [22, 16, 14, 13, 12, 15, 9, 7, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_368.py", "buggy_lines": [22, 16, 14, 13, 12, 15, 9, 7, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_369.py", "buggy_lines": [22, 9, 7, 6, 5, 4, 3, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_370.py", "buggy_lines": [15, 12, 9, 7, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_371.py", "buggy_lines": [29, 28, 27, 26, 9, 8, 7, 6, 5, 4, 3, 23, 21, 20, 2, 19, 18, 17, 16, 15, 14, 11]}
+{"program_name": "wrong_2_372.py", "buggy_lines": [33, 32, 31, 30, 29, 28, 27, 26, 4, 3, 2, 9, 8, 7, 6, 5, 23, 21, 20, 19, 18, 17, 16, 15, 14, 11]}
+{"program_name": "wrong_2_373.py", "buggy_lines": [34, 33, 31, 30, 29, 28, 26, 25, 24, 7, 6, 4, 3, 2, 27, 9, 5, 20, 18, 17, 16, 15, 14, 13]}
+{"program_name": "wrong_2_374.py", "buggy_lines": [15, 12, 9, 7, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_375.py", "buggy_lines": [26, 25, 24, 9, 7, 6, 5, 4, 3, 20, 2, 18, 17, 16, 15, 14, 13]}
+{"program_name": "wrong_2_376.py", "buggy_lines": [26, 25, 24, 9, 7, 6, 5, 4, 3, 20, 2, 18, 17, 16, 15, 14, 13]}
+{"program_name": "wrong_2_377.py", "buggy_lines": [20, 17, 15, 14, 13, 9, 6, 4, 3, 2, 7, 5, 32, 30, 29, 28, 27, 26, 25, 24, 23, 18, 16]}
+{"program_name": "wrong_2_378.py", "buggy_lines": []}
+{"program_name": "wrong_2_379.py", "buggy_lines": []}
+{"program_name": "wrong_2_380.py", "buggy_lines": []}
+{"program_name": "wrong_2_381.py", "buggy_lines": [16, 13, 9, 6, 4, 3, 2, 7, 5]}
+{"program_name": "wrong_2_382.py", "buggy_lines": []}
+{"program_name": "wrong_2_383.py", "buggy_lines": []}
+{"program_name": "wrong_2_384.py", "buggy_lines": [20, 8, 7, 6, 5, 4, 3, 2, 17, 16, 15, 14, 13, 12, 11]}
+{"program_name": "wrong_2_385.py", "buggy_lines": [20, 17, 15, 14, 13, 9, 6, 4, 3, 2, 7, 5, 25, 24, 23, 18, 16]}
+{"program_name": "wrong_2_386.py", "buggy_lines": [22, 7, 17, 16, 14, 13, 12, 6, 4, 3, 2, 9, 5, 19, 15]}
+{"program_name": "wrong_2_387.py", "buggy_lines": [20, 17, 15, 14, 13, 9, 6, 4, 3, 2, 7, 5, 32, 30, 29, 28, 27, 26, 25, 24, 23, 18, 16]}
+{"program_name": "wrong_2_388.py", "buggy_lines": [22, 21, 20, 19, 18, 6, 7, 5, 4, 3, 2, 15, 14, 13, 12, 11, 10]}
+{"program_name": "wrong_2_389.py", "buggy_lines": [26, 16, 15, 14, 7, 11, 8, 4, 3, 2, 9, 5]}
+{"program_name": "wrong_2_390.py", "buggy_lines": [17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 16, 14]}
+{"program_name": "wrong_2_391.py", "buggy_lines": [26, 7, 23, 19, 11, 20, 16, 15, 14, 8, 4, 3, 2, 9, 5, 21, 17]}
+{"program_name": "wrong_2_392.py", "buggy_lines": [19, 16, 14, 13, 12, 9, 6, 4, 3, 2, 7, 5, 32, 31, 30, 28, 27, 26, 25, 24, 23, 22, 17, 15]}
+{"program_name": "wrong_2_393.py", "buggy_lines": [29, 28, 27, 25, 24, 23, 9, 7, 6, 5, 4, 3, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_394.py", "buggy_lines": [26, 25, 24, 23, 9, 7, 6, 5, 4, 3, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_395.py", "buggy_lines": [26, 25, 24, 23, 9, 7, 6, 5, 4, 3, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_396.py", "buggy_lines": []}
+{"program_name": "wrong_2_397.py", "buggy_lines": []}
+{"program_name": "wrong_2_398.py", "buggy_lines": [20, 17, 15, 14, 13, 9, 6, 4, 3, 2, 7, 5, 32, 30, 29, 28, 27, 26, 25, 24, 23, 18, 16]}
+{"program_name": "wrong_2_399.py", "buggy_lines": [42, 41, 40, 39, 36, 35, 34, 33, 32, 27, 26, 24, 23, 22, 21, 20, 38, 37, 28, 8, 7, 5, 4, 3, 2, 17, 16, 14, 13, 12, 11]}
+{"program_name": "wrong_2_400.py", "buggy_lines": [9, 32, 30, 29, 28, 27, 26, 25, 24, 23, 22, 4, 3, 2, 19, 14, 13, 12, 8, 6, 5, 18, 16, 15]}
+{"program_name": "wrong_2_401.py", "buggy_lines": []}
+{"program_name": "wrong_2_402.py", "buggy_lines": [12, 9, 4, 3, 2, 6]}
+{"program_name": "wrong_2_403.py", "buggy_lines": [19, 16, 9, 8, 6, 5, 4, 3, 2, 12, 10]}
+{"program_name": "wrong_2_404.py", "buggy_lines": [27, 24, 22, 9, 7, 6, 5, 4, 3, 25, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_405.py", "buggy_lines": [29, 9, 8, 6, 5, 4, 3, 26, 24, 23, 22, 20, 2, 19, 18, 17, 16, 12, 10]}
+{"program_name": "wrong_2_406.py", "buggy_lines": [39, 41, 31, 30, 10, 9, 8, 7, 5, 4, 3, 12, 35, 34, 33, 32, 25, 23, 22, 21, 19, 17, 16, 15]}
+{"program_name": "wrong_2_407.py", "buggy_lines": [14, 9, 13, 11, 10, 6, 4, 3, 2, 5, 25, 24, 23, 22, 21, 20, 19, 18, 16, 12]}
+{"program_name": "wrong_2_408.py", "buggy_lines": []}
+{"program_name": "wrong_2_409.py", "buggy_lines": [9, 13, 11, 10, 6, 4, 3, 2, 5, 23, 22, 21, 20, 19, 18, 17, 16, 12]}
+{"program_name": "wrong_2_410.py", "buggy_lines": []}
+{"program_name": "wrong_2_411.py", "buggy_lines": [9, 13, 11, 10, 6, 4, 3, 2, 5, 23, 22, 21, 20, 19, 18, 17, 16, 12]}
+{"program_name": "wrong_2_412.py", "buggy_lines": [27, 24, 22, 9, 7, 6, 5, 4, 3, 25, 2, 19, 17, 16, 15, 14, 13, 12]}
+{"program_name": "wrong_2_413.py", "buggy_lines": [17, 9, 4, 10, 3, 2, 13, 11, 6]}
+{"program_name": "wrong_2_414.py", "buggy_lines": [17, 16, 14, 13, 12, 7, 6, 4, 3, 2, 9, 5, 32, 30, 29, 28, 27, 26, 25, 24, 23, 22, 19, 15]}
+{"program_name": "wrong_2_415.py", "buggy_lines": [19, 16, 14, 13, 12, 9, 6, 4, 3, 2, 7, 5, 30, 28, 27, 26, 25, 24, 23, 22, 17, 15]}
+{"program_name": "wrong_2_416.py", "buggy_lines": [39, 41, 31, 30, 10, 9, 8, 7, 5, 4, 3, 12, 35, 34, 33, 32, 25, 23, 22, 21, 19, 17, 16, 15]}
+{"program_name": "wrong_2_417.py", "buggy_lines": [20, 8, 7, 5, 4, 3, 2, 17, 16, 14, 13, 12, 11]}
+{"program_name": "wrong_2_418.py", "buggy_lines": [12, 9, 6, 3, 2]}
+{"program_name": "wrong_2_419.py", "buggy_lines": [20, 8, 7, 5, 4, 3, 2, 17, 16, 14, 13, 12, 11]}
+{"program_name": "wrong_2_420.py", "buggy_lines": [39, 35, 37, 29, 27, 25, 9, 7, 55, 53, 51, 5, 49, 47, 43, 31, 3, 21, 17, 15, 13]}
+{"program_name": "wrong_2_421.py", "buggy_lines": []}
+{"program_name": "wrong_2_422.py", "buggy_lines": [19, 16, 14, 13, 12, 9, 7, 6, 5, 4, 30, 3, 28, 27, 26, 25, 24, 23, 22, 21, 2, 17, 15]}
+{"program_name": "wrong_2_423.py", "buggy_lines": [19, 16, 14, 13, 12, 9, 7, 6, 5, 4, 30, 3, 28, 27, 26, 25, 24, 23, 22, 21, 2, 17, 15]}
+{"program_name": "wrong_2_424.py", "buggy_lines": [19, 16, 14, 13, 12, 9, 7, 6, 5, 4, 30, 3, 28, 27, 26, 25, 24, 23, 22, 21, 2, 17, 15]}
+{"program_name": "wrong_2_425.py", "buggy_lines": [19, 16, 14, 13, 12, 9, 6, 4, 3, 2, 7, 5, 30, 28, 27, 26, 25, 24, 23, 22, 21, 17, 15]}
+{"program_name": "wrong_2_426.py", "buggy_lines": [17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 28, 27, 26, 25, 24, 23, 22, 21, 20, 16, 14]}
+{"program_name": "wrong_2_427.py", "buggy_lines": [20, 9, 7, 6, 5, 4, 3, 2, 18, 16, 15, 14, 13, 12, 11]}
+{"program_name": "wrong_2_428.py", "buggy_lines": [13, 10, 6, 5, 4, 3, 2]}
+{"program_name": "wrong_2_429.py", "buggy_lines": [19, 16, 15, 14, 13, 12, 9, 6, 5, 4, 3, 2, 8, 29, 25, 24, 23, 22, 18]}
+{"program_name": "wrong_2_430.py", "buggy_lines": [7, 23, 19, 11, 20, 16, 15, 14, 8, 4, 3, 2, 9, 5, 43, 41, 40, 39, 37, 36, 35, 33, 31, 30, 29, 28, 27, 26, 21, 17]}
+{"program_name": "wrong_2_431.py", "buggy_lines": [27, 24, 22, 21, 20, 23, 8, 17, 15, 13, 12, 11, 6, 4, 3, 2, 7, 5, 16, 14]}
+{"program_name": "wrong_2_432.py", "buggy_lines": [27, 24, 22, 21, 20, 17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 23, 16, 14]}
+{"program_name": "wrong_2_433.py", "buggy_lines": [17, 15, 13, 12, 11, 8, 6, 4, 3, 2, 7, 5, 28, 27, 26, 25, 24, 23, 22, 21, 20, 16, 14]}
+{"program_name": "wrong_2_434.py", "buggy_lines": [8, 2, 5]}
+{"program_name": "wrong_2_435.py", "buggy_lines": [9, 8, 6, 5, 4, 3, 22, 20, 2, 19, 18, 17, 16, 15, 14, 12, 11, 10]}

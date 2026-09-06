@@ -1,0 +1,16 @@
+When a fixed-term deposit of an amount q is made with an interest rate j (0 < j < 1), the value of the deposit after n years is given by:
+
+q * (1 + j)^n
+
+Write the function lab5ex7a that receives:
+- a positive integer q corresponding to the deposited amount
+- a decimal j in the interval ]0,1[ corresponding to the interest rate
+- a positive integer n corresponding to the number of years
+
+The function should validate the arguments and return the value of the deposit after n years.
+If the arguments are invalid, it should raise an error.
+
+For example:
+
+lab5ex7a(100, 0.03, 4)
+112.55088100000002

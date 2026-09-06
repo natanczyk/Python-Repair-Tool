@@ -1,0 +1,2 @@
+Write the function lab5ex1 that returns the value True if its argument is 5 and False otherwise.
+You may not use an if statement.

@@ -1,0 +1,16 @@
+Write the function lab9ex5 that receives a dictionary mapping person names to tuples (sex, age, height_cm, weight_kg), and returns a dictionary mapping each name to their basal metabolic rate (BMR) calculated using the Harris-Benedict formula.
+
+The formulas are:
+  - Male:   BMR = 66 + 6.3 * weight + 12.9 * height + 6.8 * age
+  - Female: BMR = 655 + 4.3 * weight + 4.7 * height + 4.7 * age
+
+Where sex is 'M' for male and 'F' for female.
+
+For example:
+
+d = {
+    'Maria': ('F', 34, 1.65, 64),
+    'Pedro': ('M', 34, 1.65, 64)
+}
+lab9ex5(d)
+{'Maria': 1097.755, 'Pedro': 721.685}

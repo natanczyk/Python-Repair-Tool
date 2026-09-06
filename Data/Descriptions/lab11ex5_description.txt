@@ -1,0 +1,12 @@
+Using the higher-order list functions lab11ex4a (filter), lab11ex4b (map), and lab11ex4c (reduce) from exercise 4, write the function lab11ex5 that receives a list of integers and returns the sum of the squares of its odd elements.
+
+Your function must contain only one instruction: the return statement.
+
+No input validation is required.
+
+For example:
+
+lab11ex5([1, 2, 3, 4, 5, 6])
+35
+
+Explanation: odd elements are [1, 3, 5], their squares are [1, 9, 25], sum = 35.

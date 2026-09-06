@@ -1,0 +1,14 @@
+Write the function lab9ex10b that receives a rational number represented as a dictionary with keys 'n' (numerator) and 'd' (denominator), and returns a string representation of the rational number.
+
+If the denominator is 1, return only the numerator as a string. Otherwise return the string 'n/d'.
+
+For example:
+
+lab9ex10b({'n': 2, 'd': 3})
+'2/3'
+
+lab9ex10b({'n': 5, 'd': 1})
+'5'
+
+lab9ex10b({'n': 0, 'd': 1})
+'0'

@@ -1,0 +1,1 @@
+s = "wordgoodgoodgoodbestword", words = ["word","good","best","word"]

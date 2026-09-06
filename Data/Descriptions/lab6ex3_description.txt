@@ -1,0 +1,11 @@
+Write the function lab6ex3 that receives a tuple containing digits, validating the correctness of its argument, and returns the integer containing the digits of the tuple in the same order.
+
+For example:
+
+lab6ex3((3, 4, 0, 0, 4))
+34004
+
+lab6ex3((2, 'a', 5))
+ValueError: lab6ex3: element is not a digit
+
+Write two versions of your function: one using a while loop and one using a for loop.

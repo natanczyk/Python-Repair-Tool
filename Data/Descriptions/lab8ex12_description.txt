@@ -1,0 +1,12 @@
+Define the function lab8ex12 that receives two lists p and s (both lists of integers) and returns True if the pattern p occurs anywhere in the sequence s (as a prefix, suffix, or infix), and False otherwise.
+
+For example:
+
+lab8ex12([1, 2, 3], [2, 1, 2, 3, 4, 5])
+True
+
+lab8ex12([4, 3, 4], [2, 1, 4, 2, 3, 4, 5])
+False
+
+lab8ex12([5, 2, 7], [5, 2, 7])
+True

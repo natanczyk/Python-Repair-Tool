@@ -1,0 +1,14 @@
+def top_k(lst, k):
+    lst = sort_descending(lst)
+    return lst[:k]
+    
+
+def sort_descending(lst):
+    # Using a simple selection sort to sort the list in descending order
+    for i in range(len(lst)):
+        for j in range(i + 1, len(lst)):
+            if lst[j] > lst[i]:
+                x = lst[i]
+                lst[i] = lst[j]
+                lst[j] = x
+    return lst

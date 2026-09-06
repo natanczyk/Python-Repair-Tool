@@ -1,0 +1,15 @@
+Write the function lab8ex9 that receives:
+- a list (which may contain sublists at any depth)
+- a number
+
+and returns the number of times the number occurs in the list and in all of its sublists recursively.
+
+Input validation is not required.
+
+For example:
+
+lab8ex9([1, 2, 3, 4, 3], 3)
+2
+
+lab8ex9([1, [[[1]], 2], [[[2]]], 2], 2)
+3

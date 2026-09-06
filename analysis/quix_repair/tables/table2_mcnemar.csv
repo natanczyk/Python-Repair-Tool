@@ -1,0 +1,9 @@
+Model,n,fauxpy vs none,best_loc vs none,self_llm vs none
+Qwen2.5,40,"-4 (p=1.2e-01, ns)","+2 (p=6.2e-01, ns)","-3 (p=4.5e-01, ns)"
+Qwen3.6,40,"-3 (p=2.5e-01, ns)","-2 (p=6.2e-01, ns)","=0 (p=1.0e+00, ns)"
+Qwen3Coder,40,"+2 (p=5.0e-01, ns)","+4 (p=2.2e-01, ns)","+5 (p=6.2e-02, ns)"
+Gemma4,40,"+4 (p=1.2e-01, ns)","+3 (p=3.8e-01, ns)","+3 (p=3.8e-01, ns)"
+Granite4,40,"-2 (p=5.0e-01, ns)","=0 (p=1.0e+00, ns)","-2 (p=5.0e-01, ns)"
+CodeGemma,40,"-1 (p=1.0e+00, ns)","+6 (p=3.1e-02, *)","-6 (p=7.0e-02, ns)"
+GraniteCode,40,"=0 (p=1.0e+00, ns)","+12 (p=4.9e-04, ***)","-4 (p=1.2e-01, ns)"
+CodeLlama,40,"-2 (p=6.2e-01, ns)","+10 (p=2.0e-03, **)","-3 (p=4.5e-01, ns)"

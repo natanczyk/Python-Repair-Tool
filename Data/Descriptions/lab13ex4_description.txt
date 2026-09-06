@@ -1,0 +1,23 @@
+Using only recursion (no loops, no multiplication operator *), define the function lab13ex4 that receives a natural number a, a natural number b, and a non-negative integer n, and returns the value b + n * a.
+
+The function must compute multiplication through repeated addition.
+
+Base case: when n = 0, return b.
+Recursive case: return lab13ex4(a, b + a, n - 1).
+
+For example:
+
+lab13ex4(3, 2, 5)
+17
+
+lab13ex4(1, 0, 5)
+5
+
+lab13ex4(0, 5, 3)
+5
+
+lab13ex4(2, 3, 0)
+3
+
+lab13ex4(4, 4, 4)
+20

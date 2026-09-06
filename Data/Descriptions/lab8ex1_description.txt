@@ -1,0 +1,6 @@
+Write the function lab8ex1 that receives a string and returns the list containing the Unicode codes of each character in the string.
+
+For example:
+
+lab8ex1('bom dia')
+[98, 111, 109, 32, 100, 105, 97]

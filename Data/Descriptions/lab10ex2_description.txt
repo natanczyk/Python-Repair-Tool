@@ -1,0 +1,10 @@
+Write the function lab10ex2 that receives a string containing the name of a file, reads the file line by line, and counts how many times each vowel appears.
+
+Your function should return a dictionary whose keys are the lowercase vowels ('a', 'e', 'i', 'o', 'u') and whose values correspond to the number of occurrences of each vowel in the file.
+
+Only lowercase vowels should be counted. Uppercase vowels and consonants are ignored.
+
+For example:
+
+lab10ex2('testevogais.txt')
+{'a': 36, 'u': 19, 'e': 45, 'i': 16, 'o': 28}

@@ -1,0 +1,11 @@
+Write the function lab11ex3a that receives a positive integer n and a function fn of one integer argument, and returns the sum of all function values fn(1) + fn(2) + ... + fn(n).
+
+The function must use a for loop. It does not validate its arguments and does not use higher-order functions over lists.
+
+For example:
+
+lab11ex3a(4, lambda x: x * x)
+30
+
+lab11ex3a(4, lambda x: x + 1)
+14

@@ -1,0 +1,9 @@
+Define the function lab5ex11 that receives a natural number as argument and returns the average of its digits.
+
+For example:
+
+lab5ex11(123)
+2.0
+
+lab5ex11(100)
+0.3333333333333333

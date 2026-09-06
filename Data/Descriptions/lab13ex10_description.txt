@@ -1,0 +1,23 @@
+Using only recursion (no loops, no built-in max function), define the function lab13ex10 that receives a non-empty list and returns its maximum element.
+
+The function is only defined for non-empty lists.
+
+For example:
+
+lab13ex10([1])
+1
+
+lab13ex10([3, 1, 4, 1, 5, 9, 2, 6])
+9
+
+lab13ex10([-1, -2, -3])
+-1
+
+lab13ex10([5, 5, 5])
+5
+
+lab13ex10([1, 2, 3, 4, 5])
+5
+
+lab13ex10([5, 4, 3, 2, 1])
+5

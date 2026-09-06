@@ -1,0 +1,17 @@
+Write the function lab10ex3 that receives the names of two files, f1 and f2, and writes into file f2 the contents of file f1 in reverse order: the first line of f1 becomes the last line of f2, and so on.
+
+For example, if file fich1 contains:
+
+Line 1
+Line 2
+Line 3
+
+then:
+
+lab10ex3('fich1', 'fich2')
+
+produces file fich2 containing:
+
+Line 3
+Line 2
+Line 1
